@@ -16,3 +16,8 @@
   - Find: `</sec>\s*(<l>(\d{1,2}\.\d).+?)<sec`
   - Replace: `</sec><sec id="\2">\1</sec><sec`
     - Leaves off the last instance.
+- Cleaning up the footnotes:
+  - Find: `(<note n="\d{1,2}").*(>)`
+  - Replace: `\1\2`
+  - Find: `<l rend="footnote text">(.*)</l>`
+  - Replace: `<ft>\1</ft>`

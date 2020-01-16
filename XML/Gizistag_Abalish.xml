@@ -9,80 +9,82 @@
          <l>pad nām ī yazdān ī kerbakkarān<pg fol="K20_148v"/>
          </l>
          <gloss>
-            <gram>!<!-- Grammatical gloss --> </gram>
-            <hist> <!-- Historical gloss --></hist>
+            <gram>!<!-- Grammatical gloss -->
+            </gram>
+            <hist>
+               <!-- Historical gloss --></hist>
          </gloss>
       </sec>
       <sec id="1.1">
          <sec id="1.1">
             <l>1.1 ēdon gōwēnd kū</l>
-            <l>gizistag Abāliš<note n="1" place="foot" xml:id="ftn1">
-                  <l rend="footnote text"> K &lt;’b’ł’&gt;.</l>
-               </note> ī zandīg<note n="2" place="foot" xml:id="ftn2">
-                  <l rend="footnote text"> K &lt;zn'ŶYk'&gt;</l>
+            <l>gizistag Abāliš<note n="1">
+                  <ft> K &lt;’b’ł’&gt;.</ft>
+               </note> ī zandīg<note n="2">
+                  <ft> K &lt;zn'ŶYk'&gt;</ft>
                </note> az Staxr būd mard ī weh ruwān-dōst būd</l>
             <l>ud rōz-ēw gursag tišnag ō ātaxš-gāh ī Pušt mad kū wāz gīram</l>
-            <l>ānōh kas nē būd<note n="3" place="foot" xml:id="ftn3">
-                  <l rend="footnote text"> K &lt;-WN<hi rend="strikethrough">y</hi>t&gt;.</l>
-               </note> kē wāz dād hē<note n="4" place="foot" xml:id="ftn4">
-                  <l rend="footnote text"> K &lt;HWE’&gt;</l>
+            <l>ānōh kas nē būd<note n="3">
+                  <ft> K &lt;-WN<hi rend="strikethrough">y</hi>t&gt;.</ft>
+               </note> kē wāz dād hē<note n="4">
+                  <ft> K &lt;HWE’&gt;</ft>
                </note> ud bērōn bē mad</l>
          </sec>
       </sec>
       <sec id="1.2">
-         <l>1.2 ud mard-ēw kē Xešm<note n="5" place="foot" xml:id="ftn5">
-               <l rend="footnote text"> K &lt;hyšm&gt; +.</l>
-            </note> pad tan mehmān<note n="6" place="foot" xml:id="ftn6">
-               <l rend="footnote text"> K &lt;mhm-&gt;.</l>
+         <l>1.2 ud mard-ēw kē Xešm<note n="5">
+               <ft> K &lt;hyšm&gt; +.</ft>
+            </note> pad tan mehmān<note n="6">
+               <ft> K &lt;mhm-&gt;.</ft>
             </note> būd padīrag āmad</l>
          <l>u-š guft kū čē abāyēd ēn warzīdan ud pad ān ī mardōm<note n="7" place="foot"
                xml:id="ftn7">
-               <l rend="footnote text"> K &lt;mltwm&gt;.</l>
+               <ft> K &lt;mltwm&gt;.</ft>
             </note> nēkīh kāmag būdan</l>
          <l>kē mard-ēw ī čiyōn tō frāz rasīd u-š wāz-ēw nē dahēnd ud sust ud xwār ud anāzarm
             dārēnd</l>
       </sec>
       <sec id="2.1">
-         <l>2.1 Abāliš<note n="8" place="foot" xml:id="ftn8">
-               <l rend="footnote text"> K &lt;’b’ły’&gt; +.</l>
-            </note> fradom dēn Ohrmazd nām<note n="9" place="foot" xml:id="ftn9">
-               <l rend="footnote text"> K &lt;y’m&gt;.</l>
-            </note> būd u-š menišn wišuft<note n="10" place="foot" xml:id="ftn10">
-               <l rend="footnote text"> K &lt;šwpt'&gt; bol.</l>
+         <l>2.1 Abāliš<note n="8">
+               <ft> K &lt;’b’ły’&gt; +.</ft>
+            </note> fradom dēn Ohrmazd nām<note n="9">
+               <ft> K &lt;y’m&gt;.</ft>
+            </note> būd u-š menišn wišuft<note n="10">
+               <ft> K &lt;šwpt'&gt; bol.</ft>
             </note> ud Xešm andar tan dwārīst</l>
-         <l>u-š menišn az kār kerbag <note n="11" place="foot" xml:id="ftn11">
-               <l rend="footnote text"> Not K bol.</l>
+         <l>u-š menišn az kār kerbag <note n="11">
+               <ft> Not K bol.</ft>
             </note>
             <hi style="font-family:Symbol">
                <seg style="font-family:Symbol;">⎧</seg>
             </hi> yazišn ī yazdān kerdan <hi style="font-family:Symbol">
                <seg style="font-family:Symbol;"></seg>
             </hi> abāz dāšt</l>
-         <l>ō hāmōyēn<note n="12" place="foot" xml:id="ftn12">
-               <l rend="footnote text"> K &lt;hym-&gt; +.</l>
+         <l>ō hāmōyēn<note n="12">
+               <ft> K &lt;hym-&gt; +.</ft>
             </note> dānāgān ī weh-dēnān ud Tāzīgān ud Yahūdagān Tarsāgān ī Pārs ēranǰēnīd</l>
       </sec>
       <sec id="2.2">
-         <l>2.2 ud rāh ō Baγdād<note n="13" place="foot" xml:id="ftn13">
-               <l rend="footnote text"> K &lt;bγd’t'&gt;.</l>
-            </note> ud dar ī Māmūn Amīr<note n="14" place="foot" xml:id="ftn14">
-               <l rend="footnote text"> K w +.</l>
+         <l>2.2 ud rāh ō Baγdād<note n="13">
+               <ft> K &lt;bγd’t'&gt;.</ft>
+            </note> ud dar ī Māmūn Amīr<note n="14">
+               <ft> K w +.</ft>
             </note> Mūminīn grift</l>
-         <l>ud Māmūn Amīr ī Mūminīn framūd kū<note n="15" place="foot" xml:id="ftn15">
-               <l rend="footnote text"> K + f.st. &lt;<hi rend="strikethrough">hmw</hi>&gt;.</l>
+         <l>ud Māmūn Amīr ī Mūminīn framūd kū<note n="15">
+               <ft> K + f.st. &lt;<hi rend="strikethrough">hmw</hi>&gt;.</ft>
             </note>
          </l>
-         <l>hāmōyēn dānāgān ī xwēš ud ān-iz<note n="16" place="foot" xml:id="ftn16">
-               <l rend="footnote text"> K &lt;ZKyc&gt;.</l>
-            </note> ī Yahūdagān ud<note n="17" place="foot" xml:id="ftn17">
-               <l rend="footnote text"> K in fold.</l>
-            </note> tarsāgan ō pēš<note n="18" place="foot" xml:id="ftn18">
-               <l rend="footnote text"> K &lt;LOYN'&gt;.</l>
+         <l>hāmōyēn dānāgān ī xwēš ud ān-iz<note n="16">
+               <ft> K &lt;ZKyc&gt;.</ft>
+            </note> ī Yahūdagān ud<note n="17">
+               <ft> K in fold.</ft>
+            </note> tarsāgan ō pēš<note n="18">
+               <ft> K &lt;LOYN'&gt;.</ft>
             </note> xwāst hēnd</l>
       </sec>
       <sec id="2.3">
-         <l>2.3 <note n="19" place="foot" xml:id="ftn19">
-               <l rend="footnote text"> Not K.</l>
+         <l>2.3 <note n="19">
+               <ft> Not K.</ft>
             </note>
             <hi style="font-family:Symbol">
                <seg style="font-family:Symbol;">⎧</seg>
@@ -97,8 +99,8 @@
          </l>
       </sec>
       <sec id="3.2">
-         <l>3.2 ud Abāliš guft kū mowbed nazdist tō pursē<note n="20" place="foot" xml:id="ftn20">
-               <l rend="footnote text"> K &lt;pwryy’y&gt;.</l>
+         <l>3.2 ud Abāliš guft kū mowbed nazdist tō pursē<note n="20">
+               <ft> K &lt;pwryy’y&gt;.</ft>
             </note> ayāb man</l>
          <l>mowbed guft kū tō purs tā man wizārom o</l>
       </sec>
@@ -107,29 +109,29 @@
          <l>mowbed guft kū Ohrmazd o</l>
       </sec>
       <sec id="4.2">
-         <l>4.2 Abāliš guft kū pas čim āgenēn zadār<note n="21" place="foot" xml:id="ftn21">
-               <l rend="footnote text"> K &lt;’kn[yn zt]l&gt;.</l>
-            </note> ud ōzadār<note n="22" place="foot" xml:id="ftn22">
-               <l rend="footnote text"> K &lt;’p̄zt’l&gt;.</l>
+         <l>4.2 Abāliš guft kū pas čim āgenēn zadār<note n="21">
+               <ft> K &lt;’kn[yn zt]l&gt;.</ft>
+            </note> ud ōzadār<note n="22">
+               <ft> K &lt;’p̄zt’l&gt;.</ft>
             </note> hēnd</l>
          <l>mowbed [guft] kū <pg fol="K20_149r"/> āgāh dānišnīg bawēd kū</l>
-         <l>ēč-iš nēst kē<note n="23" place="foot" xml:id="ftn23">
-               <l rend="footnote text"> K y + sup. &lt;MNW&gt;.</l>
+         <l>ēč-iš nēst kē<note n="23">
+               <ft> K y + sup. &lt;MNW&gt;.</ft>
             </note> Ohrmazd xwadāy frāz dād o ud gizistag Ahrimen ī druwand petyārag awiš nē <hi
                rend="color(3366FF)">burd</hi>
-            <note n="24" place="foot" xml:id="ftn24">
-               <l rend="footnote text"> K &lt;-WNt&gt;.</l>
+            <note n="24">
+               <ft> K &lt;-WNt&gt;.</ft>
             </note> {estēd}</l>
-         <l>ō āb ud ātaxš ud āb xwēdīh ud ātaxš sōzāgīh<note n="25" place="foot" xml:id="ftn25">
-               <l rend="footnote text"> K &lt;-c’-yh&gt;.</l>
+         <l>ō āb ud ātaxš ud āb xwēdīh ud ātaxš sōzāgīh<note n="25">
+               <ft> K &lt;-c’-yh&gt;.</ft>
             </note>
          </l>
       </sec>
       <sec id="4.3">
          <l>4.3 ud ka ō ham rasēnd ān druz ī abāg ātaxš ō āb rasēd</l>
          <l>homānāg pid ud pus kē-šān harw ēk dušmen-ēw ast (ī) griftār dārēnd</l>
-         <l>ka ō ham rasand<note n="26" place="foot" xml:id="ftn26">
-               <l rend="footnote text"> K &lt;ls̤nd&gt;.</l>
+         <l>ka ō ham rasand<note n="26">
+               <ft> K &lt;ls̤nd&gt;.</ft>
             </note> ān dušmen ī abāg pidar ō pusar zanēd nē šāyēd guftan kū pid ō pus ī xwēs zanišn
             kerd</l>
       </sec>
@@ -139,29 +141,29 @@
       </sec>
       <sec id="5.1">
          <l>5.1 gizistag Abāliš {didīgar} ēn pursīd kū</l>
-         <l>āb ud ātaxš sōzāg ka-šān zanēnd wināh wēš hē<note n="27" place="foot" xml:id="ftn27">
-               <l rend="footnote text"> K &lt;HWE’y&gt;.</l>
+         <l>āb ud ātaxš sōzāg ka-šān zanēnd wināh wēš hē<note n="27">
+               <ft> K &lt;HWE’y&gt;.</ft>
             </note> az ān kē-šān nasāy awiš {barēnd} pad gyāg bē mānēd o</l>
       </sec>
       <sec id="5.2">
          <l>5.2 mowbed guft kū</l>
          <l>āb ud ātaxš homānāg čiyōn gāw-ēw ayāb asp kē az ramag ī xwēš berōn bē āwarēnd ō ramag
-               gōspandān<note n="28" place="foot" xml:id="ftn28">
-               <l rend="footnote text"> K &lt;KYNA’n&gt;.</l>
+               gōspandān<note n="28">
+               <ft> K &lt;KYNA’n&gt;.</ft>
             </note>
             <hi rend="color(3366FF)">barēnd</hi>
-            <note n="29" place="foot" xml:id="ftn29">
-               <l rend="footnote text"> K &lt;-WNd&gt; +.</l>
-            </note> ud ānōh giyāh<note n="30" place="foot" xml:id="ftn30">
-               <l rend="footnote text"> K &lt;yb’h&gt;.</l>
+            <note n="29">
+               <ft> K &lt;-WNd&gt; +.</ft>
+            </note> ud ānōh giyāh<note n="30">
+               <ft> K &lt;yb’h&gt;.</ft>
             </note> xwarišn windēd pānāgīh az-iš <hi rend="color(3366FF)">kunēnd</hi>
-            <note n="31" place="foot" xml:id="ftn31">
-               <l rend="footnote text"> K &lt;-WNd&gt; +.</l>
+            <note n="31">
+               <ft> K &lt;-WNd&gt; +.</ft>
             </note>
          </l>
          <l>ud ka nasāy awiš <hi rend="color(3366FF)">barēnd</hi> čiyōn ka-š ō ramag ī šagrān gurgān
-            (ī) awēšān zanēnd ud ōzanēnd<note n="32" place="foot" xml:id="ftn32">
-               <l rend="footnote text"> K &lt;ZK-&gt;.</l>
+            (ī) awēšān zanēnd ud ōzanēnd<note n="32">
+               <ft> K &lt;ZK-&gt;.</ft>
             </note> bē ōbārēnd</l>
       </sec>
       <sec id="5.3">
@@ -169,21 +171,21 @@
       </sec>
       <sec id="6.1">
          <l>6.1 sidīgar {ēn} pursīd kū</l>
-         <l>zaxm<note n="33" place="foot" xml:id="ftn33">
-               <l rend="footnote text"> K &lt;z’hm&gt; +.</l>
+         <l>zaxm<note n="33">
+               <ft> K &lt;z’hm&gt; +.</ft>
             </note> pādifrāh ī pad mardōm <pg fol="K20_149v"/> Ohrmazd framāyēd ayāb Ahrimen</l>
-         <l>čē ēn kū zanišn ud ōzanišn<note n="34" place="foot" xml:id="ftn34">
-               <l rend="footnote text"> K &lt;ZK-&gt;.</l>
+         <l>čē ēn kū zanišn ud ōzanišn<note n="34">
+               <ft> K &lt;ZK-&gt;.</ft>
             </note> ud zaxm ud pādifrāh</l>
          <l>ēg-išān xwadāyān {kū} pad wināh (ī) mardōmān gīrēnd ud dast burrēnd<note n="35"
                place="foot" xml:id="ftn35">
-               <l rend="footnote text"> K &lt;bwlynd&gt;.</l>
+               <ft> K &lt;bwlynd&gt;.</ft>
             </note> pad čōb zanēnd</l>
          <l>ēg-išān framān ī Ahrimen kerd bawēd</l>
-         <l>ēn kū-šān mardōm<note n="36" place="foot" xml:id="ftn36">
-               <l rend="footnote text"> K &lt;mltwm&gt;.</l>
+         <l>ēn kū-šān mardōm<note n="36">
+               <ft> K &lt;mltwm&gt;.</ft>
             </note> kē-šān Ohrmazd pādifrāh <hi rend="color(3366FF)">kunēd</hi>
-            <note n="37" place="foot" xml:id="ftn37">
+            <note n="37">
                <l rend="footnote text"> K &lt;WĄYWNyt&gt;. – + f.st. &lt;<hi rend="strikethrough"
                      >HT</hi>&gt;.</l>
             </note> pad kadām xrad sazēd wurrōyistan</l>
@@ -191,35 +193,35 @@
       </sec>
       <sec id="6.2">
          <l>6.2 mowbed guft kū</l>
-         <l>dādestān ēn ōwōn homānāg čiyōn frazend-ēw<note n="38" place="foot" xml:id="ftn38">
-               <l rend="footnote text"> K &lt;prznd-&gt; +.</l>
+         <l>dādestān ēn ōwōn homānāg čiyōn frazend-ēw<note n="38">
+               <ft> K &lt;prznd-&gt; +.</ft>
             </note> ka angust-ēw mār gazēd</l>
-         <l>ud pidar pad ēn kū tā hamāg tan zahr nē rasēd<note n="39" place="foot" xml:id="ftn39">
-               <l rend="footnote text"> K &lt;lyyyt&gt; eol.</l>
+         <l>ud pidar pad ēn kū tā hamāg tan zahr nē rasēd<note n="39">
+               <ft> K &lt;lyyyt&gt; eol.</ft>
             </note> frazend nē mīrād angust ī frazend brīnēd</l>
          <l>pidar rāy nē a-dān ud dušmen abāyēd dāštan bē pad dānāg ud dōst</l>
-         <l>bē ham-gōnag mowbedān ud dastwarān<note n="40" place="foot" xml:id="ftn40">
-               <l rend="footnote text"> K &lt;Yyyt-&gt;.</l>
+         <l>bē ham-gōnag mowbedān ud dastwarān<note n="40">
+               <ft> K &lt;Yyyt-&gt;.</ft>
             </note> ud dādwarān</l>
       </sec>
       <sec id="6.3">
          <l>6.3 ud ka xwad mardōmān wināh <hi rend="color(3366FF)">kunēnd</hi> ruwān rēš <hi
                rend="color(3366FF)">kunēnd</hi> ud rāh (ī) pahlom axwān bandēnd</l>
-         <l>ǰādag ī ān rāy kū-šān ruwān ō dast dēwān<note n="41" place="foot" xml:id="ftn41">
-               <l rend="footnote text"> K &lt;ŠAAA’K20n'&gt;.</l>
-            </note> ud druzān ma rasād gētīyīhā<note n="42" place="foot" xml:id="ftn42">
-               <l rend="footnote text"> K &lt;-tyD / yh’&gt;.</l>
+         <l>ǰādag ī ān rāy kū-šān ruwān ō dast dēwān<note n="41">
+               <ft> K &lt;ŠAAA’K20n'&gt;.</ft>
+            </note> ud druzān ma rasād gētīyīhā<note n="42">
+               <ft> K &lt;-tyD / yh’&gt;.</ft>
             </note> pādīfrāh <hi rend="color(3366FF)">kunēnd</hi>
          </l>
-         <l>nē pad a-dān ud dušmen bē pad<note n="43" place="foot" xml:id="ftn43">
-               <l rend="footnote text"> K &lt;PWN / PWN&gt;.</l>
+         <l>nē pad a-dān ud dušmen bē pad<note n="43">
+               <ft> K &lt;PWN / PWN&gt;.</ft>
             </note> dōst ud nēkīh kāmag abāyēd dāštan</l>
       </sec>
       <sec id="6.4">
-         <l>6.4 Māmūn ud kādīg<note n="44" place="foot" xml:id="ftn44">
-               <l rend="footnote text"> K &lt;k’ŝk&gt;.</l>
-            </note> abd<note n="45" place="foot" xml:id="ftn45">
-               <l rend="footnote text"> K &lt;’p̄D̂&gt;.</l>
+         <l>6.4 Māmūn ud kādīg<note n="44">
+               <ft> K &lt;k’ŝk&gt;.</ft>
+            </note> abd<note n="45">
+               <ft> K &lt;’p̄D̂&gt;.</ft>
             </note> passandīd ∵</l>
       </sec>
       <sec id="7.1">
@@ -234,14 +236,14 @@
          <l>ašmāh ka andar xānag sargēn tis ī gandag ud rēman gerd āyēd</l>
          <l>xwad bē <hi rend="color(3366FF)">barēd</hi> ayāb ō bandagān<note n="46" place="foot"
                xml:id="ftn46">
-               <l rend="footnote text"> K &lt;bwn-&gt; +.</l>
+               <ft> K &lt;bwn-&gt; +.</ft>
             </note> framāyēd tā bē <hi rend="color(3366FF)">barēnd</hi>
          </l>
       </sec>
       <sec id="7.3">
          <l>7.3 Abāliš ud Māmūn Amīr ī Mūminīn (ud) kādīg guft kū</l>
-         <l>nē-iz<note n="47" place="foot" xml:id="ftn47">
-               <l rend="footnote text"> nē čē?</l>
+         <l>nē-iz<note n="47">
+               <ft> nē čē?</ft>
             </note> tis pad ān ewēnag harw kas ō bandag framāyēnd pahrēxtan o</l>
       </sec>
       <sec id="7.4">
@@ -255,13 +257,13 @@
       <sec id="7.5">
          <l>7.5 čē Yahūdān ud Tarsāgān ud Tāzīg harw kas bāmdād ka az wistarg abar āxēzēd<note
                n="48" place="foot" xml:id="ftn48">
-               <l rend="footnote text"> K &lt;KYMWNyt&gt;.</l>
+               <ft> K &lt;KYMWNyt&gt;.</ft>
             </note>
          </l>
          <l>dast {ud rōy} nē šōyēd namāz yazd ud stāyišn ī yazdān nē <hi rend="color(3366FF)"
                >kunēd</hi>
-            <note n="49" place="foot" xml:id="ftn49">
-               <l rend="footnote text"> K &lt;WĄY-&gt; +.</l>
+            <note n="49">
+               <ft> K &lt;WĄY-&gt; +.</ft>
             </note>
          </l>
          <l>ud dast ō ēč-iš xwarišn ud kār nē <hi rend="color(3366FF)">kunēd</hi>
@@ -276,81 +278,81 @@
          <l>8.1 panǰom ēn pursīd kū</l>
          <l>namāz ō Ātaxš Wahrām <hi rend="color(3366FF)">burdan</hi> ud āyaft<note n="50"
                place="foot" xml:id="ftn50">
-               <l rend="footnote text"> K &lt;’y’p̄t&gt; +.</l>
-            </note> az-iš<note n="51" place="foot" xml:id="ftn51">
-               <l rend="footnote text"> K &lt;MNš&gt;.</l>
+               <ft> K &lt;’y’p̄t&gt; +.</ft>
+            </note> az-iš<note n="51">
+               <ft> K &lt;MNš&gt;.</ft>
             </note> xwāst kū</l>
          <l>
-            <note n="52" place="foot" xml:id="ftn52">
-               <l rend="footnote text"> PY.62.4.</l>
-            </note>dah ō man<note n="53" place="foot" xml:id="ftn53">
-               <l rend="footnote text"> K &lt;ANE&gt;.</l>
-            </note> hayār<note n="54" place="foot" xml:id="ftn54">
-               <l rend="footnote text"> K &lt;’yw’l&gt;, not PY.</l>
+            <note n="52">
+               <ft> PY.62.4.</ft>
+            </note>dah ō man<note n="53">
+               <ft> K &lt;ANE&gt;.</ft>
+            </note> hayār<note n="54">
+               <ft> K &lt;’yw’l&gt;, not PY.</ft>
             </note> ī Ohrmazd pus tēz-xwārīh ud tēz-srāyišnīh ud tēz-zīšnīh</l>
          <l>kū ka āšnāg kū ātaxš xwad ēdōn nizār ud a-pādyāwand<note n="55" place="foot"
                xml:id="ftn55">
-               <l rend="footnote text"> K &lt;’p’t’’nd&gt;.</l>
+               <ft> K &lt;’p’t’’nd&gt;.</ft>
             </note> ud driyōš kū</l>
-         <l>ka <pg fol="K20_150v"/> mardōm xwarišn esm<note n="56" place="foot" xml:id="ftn56">
-               <l rend="footnote text"> K &lt;CYBA&gt;.</l>
+         <l>ka <pg fol="K20_150v"/> mardōm xwarišn esm<note n="56">
+               <ft> K &lt;CYBA&gt;.</ft>
             </note> rōz-ēw nē dahēd bē mīrēd</l>
          <l>az ōy kē pad xwēš-tan nē šāyēd āyaft aziš xwāstan<note n="57" place="foot"
                xml:id="ftn57">
-               <l rend="footnote text"> K &lt;hw’yytn'&gt;.</l>
+               <ft> K &lt;hw’yytn'&gt;.</ft>
             </note> nē wizīdārīha o</l>
       </sec>
       <sec id="8.2">
          <l>8.2 mowbed guft kū</l>
-         <l>dādestān<note n="58" place="foot" xml:id="ftn58">
-               <l rend="footnote text"> K &lt;ŜNA&gt;.</l>
+         <l>dādestān<note n="58">
+               <ft> K &lt;ŜNA&gt;.</ft>
             </note> ēn-ōwōn homānāg čiyōn šahrestān-ēw (ī) hamāg pēšag andar hēnd</l>
-         <l>āhengar<note n="59" place="foot" xml:id="ftn59">
-               <l rend="footnote text"> K &lt;’ysnkl&gt;.</l>
-            </note> ud kafšgar<note n="60" place="foot" xml:id="ftn60">
-               <l rend="footnote text"> K &lt;-kl&gt;</l>
-            </note> ud *durgar<note n="61" place="foot" xml:id="ftn61">
-               <l rend="footnote text"> K &lt;dlwtkl&gt;.</l>
+         <l>āhengar<note n="59">
+               <ft> K &lt;’ysnkl&gt;.</ft>
+            </note> ud kafšgar<note n="60">
+               <ft> K &lt;-kl&gt;</ft>
+            </note> ud *durgar<note n="61">
+               <ft> K &lt;dlwtkl&gt;.</ft>
             </note> ud darzīg</l>
-         <l>ud kafšgar<note n="62" place="foot" xml:id="ftn62">
-               <l rend="footnote text"> K &lt;kwp-&gt;.</l>
+         <l>ud kafšgar<note n="62">
+               <ft> K &lt;kwp-&gt;.</ft>
             </note> az āhengar xwāyišn <hi rend="color(3366FF)">kunēd</hi>
-            <note n="63" place="foot" xml:id="ftn63">
-               <l rend="footnote text"> K &lt;WĄY-&gt; +.</l>
+            <note n="63">
+               <ft> K &lt;WĄY-&gt; +.</ft>
             </note>
          </l>
-         <l>āhengar kū dast-abzār<note n="64" place="foot" xml:id="ftn64">
-               <l rend="footnote text"> K&lt;Ỵyyt-&gt;.</l>
-            </note> ī man bē wirāy<note n="65" place="foot" xml:id="ftn65">
-               <l rend="footnote text"> K &lt;wyl’&gt;.</l>
+         <l>āhengar kū dast-abzār<note n="64">
+               <ft> K&lt;Ỵyyt-&gt;.</ft>
+            </note> ī man bē wirāy<note n="65">
+               <ft> K &lt;wyl’&gt;.</ft>
             </note> tā man mōzag ī tō xūb bē <hi rend="color(3366FF)">kunam</hi>
          </l>
-         <l>ud kafšgar<note n="66" place="foot" xml:id="ftn66">
-               <l rend="footnote text"> K &lt;kpy’kl&gt;.</l>
+         <l>ud kafšgar<note n="66">
+               <ft> K &lt;kpy’kl&gt;.</ft>
             </note> mōzag ī darzīg dōzēd darzīg ǰāmag ī kafšgar<note n="67" place="foot"
                xml:id="ftn67">
-               <l rend="footnote text"> K &lt;kwp-&gt;.</l>
-            </note> wirāyēd<note n="68" place="foot" xml:id="ftn68">
-               <l rend="footnote text"> K &lt;wyl’-yt&gt;.</l>
+               <ft> K &lt;kwp-&gt;.</ft>
+            </note> wirāyēd<note n="68">
+               <ft> K &lt;wyl’-yt&gt;.</ft>
             </note>
          </l>
       </sec>
       <sec id="8.3">
-         <l>8.3 ham-gōnag ātaxš pad tan-kerdagīh<note n="69" place="foot" xml:id="ftn69">
-               <l rend="footnote text"> Man. tanīgerd or tan-kerbagīh?</l>
+         <l>8.3 ham-gōnag ātaxš pad tan-kerdagīh<note n="69">
+               <ft> Man. tanīgerd or tan-kerbagīh?</ft>
             </note> niyāzōmand ast</l>
-         <l>bē ō amāh pad windīdan<note n="70" place="foot" xml:id="ftn70">
-               <l rend="footnote text"> K &lt;-WNytn'&gt;.</l>
+         <l>bē ō amāh pad windīdan<note n="70">
+               <ft> K &lt;-WNytn'&gt;.</ft>
             </note> ī zōhr ud bōy ud esm</l>
          <l>ud amāh-iz pad mēnōy-kerdārīh bē zadan ī druz ī mēnōyīg<note n="71" place="foot"
                xml:id="ftn71">
-               <l rend="footnote text"> K &lt;mynwŝk&gt;.</l>
+               <ft> K &lt;mynwŝk&gt;.</ft>
             </note>
          </l>
-         <l>čiyōn wēmārīh ud tab<note n="72" place="foot" xml:id="ftn72">
-               <l rend="footnote text"> K &lt;tyc&gt;.</l>
-            </note> ud seǰ<note n="73" place="foot" xml:id="ftn73">
-               <l rend="footnote text"> K &lt;yyc&gt;.</l>
+         <l>čiyōn wēmārīh ud tab<note n="72">
+               <ft> K &lt;tyc&gt;.</ft>
+            </note> ud seǰ<note n="73">
+               <ft> K &lt;yyc&gt;.</ft>
             </note> ud xešm</l>
          <l>niyāzīg hēm ō ātaxš</l>
          <l>ham-gōnag xwadāyān niyāzōmand ō bandagan bandagan niyāzōmand ō xwadāyān</l>
@@ -358,18 +360,18 @@
       <sec id="8.4">
          <l>8.4 ud mamūn amīr ī mūminīn passandīd pad xūb dāšt ud rāmišn was az-iš<note n="74"
                place="foot" xml:id="ftn74">
-               <l rend="footnote text"> K &lt;MNš&gt;.</l>
+               <ft> K &lt;MNš&gt;.</ft>
             </note>
             <hi rend="color(3366FF)">padīrift</hi> o</l>
       </sec>
       <sec id="9.1">
          <l>9.1 šašom ēn pursīd kū</l>
-         <l>ēn rōšn paydāg kū harw kas ham-dādestān<note n="75" place="foot" xml:id="ftn75">
-               <l rend="footnote text"> K &lt;-d’t-&gt;</l>
+         <l>ēn rōšn paydāg kū harw kas ham-dādestān<note n="75">
+               <ft> K &lt;-d’t-&gt;</ft>
             </note> kū</l>
          <l>tan ī ahlawān frārōn-kunišnān pāktar abēzagtar kū ān ī druwandān wināh-gārān</l>
          <l>ašmāh gōwēd kū</l>
-         <l>nasāy ī druwandān<note n="76" place="foot" xml:id="ftn76">
+         <l>nasāy ī druwandān<note n="76">
                <l rend="footnote text"> K + f.st.? pāktar<hi style="font-size:10pt">.</hi>
                </l>
             </note> an-ērān wināh-garān pāktar kū ān (ī) ahlawān</l>
@@ -379,86 +381,86 @@
          <l>9.2 mowbed guft kū</l>
          <l>hangōšīdag ēn <pg fol="K20_151r"/> tis nē ēdōn čiyōn ašmāh handēšēd</l>
          <l>čē druwandān ka bē mīrēnd ān druz ī pad zīndagīh abāg būd gīrēd</l>
-         <l>ō dōšox nayēd<note n="77" place="foot" xml:id="ftn77">
-               <l rend="footnote text"> K &lt;YZDL-&gt;.</l>
+         <l>ō dōšox nayēd<note n="77">
+               <ft> K &lt;YZDL-&gt;.</ft>
             </note> nazdīk ī Ahrimen ud nasāy druz abāg nēst a-pāk<note n="78" place="foot"
                xml:id="ftn78">
-               <l rend="footnote text"> K &lt;’ DKYA&gt;.</l>
+               <ft> K &lt;’ DKYA&gt;.</ft>
             </note>
          </l>
          <l>ud ahlawān frarōn-kunišnān ka bē widerēnd ruwān amahrspandān gīrēnd bē <hi
                rend="color(3366FF)">padīrēnd</hi>
-            <note n="79" place="foot" xml:id="ftn79">
-               <l rend="footnote text"> K &lt;ŶŶLWNd&gt; + sub. &lt;MK&gt;.</l>
+            <note n="79">
+               <ft> K &lt;ŶŶLWNd&gt; + sub. &lt;MK&gt;.</ft>
             </note>
          </l>
          <l>abāz ō pēš ī Ohrmazd xwadāy <hi rend="color(3366FF)">nayēnd</hi>
-            <note n="80" place="foot" xml:id="ftn80">
-               <l rend="footnote text"> K &lt;ŶŶLWNd&gt;.</l>
+            <note n="80">
+               <ft> K &lt;ŶŶLWNd&gt;.</ft>
             </note>
          </l>
       </sec>
       <sec id="9.3">
-         <l>9.3 ān druz ī nasrušt ī abāg nasāy<note n="81" place="foot" xml:id="ftn81">
-               <l rend="footnote text"> K &lt;nn-&gt;.</l>
-            </note> būd pad xānag (ī) tan bun-dmān<note n="82" place="foot" xml:id="ftn82">
-               <l rend="footnote text"> E.g. Dk.3.203.15 gyāg ud dmān, cf. &lt;bwnBYTA&gt;.</l>
+         <l>9.3 ān druz ī nasrušt ī abāg nasāy<note n="81">
+               <ft> K &lt;nn-&gt;.</ft>
+            </note> būd pad xānag (ī) tan bun-dmān<note n="82">
+               <ft> E.g. Dk.3.203.15 gyāg ud dmān, cf. &lt;bwnBYTA&gt;.</ft>
             </note> bawēd</l>
          <l>ud ān nasāy rēman <hi rend="color(3366FF)">kunēd</hi> homanāg dušmen-ēw ka ō
             šahrestān-ēw mad</l>
-         <l>ud agar-išān šahryār<note n="83" place="foot" xml:id="ftn83">
-               <l rend="footnote text"> K &lt;y’t-&gt;.</l>
-            </note> ī ān ī šahrestān ō dast āyēd gīrēd barēd<note n="84" place="foot" xml:id="ftn84">
-               <l rend="footnote text"> K &lt;ŶŶL-&gt;.</l>
+         <l>ud agar-išān šahryār<note n="83">
+               <ft> K &lt;y’t-&gt;.</ft>
+            </note> ī ān ī šahrestān ō dast āyēd gīrēd barēd<note n="84">
+               <ft> K &lt;ŶŶL-&gt;.</ft>
             </note>
          </l>
-         <l>{ō} nazdīk ī šahryār ī xwēš barēd/nayēd<note n="85" place="foot" xml:id="ftn85">
-               <l rend="footnote text"> K &lt;YYL-&gt;.</l>
+         <l>{ō} nazdīk ī šahryār ī xwēš barēd/nayēd<note n="85">
+               <ft> K &lt;YYL-&gt;.</ft>
             </note>
          </l>
-         <l>ud agar-išān šahryār ī ān<note n="86" place="foot" xml:id="ftn86">
-               <l rend="footnote text"> K + y.</l>
-            </note> šahrestān griftan<note n="87" place="foot" xml:id="ftn87">
-               <l rend="footnote text"> K &lt;glyptn'&gt;.</l>
+         <l>ud agar-išān šahryār ī ān<note n="86">
+               <ft> K + y.</ft>
+            </note> šahrestān griftan<note n="87">
+               <ft> K &lt;glyptn'&gt;.</ft>
             </note> nē tuwān</l>
          <l>
             <hi rend="color(FF6600)">an-ummēdīhīhā</hi>
-            <note n="88" place="foot" xml:id="ftn88">
-               <l rend="footnote text"> K &lt;’w’wm’-ytyhyh’&gt;.</l>
+            <note n="88">
+               <ft> K &lt;’w’wm’-ytyhyh’&gt;.</ft>
             </note> pad ham šahrestān andar šawēnd ud šahrestān awērān<note n="89" place="foot"
                xml:id="ftn89">
-               <l rend="footnote text"> K &lt;’p̄yl’n&gt;.</l>
+               <ft> K &lt;’p̄yl’n&gt;.</ft>
             </note>
             <hi rend="color(3366FF)">kunēd</hi>
-            <note n="90" place="foot" xml:id="ftn90">
-               <l rend="footnote text"> K &lt;WĄY-&gt;.</l>
+            <note n="90">
+               <ft> K &lt;WĄY-&gt;.</ft>
             </note>
          </l>
       </sec>
       <sec id="9.4">
-         <l>9.4 Mamūn Amīr ī Mūminīn ka ān saxwan<note n="91" place="foot" xml:id="ftn91">
-               <l rend="footnote text"> K &lt;yyhw&gt;.</l>
-            </note> āšnūd<note n="92" place="foot" xml:id="ftn92">
-               <l rend="footnote text"> K &lt;’šnwt&gt;.</l>
-            </note> was passandīd uš abd<note n="93" place="foot" xml:id="ftn93">
-               <l rend="footnote text"> K &lt;’p̄D̂&gt;.</l>
+         <l>9.4 Mamūn Amīr ī Mūminīn ka ān saxwan<note n="91">
+               <ft> K &lt;yyhw&gt;.</ft>
+            </note> āšnūd<note n="92">
+               <ft> K &lt;’šnwt&gt;.</ft>
+            </note> was passandīd uš abd<note n="93">
+               <ft> K &lt;’p̄D̂&gt;.</ft>
             </note> sahist ∵</l>
       </sec>
       <sec id="10.1">
          <l>10.1 haftom ēn pursīd kū</l>
          <l>kustīg bastan čim čē</l>
          <l>agar pad kustīg bastan kerbag bawēd</l>
-         <l>ēg<note n="94" place="foot" xml:id="ftn94">
-               <l rend="footnote text"> K &lt;AYT&gt;.</l>
-            </note> xarān ud uštarān ud aspān pēštar<note n="95" place="foot" xml:id="ftn95">
-               <l rend="footnote text"> K &lt;LOYNtl&gt;.</l>
+         <l>ēg<note n="94">
+               <ft> K &lt;AYT&gt;.</ft>
+            </note> xarān ud uštarān ud aspān pēštar<note n="95">
+               <ft> K &lt;LOYNtl&gt;.</ft>
             </note> šawēnd ō wahišt</l>
-         <l>kē šab ud rōz 7<note n="96" place="foot" xml:id="ftn96">
-               <l rend="footnote text"> K &lt;3 4&gt;.</l>
+         <l>kē šab ud rōz 7<note n="96">
+               <ft> K &lt;3 4&gt;.</ft>
             </note>
             <hi rend="color(008000)">bār ud did</hi>
-            <note n="97" place="foot" xml:id="ftn97">
-               <l rend="footnote text"> K &lt;w tnd&gt;.</l>
+            <note n="97">
+               <ft> K &lt;w tnd&gt;.</ft>
             </note> pad aškomb bastag dārēnd</l>
       </sec>
       <sec id="10.2">
@@ -466,67 +468,67 @@
          <l>abēčim tis nēst</l>
          <l>pad a-dānān ud duš-āgāhān abē-čim sahēd kē an-āgāh<note n="98" place="foot"
                xml:id="ftn98">
-               <l rend="footnote text"> K &lt;’n’k̈’s&gt;.</l>
+               <ft> K &lt;’n’k̈’s&gt;.</ft>
             </note> hēnd kē čim ī tis nē dānēnd</l>
          <l>ud čim ī tis nēst ī rōšn bē-t <pg fol="K20_151v"/> man rōšn <hi rend="color(3366FF)"
                >kunam</hi>
-            <note n="99" place="foot" xml:id="ftn99">
-               <l rend="footnote text"> K &lt;WĄYWNm&gt;.</l>
+            <note n="99">
+               <ft> K &lt;WĄYWNm&gt;.</ft>
             </note>
          </l>
       </sec>
       <sec id="10.3">
          <l>10.3 ud amāh ēdōn gōwēm<note n="100" place="foot" xml:id="ftn100">
-               <l rend="footnote text"> K &lt;-WN[y]m&gt;?</l>
+               <ft> K &lt;-WN[y]m&gt;?</ft>
             </note> kū</l>
          <l>čiyōn-imān wurrōyišn pad 2-buništagīh<note n="101" place="foot" xml:id="ftn101">
-               <l rend="footnote text"> K &lt;2 wb\w/nšt-&gt;.</l>
+               <ft> K &lt;2 wb\w/nšt-&gt;.</ft>
             </note> u-t-imān<note n="102" place="foot" xml:id="ftn102">
-               <l rend="footnote text"> ā-iz-it-imān??</l>
+               <ft> ā-iz-it-imān??</ft>
             </note> pad ān ī xwēš tan bē paydāgēnīd estēd</l>
          <l>bahr ī Ohrmazdīh<note n="103" place="foot" xml:id="ftn103">
-               <l rend="footnote text"> -īg?? Paz. -aš, NP -iš.</l>
+               <ft> -īg?? Paz. -aš, NP -iš.</ft>
             </note> ast rōšnīh ud Garōdmān</l>
          <l>pad hangōšīdag ēdōn</l>
       </sec>
       <sec id="10.4">
          <l>10.4 ud harw čē azabar-nēmag<note n="104" place="foot" xml:id="ftn104">
-               <l rend="footnote text"> K &lt;- n-&gt; +.</l>
+               <ft> K &lt;- n-&gt; +.</ft>
             </note> ī tan čiyōn āšnawišn<note n="105" place="foot" xml:id="ftn105">
-               <l rend="footnote text"> K &lt;’-yšnwpšn&gt;.</l>
+               <ft> K &lt;’-yšnwpšn&gt;.</ft>
             </note> ud hambōyišn gyāg ī xrad ud gyān</l>
          <l>ud ox menišn ud ōš ud wīr ud āsn<note n="106" place="foot" xml:id="ftn106">
-               <l rend="footnote text"> K &lt;’-ysn-&gt;.</l>
+               <ft> K &lt;’-ysn-&gt;.</ft>
             </note> xrad ud gōšōsrūd<note n="107" place="foot" xml:id="ftn107">
-               <l rend="footnote text"> K &lt;-yylt&gt;.</l>
+               <ft> K &lt;-yylt&gt;.</ft>
             </note> xrad gyāg ī yazdān ud amahrspandān</l>
          <l>ud ka mardōm azabar-nēmag pad hangōšīdag ī wahišt dārēnd<note n="108" place="foot"
                xml:id="ftn108">
-               <l rend="footnote text"> K &lt;d’lnnd&gt; eol.</l>
+               <ft> K &lt;d’lnnd&gt; eol.</ft>
             </note>
             <hi rend="color(FF6600)">bundahišt</hi>
             <note n="109" place="foot" xml:id="ftn109">
-               <l rend="footnote text"> K &lt;bwny’št'&gt;.</l>
+               <ft> K &lt;bwny’št'&gt;.</ft>
             </note>
             <hi rend="color(FF6600)">nē čimīh</hi> ast</l>
       </sec>
       <sec id="10.5">
          <l>10.5 ud āzēr nēmag ast<note n="110" place="foot" xml:id="ftn110">
-               <l rend="footnote text"> *ī tan?</l>
+               <ft> *ī tan?</ft>
             </note> čiyōn gandagīh<note n="111" place="foot" xml:id="ftn111">
-               <l rend="footnote text"> K &lt;ywnnŶk / yh&gt;.</l>
+               <ft> K &lt;ywnnŶk / yh&gt;.</ft>
             </note> ud rēmanīh gyāg</l>
          <l>gōmēzdān ud sargēn ud gandagīh<note n="112" place="foot" xml:id="ftn112">
-               <l rend="footnote text"> K &lt;gwnYkyh&gt;.</l>
+               <ft> K &lt;gwnYkyh&gt;.</ft>
             </note> hōmānāg</l>
          <l>ud gilistag ī gyāg ī Ahrimen ud dēwān</l>
       </sec>
       <sec id="10.6">
          <l>10.6 ud agar kas āškārag dārēnd<note n="113" place="foot" xml:id="ftn113">
-               <l rend="footnote text"> K &lt;<hi rend="italic">Š</hi>HSNNd&gt;.</l>
+               <ft> K &lt;<hi rend="italic">Š</hi>HSNNd&gt;.</ft>
             </note> ā-š <hi rend="color(FF6600)">bundahišt</hi>
             <note n="114" place="foot" xml:id="ftn114">
-               <l rend="footnote text"> K &lt;bwnšy’t&gt;.</l>
+               <ft> K &lt;bwnšy’t&gt;.</ft>
             </note>
             <hi rend="color(3366FF)">kunēnd</hi> ud pad āhōg abar nigerēnd<note n="115" place="foot"
                xml:id="ftn115">
@@ -535,14 +537,14 @@
             </note>
          </l>
          <l>ud kustīg sāmāngār<note n="116" place="foot" xml:id="ftn116">
-               <l rend="footnote text"> K &lt;-kl&gt;.</l>
+               <ft> K &lt;-kl&gt;.</ft>
             </note> ast tanān</l>
          <l>ēd rāy kustīg xwānēnd čē-š tan pad 2 kust bē paydāgēnīd<note n="117" place="foot"
                xml:id="ftn117">
-               <l rend="footnote text"> K &lt;pytynyt&gt;.</l>
+               <ft> K &lt;pytynyt&gt;.</ft>
             </note> estēd</l>
          <l>ham-gōnag čiyōn ašmāh čiyōn gyāg nišast<note n="118" place="foot" xml:id="ftn118">
-               <l rend="footnote text"> K + w.</l>
+               <ft> K + w.</ft>
             </note> az ān gōmēz paydāgēnīd ast</l>
          <l>ēn dēwār-ēw pad mayān abar estēd</l>
       </sec>
@@ -561,9 +563,9 @@
                   >t</hi>&gt;.</l>
             </note> čē-t ēraxtan nē tuwān</l>
          <l>čē harw čand wēš<note n="121" place="foot" xml:id="ftn121">
-               <l rend="footnote text"> K Paz. <hi rend="italic">və̄š</hi> .</l>
+               <ft> K Paz. <hi rend="italic">və̄š</hi> .</ft>
             </note> pursē<note n="122" place="foot" xml:id="ftn122">
-               <l rend="footnote text"> K &lt;pwr syh&gt;</l>
+               <ft> K &lt;pwr syh&gt;</ft>
             </note> nēktar ud rōšntar pad-čimīgtar wizārēd</l>
          <l>druwand Abāliš kōst škast ud bast <pg fol="K20_152r"/> ud ēraxt homānāg būd o</l>
          <l>11.2 anōšag ruwān bawād Ādur-farnbāy Farrōxzadān kē gizistag Abāliš rāy škast</l>
@@ -571,14 +573,14 @@
          <l>ud warz ud xwarrah abzāyād Ohrmazd xwadāy rāy abāg amahrspandān ud abarīg yazdān</l>
          <l>ud zad ud škast nifrīd bawād ōy Gannāg Mēnōy druwand ī a-dān dušdān frēftār<note n="123"
                place="foot" xml:id="ftn123">
-               <l rend="footnote text"> K &lt;pl / Yyp̄-&gt;.</l>
+               <ft> K &lt;pl / Yyp̄-&gt;.</ft>
             </note>
          </l>
          <l>abāg dēwān ud druzān ud ǰadūgān<note n="124" place="foot" xml:id="ftn124">
-               <l rend="footnote text"> K &lt;y’tk-&gt;.</l>
+               <ft> K &lt;y’tk-&gt;.</ft>
             </note> ud parīgān ud sāstārān</l>
          <l>frazaft pad drōd šādīh<note n="125" place="foot" xml:id="ftn125">
-               <l rend="footnote text"> K &lt;YAWMy’t-&gt;.</l>
+               <ft> K &lt;YAWMy’t-&gt;.</ft>
             </note> rāmišn</l>
       </sec>
    </text>
