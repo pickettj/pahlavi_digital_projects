@@ -9,15 +9,18 @@
          <l>pad nām ī yazdān ī kerbakkarān<pg fol="K20_148v"/>
          </l>
          <gloss>
-            <gram>!<!-- Grammatical gloss -->
-            </gram>
-            <hist>
-               <!-- Historical gloss --></hist>
+            <gram>"yazdān ī kerbakkarān" takes the plural ending because it is a possesser of nām:
+               "If the possessor is a plural noun, it usually takes the ending -ān" (PP 2). If a
+               plural noun is in the subject position, plurality is indicated by the verb: andar mān
+               dēw būd hēnd “demons were in the house” (PP 1).</gram>
+            <hist> Note similarity to the invocatio of Islamicate texts: "in the name of
+               God..."</hist>
+            <diplo><!-- Diplomatic gloss about original manuscript. --></diplo>
          </gloss>
       </sec>
       <sec id="1.1">
          <sec id="1.1">
-            <l>1.1 ēdon gōwēnd kū</l>
+            <l>ēdon gōwēnd kū</l>
             <l>gizistag Abāliš<note n="1">
                   <ft> K &lt;’b’ł’&gt;.</ft>
                </note> ī zandīg<note n="2">
@@ -29,10 +32,15 @@
                </note> kē wāz dād hē<note n="4">
                   <ft> K &lt;HWE’&gt;</ft>
                </note> ud bērōn bē mad</l>
+            <gloss>
+               <gram/>
+               <hist/>
+               <diplo/>
+            </gloss>
          </sec>
       </sec>
       <sec id="1.2">
-         <l>1.2 ud mard-ēw kē Xešm<note n="5">
+         <l>ud mard-ēw kē Xešm<note n="5">
                <ft> K &lt;hyšm&gt; +.</ft>
             </note> pad tan mehmān<note n="6">
                <ft> K &lt;mhm-&gt;.</ft>
