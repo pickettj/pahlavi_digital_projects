@@ -1,0 +1,43 @@
+start = document
+
+document = element document {metadata, doc_text}
+
+# __METADATA__
+
+metadata = element metadata {title, manuscript}
+title = element title {text}
+manuscript = element manuscript {text}
+
+# __BODY TEXT__
+
+doc_text = element text { sec+ }
+
+# Sections numbered by field convention
+sec = element sec { id, l+, gloss }
+id = attribute id { text }
+
+# Lines designated by Skjaervo transcription
+l = element l { mixed { (pg | note)* } }
+
+# Pages so far only for manuscript K20
+pg = element pg { fol, empty }
+fol = attribute fol { text }
+
+gloss = element gloss { gram, hist, diplo }
+
+gram = element gram { subtop+ }
+hist = element hist { subtop+ }
+diplo = element diplo { subtop+ }
+
+subtop = element subtop { mixed { (gls | em | a)* } }
+
+gls = element gls { text }
+em = element em { text }
+a = element a { href, text }
+href = attribute href {text}
+
+# Markup inherited from MS Word Conversion
+note = element note { n, ft }
+n = attribute n { text }
+ft = element ft { text }
+

@@ -1,45 +1,73 @@
+<?xml-model href="../Schemas/pahlavi_basic_schema.rnc" type="application/relax-ng-compact-syntax"?>
 <document>
    <metadata>
       <title>Gizistag Abāliš</title>
       <manuscript>K20</manuscript>
    </metadata>
    <text>
-      <pg fol="K20_148r"/>
       <sec id="0.0">
-         <l>pad nām ī yazdān ī kerbakkarān<pg fol="K20_148v"/>
+         <l><pg fol="K20_148r"/>pad nām ī yazdān ī kerbakkarān<pg fol="K20_148v"/>
          </l>
          <gloss>
-            <gram>"yazdān ī kerbakkarān" takes the plural ending because it is a possesser of nām:
-               "If the possessor is a plural noun, it usually takes the ending -ān" (PP 2). If a
-               plural noun is in the subject position, plurality is indicated by the verb: andar mān
-               dēw būd hēnd “demons were in the house” (PP 1).</gram>
-            <hist> Note similarity to the invocatio of Islamicate texts: "in the name of
-               God..."</hist>
-            <diplo><!-- Diplomatic gloss about original manuscript. --></diplo>
+            <gram>
+               <subtop>"yazdān ī kerbakkarān" takes the plural ending because it is a possesser of
+                  nām: "If the possessor is a plural noun, it usually takes the ending -ān" (PP2).
+                  If a plural noun is in the subject position, plurality is indicated by the verb:
+                  andar mān dēw būd hēnd “demons were in the house” (PP1).</subtop>
+            </gram>
+            <hist>
+               <subtop>Note similarity to the invocatio of Islamicate texts: "in the name of God..."
+                  (باسم الله)</subtop>
+            </hist>
+            <diplo>
+               <subtop/>
+               <!-- Diplomatic gloss about original manuscript. -->
+            </diplo>
          </gloss>
       </sec>
       <sec id="1.1">
-         <sec id="1.1">
-            <l>ēdon gōwēnd kū</l>
-            <l>gizistag Abāliš<note n="1">
-                  <ft> K &lt;’b’ł’&gt;.</ft>
-               </note> ī zandīg<note n="2">
-                  <ft> K &lt;zn'ŶYk'&gt;</ft>
-               </note> az Staxr būd mard ī weh ruwān-dōst būd</l>
-            <l>ud rōz-ēw gursag tišnag ō ātaxš-gāh ī Pušt mad kū wāz gīram</l>
-            <l>ānōh kas nē būd<note n="3">
-                  <ft> K &lt;-WN<hi rend="strikethrough">y</hi>t&gt;.</ft>
-               </note> kē wāz dād hē<note n="4">
-                  <ft> K &lt;HWE’&gt;</ft>
-               </note> ud bērōn bē mad</l>
-            <gloss>
-               <gram/>
-               <hist/>
-               <diplo/>
-            </gloss>
-         </sec>
+
+         <l>ēdon gōwēnd kū</l>
+         <l>gizistag Abāliš<note n="1">
+               <ft> K &lt;’b’ł’&gt;.</ft>
+            </note> ī zandīg<note n="2">
+               <ft> K &lt;zn'ŶYk'&gt;</ft>
+            </note> az Staxr būd mard ī weh ruwān-dōst būd</l>
+         <l>ud rōz-ēw gursag tišnag ō ātaxš-gāh ī Pušt mad kū wāz gīram</l>
+         <l>ānōh kas nē būd<note n="3">
+            <!-- Cleanup this kind of markup -->
+               <ft> K &lt;-WN<hi rend="strikethrough">y</hi>t&gt;.</ft>
+               
+            </note> kē wāz dād hē<note n="4">
+               <ft> K &lt;HWE’&gt;</ft>
+            </note> ud bērōn bē mad</l>
+         <gloss>
+            <gram>
+               <subtop>In New Persian, ī is only used for genitive (i.e. the izafa, <gls>kitāb-i
+                     man</gls>), and که is the standard relative pronoun (a function که serves in
+                  Pahlavi as well: kē). In Pahlavi, by contrast, ī is both the izafa <em>and</em>
+                  the relative pronoun. Thus the sentence <gls>gizistag Abāliš ī zandīg az Staxr būd
+                     mard ī weh weh ruwān-dōst būd</gls> translates to "Abalish the accursed heretic
+                  was a man from Estakhr, <em>who</em> was good, soul-loving man."</subtop>
+            </gram>
+            <hist>
+               <subtop><a href="http://www.iranicaonline.org/articles/abalis">Abalish (Abāliš)</a>
+                  is a figure only mentioned in this text.</subtop>
+               <subtop>He is characterized as <gls>zandīg</gls>; this is a term attested very early
+                  [when / where?] in Middle Persian inscriptions to refer to Manichaeans; but in
+                  early Arabic times the term had come to refer more broadly to Muslims secretly
+                  harboring heretical views [best citation?].</subtop>
+               <subtop><a href="http://www.iranicaonline.org/articles/estakr-">Estakhr (Staxr)</a>
+                  was a city in the Sasanian homeland of Fars (Pars) province.</subtop>
+               <subtop>[Ask Pooriya about Pusht.]</subtop>
+            </hist>
+            <diplo>
+               <subtop/>
+            </diplo>
+         </gloss>
+
       </sec>
-      <sec id="1.2">
+      <!--      <sec id="1.2">
          <l>ud mard-ēw kē Xešm<note n="5">
                <ft> K &lt;hyšm&gt; +.</ft>
             </note> pad tan mehmān<note n="6">
@@ -590,6 +618,6 @@
          <l>frazaft pad drōd šādīh<note n="125" place="foot" xml:id="ftn125">
                <ft> K &lt;YAWMy’t-&gt;.</ft>
             </note> rāmišn</l>
-      </sec>
+      </sec>-->
    </text>
 </document>
