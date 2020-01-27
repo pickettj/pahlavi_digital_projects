@@ -13,6 +13,8 @@
   - Find: `(<l>(\d{1,2}\.\d).+?)(<l>\d{1,2}\.\d)`
   - Replace: `<sec id="\2"> \1 </sec> \3`
   - (This gets half of them; probably a cleverer way to do it without two steps)
+    - ["Look ahead" and "look behind"](https://www.regular-expressions.info/lookaround.html) allows for including a pattern ahead or behind.
+      - This works in Java Regex, but not XPath.
   - Find: `</sec>\s*(<l>(\d{1,2}\.\d).+?)<sec`
   - Replace: `</sec><sec id="\2">\1</sec><sec`
     - Leaves off the last instance.
