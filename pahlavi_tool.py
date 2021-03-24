@@ -1,16 +1,16 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[13]:
 
 
-import os
+import os, re
 
 import pandas as pd
 from pandas import DataFrame, Series
 
 
-# In[2]:
+# In[6]:
 
 
 #set home directory path
@@ -23,23 +23,23 @@ pah_path = hdir + "/Dropbox/Active_Directories/Digital_Humanities/Corpora/pahlav
 pickle_path = hdir + "/Dropbox/Active_Directories/Digital_Humanities/Corpora/pickled_tokenized_cleaned_corpora"
 
 
-# In[3]:
+# In[7]:
 
 
 df_pahcorp = pd.read_csv (os.path.join(pickle_path,r'pahlavi_corpus.csv'))
 
 
-# In[4]:
+# In[8]:
 
 
-df_pahcorp.head()
+df_pahcorp.sample(5)
 
 
 # ----
 # 
 # ## Key Word in Context
 
-# In[6]:
+# In[25]:
 
 
 def index_kwic (term):
@@ -52,10 +52,10 @@ def index_kwic (term):
     # str.match; the str part is telling match how to behave; .match is a method specific to pandas
     
     
-# if can get it working, add regex functionality: 
+# add regex functionality: 
 
 
-# In[7]:
+# In[26]:
 
 
 def kwic_pah (term):
@@ -84,19 +84,19 @@ def kwic_pah (term):
         
 
 
-# In[7]:
+# In[ ]:
 
 
 #df_pahcorp["token"] == "afsōn"
 
 
-# In[8]:
+# In[27]:
 
 
 kwic_pah ("hāmōn")
 
 
-# In[29]:
+# In[ ]:
 
 
 # Conditional frequency
@@ -105,6 +105,76 @@ kwic_pah ("hāmōn")
 
 # collect on i-1 i+1; counter is a function in the collections module that takes a list and turns it into a frequency dictionary
 ## A column is technically a series, which can work like a list.
+
+
+# In[ ]:
+
+
+indexed = list(index_kwic('hāmōn').index)
+
+cd_index = []
+length = len(indexed)
+for i in range(length):
+    cd_index.append((indexed[i]-1, indexed[i], indexed[i]+1))
+    
+    
+    
+# now need to use this (and counter module?) to count frequency of the terms immediately before and after, i.e. positions 0 and 2 in the tuple
+
+
+# In[ ]:
+
+
+cd_index
+
+
+# In[ ]:
+
+
+#for x in cd_index:
+#    print (cd_index[x][1])
+
+
+# In[ ]:
+
+
+cd_index[1][1]
+
+
+# In[ ]:
+
+
+df_pahcorp.iloc[240938]
+
+
+# ## Frequency
+
+# In[11]:
+
+
+freq_dic = pd.value_counts(df_pahcorp.token).to_frame().reset_index()
+
+
+# In[12]:
+
+
+freq_dic.sample(5)
+
+
+# In[21]:
+
+
+search_term = re.compile(r"p..z")
+
+
+# In[23]:
+
+
+query_mask = freq_dic["index"].str.contains(search_term, na=False)
+query = freq_dic[query_mask]
+query.head()
+
+# turn into a function, just return top hits
 
 
 # In[ ]:
