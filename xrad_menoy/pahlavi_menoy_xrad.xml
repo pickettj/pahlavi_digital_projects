@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="pahlavi_menoy_xrad_schema.rnc" type="application/relax-ng-compact-syntax"?>
+<work>
+	<metadata>
+		<title>DĀDESTĀN Ī MĒNŌY XRAD</title>
+		<title_trans>Spirit of Wisdom”</title_trans>
+		<call_no>K43_1314</call_no>
+		<!-- Is 1314 part of the call number, or the year it was scribed? -->
+	</metadata>
+	<!-- starting toward the bottom of folio 132v -->
+	<document>
+		<section id="MX.1">
+			<!-- This is a kind of question-and-answer advice literature; other scholars seem to have prioritized the content of the document in terms of conventions, rather than the structure of the text, so I am following suit here -->
+			<!-- Judgment call: convention breaks text into content pieces, i.e. inferring sentences; to keep the line-by-line information? Prioritize content or diplomatic annotation? -->
+			<question>
+				<s sid="1.1/1">pursīd dānāg ō mēnōy ī xrad kū</s>
+				<s sid="1.2">čiyōn šāyēd xwāst dārišn ud padēxīh ī ⎧ tan ǰud az ziyān ī ruwān ud
+					bōxtārīh ī ruwān ǰud az ziyān ī  tan ∵</s>
+			</question>
+			<!-- This unicode (∵) mimics the actual symbol in the manuscript to (inconsistently) designate a section break: how to code? -->
+
+			<answer>
+				<s sid="1.3/2">mēnōy ī xrad passox kerd kū</s>
+				<s sid="1.4">ān ī az tō keh pad ham-tāg (dār) ud ham-tāg pad (az-iš) meh</s>
+				<s sid="1.5">ud az-iš meh pad <folio no="K43_133"/> sālār ud sālār pad xwadāy dār
+					∵</s>
+				<s sid="1.6/3">ud andar xwadāyān ēkānag framān-burdār ud rāst-gōwišn bāš ∵</s>
+				<s sid="1.7/4">andar hamēmālān ērtan ud čarb ud hu-čašm bāš ∵ </s>
+				<s sid="1.8/5">spazgīh ma kun</s>
+				<s sid="1.9">kū-t dusrawīh ud druwandīh awiš nē rasēd</s>
+				<s sid="1.10/6">čē guft estēd kū</s>
+				<s sid="1.11">spazgīh garāntar az ǰādūgīh</s>
+				<s sid="1.12">ud andar dōšox harw druz dwārišn ō pēš</s>
+				<s sid="">ud druz ī spazgīh garān-wināhīh rāy dwārišn ī ō pas ∵</s>
+			</answer>
+		</section>
+	</document>
+</work>
+<!-- Remainder of the full text, in case I want to continue work on it later.
+
+DĀDESTĀN Ī MĒNŌY XRAD
+[K43_1314]
+	Pad nām ī dādār Ohrmazd
+	pad nām ud nērōg ud ayārīh ī dādār Ohrmazd ud amahrspandān hu-xwadāyān hudāgān
+	ud hamāg yazdān ī mēnōyān  ud yazdān ī gētīyān pad nēk ǰahišn ud xūb murwāg [bād]
+nibēsēm  dādestān ī mēnōy ī xrad pad yazdān kām —
+MX.0 [0.1-28 not K43, PB]
+0.1/1	pad nām ud šnāyišn ī wispān-sūd dādār Ohrmazd
+0.2	ud harwisp mēnōy ud gētīy dahišnān yazdān
+0.3	ud frahangān frahang ī dēn ī māzdēsn
+0.4	kē-š ēd ēdōn bun-xān ī dānāgīh frāz wizīdār ∵
+0.5/2	u-š pad xwarrah ud kām ī dō axwān abzōnīgān āfrāh dādār Ohrmazd
+0.6	ud harwisp-meh-ōzān yazdān
+0.7	ud purr-āsān pardāzišnīh ī yazdān wāspuhragān čimīg warzišnān dānāgān.
+0.8/3	pāddāšnīhā nōg nōg ō xwēšēnīdārīh ī xrad ∵
+0.9/4	pad stabrīhā nīrmad windišnīh ī dō axwānīg ō tan ud ruwān bēšazgartom ∵
+0.10/5	čiyōn andar abēzag abdān abd abē-gumān hu-hangōšīdag weh dēn māzdēsnān pad gōwišn ī dādār
+Ohrmazd ud Spitāmān Zardušt was gyāg wizārēnīd estēd ∵
+0.11	kū ōy ī wisp-weh dādār ēn dām pad xrad dād ∵
+0.12/6	u-š āwēn-gardīhā dāštārīh pad xrad ∵
+0.13	ud a-sazišnīh ud a-petyārag pad ān ī hamē ud hamē-rawišnīhā anōšagīh nīrmadōmandtom abzār ī
+xrad rāy abāz ō xwēš kunēd ∵
+0.14/7	ham-čim rāy paydāg kū
+0.15	dānāg ēw būd kē-š guft kū
+0.16	agar ēn āšnāg kū yazdān dēn rāstīh ud dād frārōnīh ud abar dāmān nēkīh kāmag ud abaxšāyišnīh ∵
+0.17/8	čē rāy frayist mardōmān was kēš ud was wurrōyišn ud was buništ hēnd ∵
+0.18/9	ud frayist ān ī-š kēš ud dād ud wurrōyišnīh xīr ī yazdān wizendgar ud nē xūb ∵
+0.19/10	ud ēn-iz handēšīdan kū wizīdar būdan
+0.20	pad ēn tis rāy ranǰ abar barišn ∵
+0.21	ud pad ēn tis āgāh abāyēd būdan ∵
+0.22/11	čē pad frazāmgarīh tan ō xākīh gumēzīhēd ud abestām ō ruwān bawēd ∵
+0.23/12	ud harw kas ruwān rāy ranǰ abar barišn ∵
+0.24/13	ud az kār ud kerbag āgāh bawišn ∵
+0.25	čē az kerbag ī mardōm an-āgāhīhā kunēd kerbag kem  ∵
+0.26	ud ān wināh ī mardōm an-āgāhīhā kunēd wināh pad bun ō bawēd ∵
+
+0.27/14	ud az Abestāg paydāg
+0.28	kū-š [K43_131v beg.] nē  tis grift  kē-š nē ruwān grift tā nūn
+0.29	ud nē tis gīrēd kē nē ruwān gīrēd
+0.30		az-iz nūn frāz
+0.31/15	čē mēnōy ud gētīy ēdōn homānāg čiyōn  darbuštīh dō ∵
+0.32/16	ēk ēwar paydāg kū bē stānēnd  ud ēk stadan  nē šāyēd ∵
+0.33/17	pas hambār ān kunišn ī weh kē ēwar paydāg kū stadan nē šāyēd ∵
+
+0.34/18	ud ka pad ēd rāyēnišn abar nigerīd pad xrad
+0.35	xwāstārīh andar ēn gēhān šahr ud šahr ud pāygōs pāygōs franaft
+0.36/19	ud az was kēš ud wurrōyišn  ī awēšān mardōmān ī-šān pad dānāgīh abērdar menīd ud pursīd ud
+wizōst  ud abar mad
+0.37/20	ud ka dīd  kū ēk andar did ēdōn hambasān ud hamēmāl hēnd
+0.38	ēg dānist  kū ēn kēš ud wurrōyišn  ud ǰud-ristagīh ī pad  [K43_132r] ēn gēhān ēk
+andar did ēdōn hambasānīg hēnd ī  nē az dahišn ī yazdān sazēd būd
+0.39/21	čē yazdān dēn rāstīh ud dād frārōnīh
+0.40/22	ud pad ēn abē-gumān būd kū harw kē nē pad ēn abēzag dēn ēg-išān pad harw tis gumānīgīh
+0.41	ud pad hamāg čim šēbišn wēnēnd  ∵
+
+0.42/23	pas az ān pad pursīdārīh ud warzīdārīh ī dēn tuxšāgtar būd
+
+0.43/24	ud az dastwarān ī (pad) ēn dēn dānāgtar ud dēn-āgāhtar būd hēnd pursīd kū
+0.44	pad dārišn  ī tan bōzišn ī ruwān tis čē weh ud pahlomtar ∵
+0.45/25	u-šān pad paydāgīh  ⎧ ī  az dēn guft kū
+0.46	az nēkīhā ī ō mardōmān rasēd  xrad weh ∵
+0.47/26	čē gētīy  pad ⎧ nērōg ī   xrad šāyēd rāyēnīdan
+0.48	ud mēnoy-iz pad nērōg ī xrad ō xwēš šāyēd kerdan ∵
+0.49/27	ud ēn-iz paydāg kū Ohrmazd ēn dām ud dahišn ī andar gētīy  pad āsn-xrad dād estēd
+0.50	ud gētīy-iz  ud mēnōy rāyēnīdarīh pad xrad
+
+0.51/28	ud ka wazurg  sūdīh ud arzōmandīh ī xrad pad ān ēwēnag dīd  andar Ohrmazd ī xwadāy ud
+amahrspandān ud  mēnōy ī xrad spāsdārtar būd ∵
+0.52/29	ud mēnōy ī xrad [K43_132v] pad panāhīh grift  ∵
+0.53	mēnōy xrad rāy namāz ud paristišn wēš kerd  kū abārīg amahrspandān ∵
+
+0.54/30	ud ēn-iz dānist  kū hamāg kār ud kerbag ud kunišn ī frārōn pad nērōg ī xrad ō xwēš šāyēd
+kerdan
+0.55	ud tuxšāg abāyēd būd pad hušnūdīh  ī mēnōy ī xrad ∵
+0.56/31	ud az ān frāz pad ēzišn ī mēnōy ī xrad kerdan tuxšāgtar būd
+
+0.57/32	ēn  pas az ān mēnōy ī xrad menišn ud kāmag ī ān dānāg rāy tan awiš paydāgēnīd  ∵
+0.58/33	u-š awiš guft kū
+0.59	dōst ī stāyīdār weh az ahlāyīh ī pahlom
+0.60/34	āfrāh xwāh az man mēnōy xrad
+0.61	kū-t rāh-nimāy  bawam ō hušnūdīh ī yazdān ud wehān
+	ud pad gētīy  dārišn ī tan ud pad mēnōy bōxtārīh ī ruwān ∵
+
+
+EDITED CHUNK TAKEN FROM HERE
+
+
+1.13/7	āz-kāmagīh ma kun
+1.14	ka-t āz dēw nē frēbēd
+1.15	u-t xīr ī gētīy abē-mizag  ud ān ī mēnōy wanīy  nē bawēd  ∵
+
+1.16/8	xešmenīh  ma kun/gīr
+1.17	čē mard ka xešm gīrēd ēg-iš kār ud kerbag ud namāz  ud paristišn ī yazdān frāmōš  bawēd
+1.18/9	u-š hāmōyēn wināh ud bazag ō menišn ōbadēd tā bē nišast ī xešm
+1.19/10	(xešm) hāwand Ahrimen guft estēd ∵
+
+1.20/11	bēš ma bar
+1.21	čē ōy ī bēš-burdār rāmišn ī gētīy ud mēnōy wanīy bawēd
+1.22	u-š kāhišn ō tan ud ruwān ōbadēd ∵
+
+1.23/12	waranīgīh ma kun
+1.24	kū-t az xwēš kunišn ziyān ud pašēmānīh [K43_133v] nē rasēd ∵
+
+1.25/13	arešk ī abārōn ma bar
+1.26	kū-t zīndagīh  abē-mizag  nē bawēd ∵
+
+1.27/14	nang  rāy wināh ma kun
+1.28	čē nēkīh ud ārāyišn  ud hangadīh ud pādixšāyīh ud hunar ud šāyendagīh nē pad kām
+	ud kunišn ī mardōmān  bē pad brēhēnišn ud spahr ud kāmag ī yazdān bawēd ∵
+
+1.29/15	būšāsp ma warz
+1.30	kū-t kār ud kerbag ī abāyēd kerdan a-kerd nē mānēd ∵
+
+1.31/16	zan ī pad-gōhr wizīn
+1.32	čē ān weh ī pad abdom hu-srawtar ∵
+
+1.33	drāyān-ǰōyišnīh  ma kun
+1.34	kū-t andar Hordad ud Amurdad amahrspand  āstār ī garān nē ǰahēd ∵
+
+1.35/18	wišād-dwārišnīh ma kun
+1.36	kū-t pad dō-pāyān ud čahār-pāyān ziyān ud pad frazendān wizend nē rasēd ∵
+
+1.37/19	ēw-mōg  ma raw
+1.38	kū-t āstār ī garān ō ruwān nē rasēd ∵
+
+1.39/20	az pāy pēšārwār ma kun
+1.40	kū pad dād ī dēwān griftār nē bawē
+1.41	u-t ān wināh rāy dēw ō dōšox nē kešēnd  ∵
+
+1.42/21	tuxšāg  ud paymānīg bāš
+1.43	ud az frārōn-tuxšāgīh ī xwēš xwar
+1.44	ud yazdān ud wehān bahr kun [K43_134r]
+1.45	u-t ēd  ēdōn warzīdārīh andar xwēškārīh mahist  kerbag ∵
+
+1.46/22	az xwāstag ī kasān ma appar
+1.47	kū-t frārōn-tuxšāgīh ī xwēš wanīy nē bawēd
+1.48/23	čē guft estēd kū
+1.49	kē nē az frārōn-tuxšāgīh ī xwēš bē az anīy  tis xwarēd
+	ōy ēdōn homānāg čiyōn kē sar ī mardōmān  pad dast dārēd ud mazg ī mardōmān xwarēd ∵
+
+1.50/24	az zan ī kasān pahrēxtār bāš
+1.51	čē-t ēn harw 3 wanīy šāyēd būdan  ham xwāstag ud ham  tan ud ham ruwān ∵
+
+1.52/25	abāg dušmenān pad dādestān  kōxš
+1.53/26	abāg dōstān pad passand ī dōstān raw ∵
+
+1.54/27	abāg kēnwar  mard nibard ma bar
+1.55	u-š pad tis-iz ēwēnag ma āzār  ∵
+
+1.56/28	abāg āzwar mard ham-bāy ma bāš
+1.57	u-š pad sālārīh ma gumār ∵
+
+1.58/29	abāg spazg mard ō dar ī pādixšāyān ma šaw ∵
+1.59/30	abāg dusraw mard paywand  ma kun ∵
+1.60/31	abāg duš-āgāh mard ham-kār ud ham-tōzīg ma bāš ∵
+1.61/32	abāg halag mard  pahikār ma kun ∵
+1.62/33	abāg mastōg mard pad rāh [K43_134v] ma raw ∵
+1.63/34	az wad-gōhr mard abām ma stān ∵
+
+1.64/35	pad spāsdārīh ī andar yazdān ud yašt ud niyāyišn  ud ēzišn ud azbāyišn ud hammōxtārīh ī
+frahang kerdan tuxšāg ud gyān-abespār bāš
+1.65/36	čē guft estēd kū
+1.66	pad dahišn  ayārīh ī pad mardōmān  xrad weh ∵
+
+1.67/37	ud pad nām xwāstan ud ruwān bōxtan rādīh weh ∵
+1.68/38	ud pad rāyēnīdārīh ī kār ud dādestān bowandag-menišnīh weh ∵
+1.69/39	ud pad ōstīgān-gōwišnīh  ǰādangōw-barišnīh  rāstīh weh ∵
+1.70/40	ud pad kār raftārīh tuxšāgīh weh ∵
+1.71/41	ud pad harw kas padiš wistāx būd  awestwārīh  weh ∵
+1.72/42	ud pad nēkīh awiš madārīh spāsdārīh weh ∵
+1.73/43	ud pad xwēš tan an-ērang dāštan paymān-gōwišnīh ī pad rāh  rāstīh weh ∵
+1.74/44	ud pad abāz dāštan ī Ēbgad petyārag  az xwēš tan xwēškārīh weh ∵
+
+1.75/45	ud pēš  ī xwadāyān ud pādixšāyān  paymān-gōwišnīh weh  ud pad hanǰaman xūb-
+dranǰišnīh weh ∵
+1.76/46	ud pad dōstān āsānīh-menišnīg dōstīh  weh ∵
+1.77/47	ud pad hamahl  ō xwēš-kerdārīh sōg-dādārīh  weh ∵
+
+1.78/48	ud andar [K43_135r] aziš-mehān  čarbīh ud ēr-tanīh weh ∵
+1.79/49	ud andar aziš-kehān  sāxtārīh  ud hu-ēwāzīh weh ∵
+1.80/50	ud andar kerdgārān spās-gōwišnīh ud ābādīh-kerdārīh  weh ∵
+1.81/51	ud andar ham-tōhmagān hu-mānīh  weh ∵
+
+1.82/52	ud andar tan-drīstīh paymānīg-xwarišnīh ud tan pad kār dāštan weh  ∵
+
+1.83/53	ud andar spās-ešnāsān  kerdārīh weh ∵
+1.84/54	ud andar sālārān ēkānagīh ud sūd-xwāstārīh weh ∵
+1.85/55	ud andar ēkānagān ud bandagān nēk-dāštārīh ud bīm-nimūdārīh weh ∵
+1.86/56	ud andar xwēš tan kem-ranǰ-dāštārīh  hunsandīh  weh ∵
+1.87/57	ud andar sālārīh wehān pad wehīh ud wattarān pad wattarīh bē šnāxtan
+		wehān  pad pāddāšn  wattarān āwēnišn kerdan weh ∵
+
+1.88/58	ud pad harw gāh  ud zamān xwēš tan az wināh pahrēxtan ud pad kerbagīg kār  tuxšāg būd
+weh ∵
+
+1.89/59	ud pad harw rōz Ohrmazd pad dādārīh ud Ahrimen pad murnǰēnīdārīh menīdan ud andar ayād dāštan
+weh ∵
+
+1.90/60	pad an-āzarmīh awiš nē madan xwēš tan- [TD2 beg.] -šnāsīh  weh ∵
+
+1.91/61	ēn hamāg drīst ud rāst ud ham-gōnag ast
+1.92	bē xwēškārīh [K43_135v] ud pād-uzwānīh azabar harw tis ∵
+
+1.93/62	az uzdēs-paristišnīh  ud dēw-ēzagīh dūr  pahrēz ∵
+1.94	čē paydāg kū
+1.95/63	agar Kay-Husrōy  uzdēszār ī pad war ī Čēčast nē kand hād andar ēn 3 hazārag  Ōšīdar
+ud Ōšīdarmāh ud Sōšāns
+		kē ǰud ǰud pad harw hazārag sar az awēšān ēk āyēd
+		kē harw  kār ī gēhān abāz wirāyēd  ud mihrōdruǰān  uzdēs-paristān ī andar kišwar
+bē zanēd
+	ēg petyārag ēdōn stahmagtar būd hād kū ristāxēz ud tan ī pasēn kerdan  nē šāyist hād ∵
+
+1.96/64	pad hambār  kerdan ī kerbag tuxšāg bāš
+1.97	kū-t  pad mēnōyān ō frayād  rasēd ∵
+1.98/65 	pad ēč nēkīh ī gētīy wistāx  ma bāš
+1.99	čē ⎧nēkīh ī gētīy ēdōn homānāg čiyōn   abr  ī pad ābsālān rōz  āyēd  kē pad ēč
+kōf abāz nē pāyēd ∵
+1.100/66	was gētīy-ārāy ma bāš
+1.101	čē gētīy-arāy mard  mēnōy-wišōb bawēd ∵
+1.102/67	pad xīr ud xwāstag ī was wistāx ma bāš
+1.103	čē-t pad frazām hamāg abāyēd hištan  ∵ [K43_136r]
+1.104/68	pad pādixšāyīh wistāx ma bāš
+1.105	čē-t pad frazam apādixšā abāyēd būd  ∵
+1.106/69	pad āzarm ud grāmīgīh wistāx ma bāš
+1.107	čē-t pad mēnōy āzarmīgīh  nē frayādēd ∵
+1.108/70	ud  pad paywand ud tōxmag ī wazurg  wistāx ma bāš
+1.109	čē-t  pad frazām abestām ō kunišn ī xwēš bawēd ∵
+
+1.110/71	pad zīndagīh  wistāx ma bāš
+1.111	čē-t  abdom margīh abar rasēd ∵
+1.112/72	ud nasāy sag ud way  kirrēnēd
+1.113	ud astag  ō zamīg ōbadēd ∵
+1.114/73	ud tā 3 rōz-šabān ruwān  pad bālēn ī tan nišīnēd ∵
+1.115/74	ud rōz ī čahārōm andar ōš-bām
+		pad abāgīh ī Srōš-ahlīy  ud Wāy ī weh ud Wahrām  ī amāwand
+		ud hamēstārīh ī Astwihād ud Wāy ī wattar  ud Frazišt  dēw ud Wizišt dēw
+		ud duškām-kerdārīh ī Xešm ī anāg-kerdār ī xurdruš
+	tā ō Čandwar-puhl  ī buland ī sahmgen  kē harw  ahlaw ud druwand awiš madār
+(šawēd) ∵
+1.116/75	ud was hamēstār ānōh pād estēnd ∵
+1.117	pad anāg-kāmagīh ī Xešm ī xurdruš ud Astwihād kē hāmōyēn  dām ōbārēd ud sagrīh nē dānēd
+1.118/76	ud mayānǰīgīh ī Mihr [K43_136v] ud Srōš ud Rašn
+1.119	ud tarāzēnīdārīh ī Rašn ī rāst
+1.120		pad tarāzūg ī  mēnōyān
+	kē ēč kustag ōgrāy nē kunēd
+	nē ahlawān rāy ud nē-iz druwandān   nē xwadāyān rāy  ud nē-iz ān dahībedān
+1.121/77	čand mōy ēw-tāg  bē nē wardēd ud āzarm nē dārēd
+1.122/78	ud ān ī xwadāy ud dahībed  abāg ān ī xwurdagtom mardōm  pad dādestān rāst dārēd ∵
+1.123/79	ud ka ruwān ī ahlawān pad ān puhl widerēd ēw  frasang homānāg ān puhl pahnāy bawēd ∵
+1.124/80	ud ān ī ahlaw  ruwān pad abāgīh ī Srōš-ahlīy  bē widerēd ∵
+
+1.125/81	u-š ān ī xwēš nēk  kunišn pad kanīg kerb ō padīrag āyēd
+1.126	ī  az harw kanīg ī pad gēhān  ⎧ hu-čihrtar  ud weh ∵
+1.127/82	ud ān ī ahlaw ruwān gōwēd kū
+1.128	tō kē hē  kē-m hagriz kanīg ī az tō  hu-čihrtar ud weh pad gēhān nē dīd ∵
+
+1.129/83	pad passox paywāzēd ān kanīg-kerb  kū
+1.130	an  nē kanīg bē kunišn ī nēk ī tō ham ǰuwān ī hu-menišn ī hu-gōwišn ī hu-kunišn ī hu-dēn ∵
+1.131/84	čē tō ka pad gētīy dīd kē dēw-ēzagīh kerd ēg [K43_137r] tō nišast hē  u-t yazišn ī yazdān
+kerd  ∵
+1.132/85	ud ka-t dīd kū kas kē  stahm ud appar kerd ud weh  mardōm  bēšīd ud  tar kerd
+ud xwāstag az bazag handōxt ēg tō stahm ud appar ī xwēš  az dāmān abāz dāšt ∵
+1.133/86	u-t weh mardōm  menīd ud aspinǰ ud  padīriftārīh kerd u-t dāšn dād
+1.134/87		kē az nazdīk  frāz  mad ud kē-iz az dūr ∵
+	u-t xwāstag-iz az frārōnīh handōxt ∵
+1.135/88	ud ka tō dīd kē drōw-dādwarīh ud pārag-stānišnīh  kerd u-š gugāhīh ī pad-drōw dād
+	ēg tō nišast hē  u-t dranǰišn ī rāstīh  ud frārōnīh  guft ∵
+
+1.136/89	an hēm ēd ī tō humad ud hūxt ud huwaršt  ī-t menīd ud guft ud kerd ∵
+1.137/90	čē ka burzišnīg būd ham ēg-it burzišnīgtar bē kerd ham ∵
+1.138	ud ka grāmīg būd ham ēg-it grāmīgtar-iz bē kerd ham ∵
+1.139	ud ka xwarrahōmand būd hēm ēg-it xwarrahōmandtar-iz bē kerd ham  ∵
+
+1.140/91	ud ka az ānōh frāz  rawēd
+	ēg-iš wād-ēw ī hu-bōy ō padīrag āyēd ī az hamāg hu-bōyīh [K43_137v] hu-bōytar  ∵
+1.141/92	pursīd ān ī ahlaw  ruwān az Srōš kū
+1.142	ēn čē wād ast ī-m hagriz pad gētīy wād ī ēdōn hu-bōy ō mārišn nē mad ∵
+1.143/93	ēg Srōš-ahlīy  ō ān ī ahlaw ruwān paywāzēd kū
+1.144	ēn wād az wahišt ast kē ēdōn hu-bōy ∵
+
+1.145/94	pas fradom gām pad humad ud didīgar pad hūxt ud sidīgar pad huwaršt abar ahrāmīhēd
+1.146	ud čahārom gām bē ō ān ī asar-rošnīh ī hamāg-xwāhrīh  abar rasēd
+1.147/95	u-š hāmōyēn  yazdān ud amahrspandān ō padīrag āyēnd
+1.148	ud saxwan  aziš pursēnd kū
+1.149	čiyōn az ān ī seǰōmand ī bīmōmand ī was-anāgīh  axwān ō ēn ī a-seǰ axwān ī a-petyārag mad
+hē  ǰuwān ī hu-menišn ī hu-gōwišn ī hu-kunišn ī hu-dēn ∵
+
+1.150/96	pas Ohrmazd ī xwadāy  gōwēd
+1.151	kū-š ma saxwan  aziš pursēd
+	čē az ān ī grāmīg tan ǰudāg ud pad ān ī bīmgen rāh āmad estēd ∵
+1.152/97	u-š xwarišnān xwaštom  ān ī maiδiiōzarm  rōγn  awiš barēd
+1.153	kū-š āsāyēd  ruwān az ān ī 3-šabag widarg  puhl ī-š [K43_138r] az Astwihād ud abārīg
+dēwān  awiš mad ∵
+1.154/98	u-š pad gāh ī harwisp-pēsīd abar nišānēd  ∵
+1.155/99	čiyōn paydāg kū
+1.156	ahlaw nar  ud nārīg  pas az (tan bōy) bē-widerišnīh xwaštom az xwarišnān may
+		mēnōyān yazdān may ān ī maiδiiōzarm rōγn
+	awiš  barēnd
+	u-š pad gāh ī harwisp-pēsīd bē nišānēnd  ∵
+1.157/100	ud  tā hamē ud hamē-rawišnīh pad harwisp-xwārīh estēd
+		abāg mēnōyān yazdān hamē-rawišnīhā ∵ ∵
+
+1.158/101	ud ka ōy ī druwand mīrēd
+	ēg-iš ruwān 3 rōz-šabān pad nazdīkīh  ī kamāl ī ōy druwand dwārēd  ud griyēd  kū
+1.159	ō kū šawam ud nūn kē pad panāh gīram
+1.160/102	ud hāmōyēn  wināh ud bazag  ī-š pad gētīy kerd andar ān 3 rōz-šābān  pad čašm
+wēnēd ∵
+
+1.161/103	rōz ī čahārōm Wizarš dēw āyēd ud ruwān ī druwandān pad ān ī wattar  šōn bandēd
+1.162	ud pad hamēstārīh ī Srōš-ahlīy  nayēd  tā ō Čandwar  puhl ∵
+1.163/104	ēg Rašn ī rāst ān ruwān ī druwandān pad druwandīh āškārag kunēd  ∵
+
+1.164/105	pas Wizarš dēw  [K43_138v] ān ruwān ī druwand  gīrēd
+	ud an-āzarmīhā ud xešm-kāmagīhā zanēd  ud wināhēd ∵
+1.165/106	ud ān ī druwand  ruwān burzāwandīhā  griyēd ud brāmēd
+	ud was xwāyišn  ī lābakkarīhā  xwāhēd ud was kōšišn ī gyān-a-pattūgīhā  kunēd
+∵
+1.166/107	ka-š tis-iz kōšīdārīh ud lābakkarīh  nē čār u-š az bayān ud az-iz dēwān kas ō frayād nē rasēd
+	bē-š Wizarš dēw akōmandīhā  ō ān ī ...  dōšox kešēd ∵
+
+1.167/108	ud pas kanīg-ēw ī ō kanīgān nē homānāg ō padīrag āyēd ∵
+1.168/109	ud  gōwēd ān ī druwand  ruwān ō ān duš-kanīg kū
+1.169	tō kē hē kē-m hagriz pad gētīy duš-kanīg ī az tō duštar ud zišttar  nē dīd ∵
+
+1.170/110	u-š pad passox  awiš gōwēd (ān duš-kanīg) kū
+1.171	man nē kanīg bē kunišn ī tō ham zišt ī duš-menišn ī duš-gōwišn ī duš-kunišn ī duš-dēn ∵
+1.172/111	čē ka-iz tō (pad gētīy) dīd  kē ēzišn ī yazdān kerd ēg-iz tō nišast hē u-t dēw-ēzagīh  kerd
+1.173	ud dēwān ud druzān paristīd ∵
+1.174/112	ud ka-iz-it dīd  kē weh mardōm  aspinǰ ud padīriftārīh [K43_139r] kerd ud dāšn dād
+	kē az nazdīk  frāz  mad ud kē-iz az dūr
+1.175	ēg tō weh mardōm tar ud an-āzarmīg kerd ud dāšn nē dād ud  dar-iz bē bast ∵
+1.176/113	ud ka tō dīd kē dādwarīh ī rāst kerd ud pārag nē stad  ud gugāhīh ī rāst dād ud dranǰišn ī frārōn
+guft
+1.177	ēg-iz tō nišast hē  u-t dādwarīh ī drōw kerd u-t gugāhīh ī pad-drōw dād u-t dranǰišn ī
+abārōn  guft ∵
+
+1.178/114	an ham ēd ī tō duš-mad ud duš-hūxt ud duš-huwaršt ī-t  menīd ud guft ud kerd ∵
+1.179/115	čē ka man a-burzišnīg būd ham ēg-it a-burzišnīgtar-iz bē kerd ham
+1.180	ud ka an-āzarmīg būd ham ēg-it an-āzarmīgtar-iz bē kerd ham ∵
+1.181	ud ka pad gāh ī čašmgāhān  nišast ham ēg-it čašmgāhtar-iz  bē kerd ham ∵
+
+1.182/116	ud  pas fradom gām pad duš-humad  ud didīgar pad duš-hūxt ud sidīgar gām  pad duš-
+huwaršt  andar šawēd
+1.183	ud čahārom gām ō pēš  Ganāy-Mēnōy  ī druwand ud abārīg-iz dēwān andar dwārēd ∵
+1.184/117	u-š dēwān afsōs ud riyahrīh padiš kunēnd  [K43_139v]
+1.185	kū-t az Ohrmazd ī xwadāy ud amahrspandān ud wahišt ī hu-bōy ud hu-rām
+	čē must ud gilag  būd ī  ka-t ō wēnišn ī Ahrimen ud dēwān ud dōšox ī tārīk ayāst
+1.186	ī ka-t amāh anāgīh padiš kunēm ud nē āmurzēm ud dagr-zamān anāgīh wēnē ∵
+
+1.187/118	ud drāyēd  Ganāy-Mēnōy  ō dēwān
+1.188	kū-š ma saxwan aziš pursēd
+1.189	kē ān ī grāmīg tan ǰudāg ud pad ān ī wattar  widarg bē āmad estēd ∵
+1.190/119	bē-š awiš barēd rēmantom ud wattartom az xwarišnān xwarišn ī pad dōšox parwārd estēd ∵
+1.191/120	āwarēnd wiš ud zahr ī mār ud gazdum ud abārīg-iz xrafstar ī pad dōšox
+1.192	u-š xward  dahēnd
+
+1.193/121	ud tā ristāxēz ud tan ī pasēn pad was-anāgīh ud pādifrāh  ī ēwēnag ēwēnag pad dōšox abāyēd
+būd ∵
+1.194/122	ud  pargast  kū ānōh xwarišn šāyēd xward  bē pad  *wēšīdag  homānāg ∵
+
+1.195/123	mēnōy ī āsn-xrad ō dānāg guft kū
+1.196	ēd ī-t pad dārišn ī tan ud  bōzišn ī ruwān rāy pursīd u-m xūbīhā awiš guft ud handarzēnīd hē
+1.197		awiš nēk [K43_140r] pardaz ud pad kār dār
+1.198/124	čē-t ēd ast mahist  rāh pad dārišn ī tan ud  bōzišn ī ruwān ∵
+
+MX.2
+2.1/1	pursīd dānāg ō mēnōy ī xrad kū
+2.2	rādīh weh ayāb  rāstīh
+2.3	ayāb spāsdārīh (weh) ayāb xrad
+2.4	ayāb bowandag-menišnīh  (weh) ayāb hunsandīh  ∵
+
+2.5/2	mēnōy ī xrad passox kerd kū
+2.6	pad ruwān rādīh ud pad hamāg gēhān rāstīh
+2.7	ud andar yazdān spāsdārīh ud pad tan ī mard  xrad
+2.8	ud pad hamāg kār bowandag-menišnīh
+	ud pad āsānīh ī tan ud zanišn ī Ahrimen ud dēwān hunsandīh weh ∵
+
+MX.3
+3.1/1	pursīd dānāg ō mēnōy ī xrad kū
+3.2	kerbag-ēw kadām meh ud weh ∵
+
+3.3/2	mēnōy ī xrad passox kerd kū
+3.4	mahist  kerbag rādīh ∵
+	ud didīgar rāstīh ud xwēdōdah  ∵
+3.5	ud  sidīgar gāhānbār ∵
+	ud čahārom hamāg dēn (yaštan) ∵
+3.6	ud panǰom ēzišn ī yazdān ud aspinǰ ī kārdāgān kerdan  ∵
+3.7	ud šašom  harw kas rāy nēkīh abāyistan  ∵
+3.8	ud  haftom hu-čašmīh ī pad wehān ∵
+
+MX.4
+4.1/1	pursīd dānāg ō mēnōy ī xrad kū
+4.2	zamīg kadām šādtar ∵
+
+4.3/2	mēnōy ī xrad passox kerd kū
+4.4	zamīg ān šādtar kē-š mard ī ahlaw ī [K43_140v] rāst-gōwišn  mānišn padiš kunēd  ∵
+4.5/3	ud  didīgar kē mān ī ātaxšān padiš kunēnd  ∵
+4.6/4	ud sidīgar ka-š gāwān ud gōspandān padiš xufsēnd ∵
+4.7/5	čahārom a-warzīd ud an-ābādān zamīg ka abāz ō warz ud ābādānīh āwarēnd ∵
+4.8/6	ud panǰom kē gilistag ī xrafstarān  az-iš kanēnd ∵
+4.9/7	ud  šašom  kē ēzišn ud rasišn ī yazdān ud nišast ī wehān abar bawēd ∵
+4.10/8	haftom ka ān ī awērān ābādān kunēnd ∵
+4.11/9	haštom ka az xwēšīh ī wattarān ō xwēšīh ī wehān rasēd ∵
+4.12/10	ud  nohom ka (az) bar ud bēd ī az-iš bawēd yazdān ud wehān arzānīgān bahr kunēnd ∵
+4.13/11	10om kē zōhr ud ēzišn  padiš kunēnd ∵
+
+MX.5
+5.1/1	pursīd dānāg ō mēnōy ī xrad kū
+5.2	zamīg kadām duš-rāmtar  ∵
+
+5.3/2	mēnōy ī xrad passox kerd kū
+5.4	zamīg ān bišttar  kē dōšox padiš kirrēnīd estēd ∵
+5.5/3	ud  didīgar ka-š mard ī ahlaw ī a-wināh padiš ōzanēnd ∵
+5.6/4	sidīgar kē dēw  ud druz <’wlwn' y>  padiš kunēnd  ∵
+5.7/5	čahārom kē uzdēsčār  [K43_141r] padiš kunēnd ∵
+5.8/6	ud  panǰom ka mard ī druwand ī anāg-kerdār  mānišn pad-iš kunēd  ∵
+5.9/7	šašom  ka nasāy  azēr-nigān kerd estēd ∵
+5.10/8	ud  haftom kē xrafstar  gilistag padiš dārēd ∵
+5.11/9	ud haštom ka az xwēšīh  ī wehān ō xwēšīh ī wattarān  rasēd ∵
+5.12/10	ud nohom ka ān ī ābādān awērān kunēnd ∵
+5.13/11	dahom kē šēwan ud mōyag padiš kunēnd ∵
+
+MX.6
+6.1/1	pursīd dānāg ō mēnōy ī xrad kū
+6.2	wahišt čiyōn ud čand ∵
+6.3/2	ud hammistagān  čiyōn ud čand ∵
+6.4/3	ud dōšox čiyōn ud čand ∵
+6.5/4	ud ahlawān andar wahišt dādēstān  čē ud nēkīh az čē :
+6.6/5	ud druwandān andar dōšox anāgīh ud petyārag čē :
+6.7/6	ud awēšān kē pad hammistagān hēnd dādestān  čē ud čiyōn ∵
+
+6.8/7	mēnōy ī xrad passox kerd kū
+6.9	wahišt fradom az star-pāyag  tā māh pāyag
+6.10	ud  didīgar az māh-pāyag tā  xwaršēd-pāyag
+6.11	ud sidīgar az xwaršēd-pāyag tā Garōdmān kū dādār Ohrmazd abar nišīnēd  ∵
+6.12/8	ud wahišt  fradom humad ud didīgar hūxt ud sidīgar huwaršt ∵
+6.13/9	ahlawān andar wahišt  a-zarmān [K43_141v] ud a-marg ud a-bīm  ud a-bēš ud a-
+petyārag  hēnd ∵
+6.14/10	ud harw gāh purr-xwarrah ud hu-bōy ud hu-rām ud purr-rāmišn ud purr-nēkīh  hēnd ∵
+6.15/11	ud harw zamān wād ī hu-bōy ud bōy  ī sprahmagān  homānāg ō padīrag  āyēd
+		ī az harw xwašīh  xwaštar ud az harw  hu-bōyīh hu-bōytar ∵
+6.16/12	u-šān az  būd  ī pad wahišt sagrīh nēst ∵
+6.17/13	u-šān nišast ud rawišn ud wēnišn ud rāmišn abāg yazdān ud amahrspandān ud ahlawān tā hamē ud
+hamē-rawišnīh ∵
+
+6.18/14	hammistagān  rāy paydāg kū az zamīg tā star-pāyag
+6.19	ud bē sarmāg ud garmāg ēnyā-šān  tis-iz petyārag nēst ∵
+
+6.20/15	ud  dōšox fradom duš-humad ud didīgar duš-hūxt ud sidīgar duš-huwaršt  ∵
+6.21/16	čahārom gām druwand mardōm  ō ān ī tārīktom dōšox rasēd
+6.22	u-š frāz ō nazdīkīh  ī Ahrimen ī druwand nayēnd
+6.23/17	u-š Ahrimen ud dēwān afsōs ud riyahrīh  padiš kunēnd
+6.24	kū-t az Ohrmazd ud amahrspandān ud wahišt ī hu-bōy ī hu-rām čē must ud gilag būd
+		ka-t ō wēnišn  ī amāh ud dōšox ī tārīk ayāsīd ∵
+6.25	ka-t amāh anāgīh [K43_142r] padiš kunēm  ud nē āmurzēm ud dagr-zamān anāgīh wēnē
+6.26/18	u-š pas pādifrāh  ud anāgīh gōnag gōnag padiš kunēnd ∵
+
+6.27/19	ud ast gyāg kū pad sardīh ēdōn čiyōn ān ī sardtom snēxr  ud  wafr
+6.28	ud ast gyāg pad garmīh ēdōn čiyōn ān ī garmtom ud sōzāgtom ātaxš
+6.29	ud ast gyāg kū-šān xrafstar  ēdōn kirrēnēd čiyōn sag astuxān  ∵
+6.30	ud ast gyāg kū pad gandagīh ēdōn kū bē larzēnd ud  bē ōftēnd
+6.31	ud hamwār-išān tārīkīh ēdōn homānāg čiyōn ka pad dast bē šāyēd grift  ∵
+
+MX.7
+7.1/1	pursīd dānāg ō mēnōy ī xrad kū
+7.2	Ohrmazd ēn dām ud dahišn čiyōn ud pad čē ēwēnāg dād ∵
+7.3/2	u-š amahrspandān ud mēnōy ī xrad čiyōn ud pad čē ēwēnāg tāšīd  ud dād ∵
+7.4/3	ud Ahrimen ī druwand dēwān ud druzān (ud abārīg-iz wišūdagān) čiyōn wišūd hēnd ∵
+7.5/4	(ud harw nēkīh ud wattarīh ō mardōmān ud abārīg-iz dāmān čiyōn rasēd)
+7.6/5	ud tis ī baxt estēd wardēnīd  šāyēd ayāb nē ∵
+
+7.7/6	mēnōy ī xrad passox kerd kū
+7.8	dādār Ohrmazd ēn dām ud dahišn ud amahrspandān ud mēnōy ī xrad az ān ī xwēš rōšnīh ud pad
+āfrīn ī Zurwān ī [K43_142v] a-kanārag brēhēnīd ∵
+7.9/7	ēd rāy čē Zurwān ī a-kanārag  a-zarmān  ud a-marg  ud a-dard ud a-sōhišn  ud a-
+pōhišn  ud a-petyārag ud tā hamē ud hamē-rawišnīh ēč kas bē stadan  ud  az
+xwēškārīh a-pādixšāy  kerdan nē tuwān ∵
+
+7.10/8	ud Ahrimen ī druwand dēwān  ud druzān ud abārīg-iz ǰādūgān az kūn-marz ī xwēš wišūd ∵
+7.11/9	u-š 9000 zamestān pad zamān ī a-kanārag abāg Ohrmazd paymān kerd
+7.12	ud tā bowandag bē būd ēč kas wardēnīdan  ud ǰuttar kerdan nē šāyēd  ∵
+7.13/10	ud ka 9000 sāl bowandag būd Ahrimen bē a-kārīhēd ∵
+7.14	ud Srōš-ahlīy  Xešm  bē zanēd
+7.15	ud  Mihr ud Zurwān ī a-kanārag ud mēnōy ī dādestān kē pad ēč kas nē drōzēnd  ud baxt ud
+baγōbaxt  hāmōyēn  dām ud dahišn ī Ahrimen ud pad abdomīh Āz-iz dēw bē zanēnd
+7.16/11	ud hamāg dām ud dahišn ī Ohrmazd a-petyārag ēdōn abāz bawēd čiyōn ān ī ī-š pad fradomīh
+brēhēnīd ud dād ∵
+
+7.17/12	harw nēkīh ud ǰuttarīh  ī ō mardōmān  ud abārīg-iz dāman rasēd
+		pad  [K43_143r] 7-ān ud 12-ān rasēd ∵
+7.18/13	ud ān ī  12 axtar čiyōn  pad dēn 12 spāhbed ī az kustag ī Ohrmazd (guft estēd)
+7.19	ud  ān 7  abāxtar 7 spāhbed ī az kustag ī Ahrimen guft estēd ∵
+7.20/14	ud harwisp dām ud dahišn ōy 7 abāxtarān tarwēnēnd  ud ō margīh ud harw anāgīh abespārēnd ∵
+7.21	čiyōn  awēšān 12 axtar ud 7 abāxtar brēhēnāg  ud rāyēnāg ī   gēhān hēnd ∵
+
+7.22/15	Ohrmazd nēkīh kāmag ud hagriz anāgīh nē padīrēd  ud  nē sahēd
+7.23	ud  Ahrimen ⎧anāgīh kāmag   ud tis-iz nēkīh nē menēd ud nē padīrēd ∵
+7.24/16	Ohrmazd ka-š kāmēd pad dām ī Ahrimen ud Ahrimen-iz ast ī ka-š (kāmēd) pad dām ī Ohrmazd
+wardēnīdan  tuwān ∵
+7.25	bē ēdōn tuwān wardēnīdan kū pad frazām-kārīh Ohrmazd ziyān nē bawēd
+7.26	čē frazām-pērōzīh Ohrmazd xwēš ∵
+
+7.27/17	čē paydāg kū Ohrmazd J̌am ud Frēdōn ud Kāyus a-hōš dād hēnd
+7.28	ud Ahrimen ēdōn wardēnīd čiyōn āšnāg ∵
+7.29/18	ud  Ahrimen Bēwar-asp ud Frāsiyāg  ud Aleksandar ēdōn sahist kū anōšag hēnd ∵
+7.30	ud  Ohrmazd ō meh-sūdīh ēdōn wardēnīd čiyōn ān ī paydāg ∵
+
+MX.8
+8.1/1	pursīd  [K43_143v] dānāg ō mēnōy ī xrad kū
+8.2	az kišwar ō kišwar šāyēd šudan ayāb nē ∵
+8.3/2	ud āsmān az čē gōhr kerd estēd ∵
+8.4/3	ud gumēzišn ī āb  andar zamīg čiyōn ud pad čē ēwēnāg ∵
+
+8.5/4	mēnōy ī xrad passox kerd kū
+8.6	az kišwar  ō kišwar bē pad parwānagīh ī yazdān ayāb parwānagīh ī dēwān ēnyā  šudan nē
+šāyēd ∵
+8.7/5	ud āsmān az gōhr ī xwēn-āhen  kerd estēd čiyōn almāst-iz xwānēnd ∵
+8.8/6	ud gumēzišn ī āb andar zamīg ēdōn čiyōn xōn andar tan ī mardōmān  ∵
+
+MX.9
+9.1/1	pursīd dānāg ō mēnōy ī xrad kū
+9.2	Ahrimen ī druwand u-š dēwān  ud wišūdagān abāg Ohrmazd ud amahrspandān tis-iz  āštīh
+ud dōšāram  ēk abāg did būd šāyēd ayāb nē ∵
+
+9.3/2	mēnōy ī xrad passox kerd  kū
+9.4	pad ēč mar-iz  būd nē šāyēd
+9.5	čē Ahrimen mihōxt ī wad menēd u-š kār  xešm ud kēn  ud an-āštīh ∵
+9.6/3	ud Ohrmazd ahlāyīh menēd u-š kār kerbag ud wehīh ud rāstīh ∵
+9.7/4	ud harw tis wardēnīd šāyēd bē gōhr ī nēk ud wad ∵
+9.8/5	ud gōhr ī nēk pad tis-iz  čārag ō  wattarīh
+	ud gōhr ī wad pad ēč ēwēnag ō wehīh [K43_144r] wardēnīdan nē šāyēd ∵
+9.9/6	ud Ohrmazd nēk-gōhrīh rāy ēč wattarīh ud drōzanīh nē passandēd
+9.10	ud  Ahrimen wad-gōhrīh  rāy ēč wehīh ud rāstīh nē padīrēd  ∵
+9.11/7	u-šān  ēd rāy ēk abāg did tis-iz  āštīh ud dōšāram  būd nē šāyēd ∵
+
+MX.10
+10.1/1	pursīd dānāg ō mēnōy ī xrad kū
+10.2	xrad weh  ayāb hunar ayāb wehīh  ∵
+
+10.3/2	mēnōy ī xrad passox kerd kū
+10.4	xrad kē-š wehīh nē abāg pad xrad nē dārišn
+10.5	ud hunar kē-š xrad nē abāg pad hunar nē dārišn ∵
+
+MX.11
+11.1/1	pursīd dānāg ō mēnōy ī xrad kū
+11.2	čē rāy ka xīr ī mēnōy ēdōn rāst ud ān ī gētīy  ēdōn  drōw baxt estēd ∵
+
+11.3/2	mēnōy ī xrad passox kerd kū
+11.4	xīr ī gētīy pad bun-dahišnīh ēdōn rāst baxt estēd  čiyōn ān ī mēnōy ∵
+11.5/3	ud dādār Ohrmazd hāmōyēn  nēkīh ī pad ēn dām ud dahišn ō bun ī Mihr ud Māh ud awēšān 12
+axtar ī az dēn 12 spāhbed [K43_144v] guft estēd kerd
+11.6	ud awēšān-iz rāstīhā ud sazāgīhā  baxtan rāy az Ohrmazd padīrift  ∵
+
+11.7/4	ud pas Ahrimen ān 7 abāxtar čiyōn 7 spāhbed ī Ahrimen guft estēd pad wišuft  ud bē stad
+ī  ān nēkīh az dāmān ī Ohrmazd pad petyāragīh ī Mihr ud Māh ud awēšān 12 axtarān dād ∵
+11.8/5	ud harw nēkīh ī awēšān axtarān pad dāmān ī  Ohrmazd baxšēnd
+11.9	awēšān abāxtarān čand-išān  tuwān dād  aziš apparēnd
+11.10		ud bē ō nērōg dēwān ud druzān ud wattarān  dahēnd ∵
+
+11.11/6	ud xīr ī mēnōy ēd rāy ēdōn rāst
+	čē Ohrmazd ī xwadāy abāg harwisp yazdān ud  amahrspandān a-petyārag hēnd
+11.12	ud kōxšišn  ī abāg Ahrimen ud dēwān ud āmār-iz  ī ruwān ī mardōmān  pad rāstīh
+kunēnd  ∵
+11.13/7	ud kē-š kerbag wēš gāh pad wahišt
+11.14	ud kē-š kerbag ud wināh āgenēn rāst gāh pad hammistagān
+11.15	ud ka bazag wēš ēg-iš rāh ō dōšox ∵
+
+MX.12
+12.1/1	pursīd dānāg [K43_145r] ō mēnōy ī xrad kū
+12.2	čē rāy ka gāwān ud gōspandān ud murwān ud wāyendagān ud māhīgān ēk ēk pad ān ī xwēš dānišn
+sazāgīhā dānišnōmand hēnd ∵
+12.3/2	ud mardōmān tā-šān hammōzišn abar nē barēnd  ud was ranǰ uzēn padiš nē kunēnd  dānišn
+ī mardōmīh  ayāftan ud dānist nē tuwān ∵
+
+12.4/3	mēnōy ī xrad passox kerd kū
+12.5	mardōmān pad bun-dahišnīh ēdōn dānāg būd hēnd kū-šān kerbag ud bazag ī kerd ēg-išān pāddāšn ī
+kerbag ud pādifrāh  ī bazag pad xwēš čašm dīd
+12.6	ud tis-iz bazag az mardōmān nē raft ∵
+12.7/4	ud pas Ahrimen ī druwand pāddāšn  ī kerbag ud pādifrāh ī wināh  abar nihumbīd  ∵
+
+12.8/5	ud ēd-iz rāy andar dēn guft estēd kū
+12.9	az harw anāgīh ī gizistag Ganāy ī  druwand pad dāmān ī Ohrmazd kerd čahār    tis ēn
+wattar  ud garāntar
+12.10	ka-š kerbag mizd ud wināh  pādifrāh ud menišn ī mardōmān  ud frazām ī kār bē nihumbīd
+12.11/6	ud ham-čim  rāy was kēš ud wurrōyišn ī [K43_145v] abārōn andar gēhān rawāg  kerd ∵
+12.12/7	ud mardōmān  nē dānist ī kār ud kerbag rāy harw kas ān wēš  wurrōyēd ud pad weh dārēd
+ī-š hammōzišn pad kēš abar būd  estēd ∵
+12.13/8	ud pad nāmčišt ān kēš pādyāwandtar kē-š pādixšāyīh abāg bawēd ∵
+12.14/9	bē ān ēk xwadāyīh ud pādixšāyīh ī  Wištāsp šāhān šāh
+12.15	kē-š dēn  drīst ud rāst ī pad gōwišn dādār Ohrmazd abē-gumānīh  ud ēwarīhā dānist rāy az
+ēw-tāg Zarduxšt ī Spitāmān  frāz padīrift
+12.16	kē harw ēwēnag xīr ī gētīy ud mēnōy az dēn ī weh  ī mazdēsnān rōšn ud  gōwizār ud a-
+gumān paydāgīhēd
+12.17/10	ēg-iš ēč wurrōyišn nēst kē-š xīr ī gētīy ud mēnōy ēdōn gōwizār ud rōšn padiš šāyēd ayāftan ud
+dānistan
+12.18	bē wēš wiyuftagīh rāy āγištag ud pēčīdag ōwōn hēnd kū-šān gōwišn ī bun ō mayān ud mayān ō
+frazām abēr a-homānāg ∵
+
+MX.13
+13.1/1	pursīd dānāg ō mēnōy ī [K43_145v end, next 155r] xrad kū
+13.2	panāh kadām darbušttar
+13.3	ud dōst kadām (weh)
+13.4	ud nām-burdār  kadām weh
+13.5	ud rāmišn-ayār kadām weh
+13.6	ud xwāstag kadām xwaštar
+13.7	ud rāmišn ī az harw rāmišn  frāztom kadām ∵
+
+13.8/2	mēnōy ī xrad passox kerd kū
+13.9	panāh yazd darbušttar
+13.10	ud dōst brād  ī nēk weh
+13.11	ud nām-burdār frazend ī nēk ī dēn-burdār weh
+13.12	ud rāmišn-ayār zan ī nēk ī hu-xēm weh
+13.13	ud xwāstag ān weh ud xwaštar ī az frārōnīh handōxt estēd ud abāg kār ud kerbag xwarēd ud dārēd
+13.14	ud rāmišn ī az harw rāmišn frāztar tan-drīstīh ud abē-bīmīh  ud hu-srawīh ud ahlāyīh weh ∵
+
+MX.14
+14.1/2	pursīd dānāg ō mēnōy ī xrad kū
+14.2	driyōšīh weh ayāb tuwāngarīh (ayāb pādixšāyīh) ∵
+
+14.3/2	mēnōy ī xrad passox kerd kū
+14.4	driyōšīh ī pad frārōnīh weh kū tuwāngarīh ī az xīr ī kasān ∵
+14.5/3	čē guft estēd kū
+14.6	ōy ī driyōštom ud armēštom kas hamē ka-š menišn ud gōwišn ud kunišn frārōn ud pad kār ī yazdān
+dārēd az harw kār ud kerbag ī mardōmān  andar gēhān kunēnd  ōy-iz dādīhā bahr
+andar bawēd ∵
+
+14.7/4	ud ōy-iz ī tuwāngar ī was-xwāstag mard ka xwāstag nē az frārōnīh kerd estēd ka pad kār ud kerbag
+ud ahlawdād uzēnag kunēd  ēg-iš kerbag xwēš nē bawēd
+14.8	čē kerbag ōy xwēš kē aziš appurd estēd ∵
+14.9/5	bē  ōy ī was-xwāstag  mard  kē-š az frārōn-tuxšāgīh handōxt estēd ud abāg kār ud
+kerbag ud rāmišn xwarēd ud dārēd (ān-iz) aziš weh nēst
+14.10/6	čē ān pad pahlom abāyēd dāštan ∵
+14.11	(bē ōy ī was-xwāstag mard kē-š xwāstag az frārōn-tuxšāgīh handōxt estēd ud abāg kār ud kerbag ud
+rāmišn xwarēd ud dārēd ān meh ud weh pahlomtar ∵)
+
+14.12/7	ud ān-iz ī pādixšāyīh  rāy gōwēnd kū
+14.13	kē pad deh-ēw hu-pādixšāyīh weh kū kē pad kišwar-ēw duš-pādixšāyīh
+14.14	čē dādār Ohrmazd pānagīh-kerdārīh ī dāmān rāy hu-pādixšāyīh dād
+14.15	ud Ahrimen ī druwand duš-pādixšāyīh pad petyārag ī hu-pādixšāyīh dād estēd ∵
+
+14.16/8	hu-pādixšāyīh ān bawēd kē šahr ābādān ud driyōšān abē-must
+		dād ud ēwēn ī rāst dārēd ud framāyēd
+14.17	ud dād ud ēwēn ī abārōn spōzēd
+14.18	ud āb ud ātaxš xūb (dārēd)
+14.19	ud pad ēwēn ēzišn ī yazdān ud kār ud kerbag pad rawāg dārēd
+14.20	ud driyōšān ayārōmandīh ud ǰādag-gōwīh kunēd
+14.21	ud dēn ī weh ī mazdēsnān rāy tan ud ān-iz ī xwēš gyān abespārēd ∵
+
+14.22/9	ud agar ast kas kē az rāh ī yazdān bē estēd ēg-iš wirāyišn padiš kerdan framāyēd
+14.23	u-š griftār kunēd ud abāz ō rāh ī yazdān āwarēd
+14.24	ud az xwāstag ī-š ast bahr ī yazdān ud arzānīgān ud kerbag  driyōšān bē baxšēd
+14.25	ud tan ruwān rāy bē abespārēd
+14.26/10	hu-pādixšāy  ī pad ān ēwēnāg ham-tāg yazdān ud amahrspandān guft estēd ∵
+
+14.27/11	duš-pādixšāyīh  ān bawēd
+14.28	kē dād ud ēwēn ud ristag  rāst ud frārōn wišōbēd
+14.29	ud stahm ud appar ud a-dādestānīh andar kār dārēd
+14.30	xīr ī mēnōy wišōbēd
+14.31	ud kār ud kerbag pad āz wēš dārēd
+14.32	ud kerbakkar mardōm  az kerbag kerdan abāz dārēd
+14.33	ud pad-iš wizēnd-kerdār bawēd ∵
+14.34/12	u-š hāmōyēn  handāzišn ō tan ī xwēš
+14.35	ud ārāyišn ī xīr ī gētīy
+14.36	ud hangadīh ud burzišn ī wattarān
+14.37	ud zanišn ud āwēnišn ī wehān
+14.38	ud abesīhišn  ī driyōšān ∵
+14.39/13	duš-pādixšāy  ī pad ān ēwēnāg ham-tāg Ahrimen ud dēwān guft estēd ∵
+
+MX.15
+15.1/1	pursīd dānāg ō mēnōy ī xrad kū
+15.2	az xwarišn ī mardōmān  xwarēnd ud wastarg ī mardōmān pāymōzēnd kadām arzōmandtar ud
+weh ∵
+
+15.3/2	mēnōy ī xrad passox kerd kū
+15.4	az xwarišn ī mardōmān xwarēnd šīr ī gōspandān weh dād estēd ∵
+15.5/3	čē mardōm ud čahār-pāy  kē az mādar  bē zāyēnd tā ān ī ka-šān xwarišn (tuwān) xward ēg-
+išān rōyišn ud parwārišn  az šīr
+15.6	ud pad šīr weh šāyēnd zīyistan ∵
+15.7/4	ud agar mardōm ka az šīr ī mādar  abāz kunēnd  bē ō šīr ī gōspandān hammōzišn kunēnd
+15.8	ēg-išān nān  pad kār andar nē abāyēd ∵
+15.95	čē paydāg kū
+15.10	mardōm  ī pad Arzah  ud Sawah ud Fradadafš  ud Widadafš  ud Waurubaršt
+Wauruǰaršt hēnd xwarišn pēm ī gōspandān ud gāwān
+15.11	anīy  xwarišn nē xwarēnd ∵
+15.12/6	ud ōy  pēm-xwarišn mardōm  tan drīsttar ud zōrōmandtar
+		ud zāyišn-iz ī frazendān abē-wizendtar  bawēd ∵
+
+15.13/7	ud az ǰōrdāyān gandum  meh ud weh guft estēd
+15.14	čē rad ī ǰōrdāyān ast
+15.15	ud az-iz Abestāg ēg-iš nām pad radīh ī ǰōrdāyān paydāg ∵
+
+15.16/8	ud az mēwag xormāy  ud angūr  meh ud weh guft estēd ∵
+15.17/9	ud ka nān  nē mad estēd mēwag rāy drōn abāyēd yaštan
+15.18	ud ka mēwag xormāy ayāb angūr  yašt harw mēwag pādixšāy  xwardan
+15.19	ud ka ān nē mad estēd ān mēwag abāyēd xwardan ī yašt estēd ∵
+
+15.20/10	may  rāy paydāg kū gōhr ī nēk ud wad pad may  pad paydāgīh šāyēd madan ∵
+15.21/11	wehīh  ī mard andar xešm ud xrad ī mard andar abārōnīh-hangēz  waran (paydāgīhēd) ∵
+15.22/12	čē kē xešm aweštābēd u-š xwēš tan wirāstan tuwān pad wehīh
+15.23	ud kē waran aweštābēd u-š xwēš tan wirāstan tuwān pad xrad
+15.24	ud kē may  aweštābēd u-š xwēš tan wirāstan tuwān pad gōhr
+15.25	pad wizōstan  nē abāyēd ∵
+
+15.26/13	čē ōy ī nēk-gōhr mard ī ka may xwarēd ēdōn homānāg čiyōn ǰāmag-ēw  ī zarrēn  ud sēmēn
+ī and-čand wēš abrōzēnd  pāktar  ud rōšntar bawēd
+15.27	ud menišn ud gōwišn ud kunišn frārōntar dārēd
+15.28	ud andar zan ud frazend ud hamahlān ud dōstān  čarbtar ud šīrēntar bawēd
+15.29	(ud pad harw kār ud kerbag tuxšāgtar bawēd ∵)
+
+15.30/14	ud ōy ī wad-gōhr  mard ī ka may xwarēd xwēš tan az paymān frāy  menēd ud dārēd
+15.31	ud abāg hamahlān nibard barēd  ud čērīh nimāyēd ud afsōs ud riyahrīh kunēd
+15.32	ud weh mardōm  tar kunēd
+15.33	ud zan ud frazend ud mizdwar  ud bandag  ud paristār ī xwēš bēšēd
+15.34	ud xwaran  ī wehān wišōbēd
+15.35	ud āštīh bē barēd  ud an-āštīh (andar) āwarēd ∵
+
+15.36/15	bē harw kas pad paymān xwardan ī may ōšyār abāyēd būdan ∵
+15.37/16	čē az paymān xwardan ī may ēn and nēkīh aw-iš rasēd
+15.38	čē xwarišn gugārēd
+15.39	ud ātaxš abrōzēd
+15.40	ud ōš ud wīr ud tōm ud xōn abzāyēd
+15.41	ud bēš spōzēd
+15.42	ud gōnag abrōzēd
+15.43	ud tis ī frāmušt ayād kunēd
+15.44	ud wehīh pad menišn gāh gīrēd
+15.45	ud wēnišn ī čašm ud āšnawišn  ī gōš ud guftārīh ī uzwān abzāyēd
+15.46	ud kār ī kerdan ud rāyēnīdan abāyēd rawāgtar bawēd
+15.47	ud pad bālišn-gāh  xwaš xufsēd ud sabuk āxēzēd
+15.48	u-š ān bahrag rāy hu-srawīh ō tan ud ahlāyīh ō ruwān ud passand-iz ī wehān (wēš abzāyēd ud)
+abar rasēd ∵
+
+15.49/17	ud kē may  frāy  az paymān xwarēd ēn and āhōg padiš paydāg bawēd ∵
+15.50/18	čē-š xrad ud ōš ud wīr ud tōm ud xōn kāhēd
+15.51	ud ǰagar wināhēd ud wēmārīh handōzēd
+15.52	ud gōnag wardēnēd
+15.53	ud zōr ud pattūgīh kāhēd
+15.54	ud namāz ud stāyišn ī yazdān framušt bawēd
+15.55	ud wēnišn ī čašm ud ud āšnawišn  ī gōš ud guftārīh ī uzwān kem  bawēd
+15.56	ud Hordad ud Amurdad bēšēd
+15.57	ud būšāsp-kāmag warzēd
+15.58	u-š ān ī guftan ud kerdan abāyēd a-kerd mānēd
+15.59	ud pad dušwārīh xufsēd ud a-xwašīhā āxēzēd
+15.60	ud ān bahrag rāy xwēš tan ud zan ud frazend ud dōst ud xwēšāwand bēšīd ud duš-rām
+15.61	ud must-abarmānd ud dušmen šād
+15.62	ud yazdān az-iš nē hušnūd
+15.63	u-š dusrawīh ō tan ud druwandīh ō ruwān rasēd ∵
+
+15.64/19	ud az paymōzan ī mardōmān  dārēnd  pad tan parnīgān ud pad ruwān pambag weh ∵
+15.65/20	ēd rāy čē parnīgān az xrafstar bawēd
+15.66	ud pambag parwarišn az āb ud rōyišn az zamīg
+	ud pad xīr ī ruwān meh ud weh ud arzōmandtar guft estēd ∵
+
+MX.16
+16.1/1	pursīd dānāg ō mēnōy ī xrad kū
+16.2	kadām ān šādīh ī az duš-rāmīh wattar ∵
+
+16.3/2	mēnōy ī xrad passox kerd kū
+16.4	kē xwāstag az bazag handōxt estēd u-š padiš šād bawēd ēg-iš ān šādīh az duš-rāmīh wattar ∵
+
+MX.17
+17.1/1	pursīd dānāg ō mēnōy ī xrad kū
+17.2	čē rāy mardōmān ēn čahār  tis ī-šān pad daxšag  wēš abāyēd menīdan  ēn kemtar
+menēnd
+17.3	wardišnīgīh ī tis ī gētīy  ud margīh ī tan ud āmār ī ruwān ud bīm ī dōšox ∵
+
+17.4/2	mēnōy ī xrad passox kerd kū
+17.5	wiyābānīh ī Āz dēw ud a-hunsandīh rāy ∵
+
+MX.18
+18.1/1	pursīd dānāg ō mēnōy ī xrad kū
+18.2	pad bīm ud mihōxt zīyistan wattar ayāb margīh ∵
+
+18.3/2	mēnōy ī xrad passox kerd kū
+18.4	pad bīm ud mihōxt zīyistan az margīh wattar ∵
+18.5/3	čē harw kas zīndagīh rāmišn ud xwašīh ī gētīy  rāy abāyēd
+18.6	ud ka-š rāmišn xwašīh ī gētīy nēst u-š bīm ud mihōxt-iz abāg
+		az margīh wattar guft estēd ∵
+
+MX.19
+19.1/1	pursīd dānāg ō mēnōy ī xrad kū
+19.2	pad pādixšāyān tis-ēw čē sūdīmandtar  ud čē ziyāngārtar ∵
+
+19.3/2	mēnōy ī xrad passox kerd
+19.4	kū pādixšāyān rāy tis-ēw ham-pursagīh ī abāg dānagān ud wehān sūdōmandtar
+19.5	u-šān  gōwišn ud ham-pursagīh ī abāg spazgān ud 2-saxwanān ziyāngārtar ∵
+
+MX.20
+20.1/1	pursīd dānāg ō mēnōy ī xrad kū
+20.2	gētīy-ārāy  ud mēnoy-wišōb mard frazām čē ∵
+20.3/2	ud ōy ī afsōsgar mard frazām čē ∵
+20.4-6/3-5	ud (ōy ī) a-xwēškār ud kēnwar ud aǰgahān mard frazām čē ∵
+20.7/6	ud mihōxt-menišn frazām čē ∵
+20.8/7	ud tar-menišn frazām čē ∵
+
+20.9/8	mēnōy ī xrad passox kerd kū
+20.10	ōy ī gētīy-ārāy ud mēnōy-wišōb mard andar pādifrāh  ī sidōš ēdōn tabāhīhēd čiyōn ātaxš ī
+waxšendag ka-š āb abar rasēd ∵
+
+20.11-12/9	ud ōy ī afsōsgar mard pad tan ud ruwān xwarrah nē bawēd
+	ud harw bār ka zafar abāz kunēd  ēg-iš druwandīh abzāyēd ∵
+20.13-14/10	u-š harw druz pad tan ēdōn mehmān bawēnd kū-š ēč wehīh  ō tan nē hilēnd
+	ud wehān riyahrīh  ud wattarān stāyišn kunēd  ∵
+20.15/11	u-š pad gētīy tan dusraw ud mēnōy ruwān druwand bawēd ∵
+20.16/12	u-š andar dōšox pādifrāh  kerdan rāy bē ōy (druz) ī afsōsgar abespārēnd
+20.17	ud ōy druz pad harw pādifrāh  afsōsīh  ud riyahrīh  ēd padiš kunēd  ∵
+
+20.18/13	ud ōy ī a-xwēškār mard ǰud-iz az druwandīh was ka pad gētīy (anāgīh ud) margīh abar rasēd
+		u-š az (ān) did xwaš  zāyēd  ∵
+
+20.19/14	ud ōy ī kēnwar mard puhl ī pad ruwān garāntar kū abārīg druwandān ī pad dōšox ∵
+20.20-21/15	ēd rāy čē kēn pad paywand rawēd
+	ud harw wināh wirāstan weh šāyēd kū kēn ∵
+20.22-23/16	čē kēn pad paywand bē mānēd
+	ud ast ī ka tā fraškerd paywandēd ∵
+20.24-26/17	čē az abēzag dēn rōšn paydāg kū
+	an-ērīh ī Hrōmāyīgān  ud Turkān-iz (abāg) Ērānagān bun az ān kēn būd  ī-šān pad ōzadan ī
+Ēriǰ zād
+	ud tā fraškerd hamē paywandēd ∵
+
+20.27/18	ud ōy ī aǰgahān  mard an-arzānīgtom az mardōmān  guft estēd ∵
+20.28-29/19	čē (az ēn)  dēn paydāg kū
+	dādār Ohrmazd ōy ī aǰgahān  mardōm  rāy ǰōrdāg nē brēhēnīd ∵
+20.30/20	ud ōy ī aǰgahān  mardōm  rāy ēg-iš tis pad (zīyišn) dāšn  ud ahlawdād nē dahišn
+20.31	u-š aspinǰ ud padīriftārīh  nē kunišn  ∵
+20.32/21	ēd rāy čē az xwarišn ī mardōm  ī aǰgahān  xwarēd (az abārōnīh ud a-dādestānīh xwarēd) ∵
+20.33/22	u-š aǰgahānīh  ud a-dādestān-xwarišnīh rāy ēg-iš tan dusraw ud ruwān druwand bawēd ∵
+
+20.34/23	ud ōy ī mihōxt-menišn mard pad  wehān ēdōn warōmand čiyōn pad wattarān
+20.35	ud pad xīr ī mēnōy ud gētīy ud pad-iz ēzišn ud azbāyišn ud  paristišn ī yazdān warōmand ∵
+20.36/24	u-š ān  bahrag rāy yazdān ud amahrspandān ēzišn ud azbāyišn ī kunēd  kem
+padīrēnd
+20.37	ud āyaft-iz  ī xwāhēd awiš kem dahēnd
+20.38	ud pad dahān ī wehān hamwār  dusraw
+20.39	u-š ruwān druwand bawēd ∵
+
+20.40/25	ud ōy ī tar-menišn mard dōst andak u-š dušmen was
+20.41	ud dāšn-iz ī ō kas dahēd ud ēzišn-iz ī yazdān rāy kunēd  ud tar-menišnīh  rāy kem
+padīrēnd
+20.42	ud āyaft-iz  ī xwāhēd awiš kem dahēnd.
+20.43/26	u-š andar dōšox pādifrāh ī pad ruwān kerdan rāy ō druz ī tar-menišnīh abēspārēnd
+20.44	ud druz ī tar-menišnīh gōnag gōnag pādifrāh padiš kunēd ud nē āsāyēd  ∵
+
+MX.21
+21.1/1	pursīd dānāg ō mēnōy ī xrad kū
+21.2	pad tuxšāgīh xīr ud xwāstag ī gētīy ō xwēš šāyēd kerdan ayāb nē ∵
+
+21.3/2	mēnōy ī xrad passox kerd kū
+21.4	pad tuxšāgīh ān nēkīh ī nē brēhēnīd estēd ō xwēš kerdan nē šāyēd
+21.5	bē ān ī brēhēnīd estēd tuxšāgīh rāy ahīy bē rasēd ∵
+21.6/3	bē tuxšāgīh ka-š yazdān  nē abāg pad gētīy abē-bar
+	bē pas-iz  pad mēnōy ō frayād rasēd ud pad tarāzūg abzāyēd ∵
+
+MX.22
+22.1/1	pursīd dānāg ō mēnōy ī xrad kū
+22.2	pad xrad ud dānāgīh abāg brēh kōxšīdan  šāyēd ayāb nē ∵
+
+22.3/2	mēnōy ī xrad passox kerd
+22.4	kū abāg-iz tagīgīh ud zōrōmandīh ī xrad ud dānāgīh pas-iz abāg brēh kōxšīdan nē šāyēd ∵
+22.5/3	čē ka brēhēnišn pad nēkīh ayāb ǰuttarīh  frāz rasēd dānāg pad kār wiyābān bawēd ud duš-āgāh
+(pad) kār āgāh  (bawēd)
+22.6	ud wad-dil  dilērtar  ud dilērtar  wad-dil (bawēd)
+22.7	ud tuxšāg (aǰgahān ud) aǰgahān  tuxšāg bawēd  ∵
+22.8/4	ēdōn čiyōn pad ān tis ī brēhēnīd estēd wihānag  padiš andar āyēd
+22.9	ud abārīg harw tis bē spōzēd ∵
+
+MX.23
+23.1/1	pursīd dānāg ō mēnōy ī xrad kū
+23.2	āyaft-xwāstārīh  ud kerbag-warzīdārīh ud arzānīgīh rāy yazdān ō mardōmān  did-iz
+tis baxšēnd ayāb nē ∵
+
+23.3/2	mēnōy ī xrad passox kerd
+23.4/3	kū baxšēnd ∵
+23.5	čē ēdōn čiyōn gōwēnd kū baxt ud baγōbaxt  ∵
+23.6	ēg baxt  ān bawēd ī az fradomīh baxt estēd
+23.7	ud baγōbaxt ān ī did-iz baxšēnd ∵
+23.8	bē yazdān ān baxšišn  ēd rāy kem  kunēnd  ud pad mēnōy (kem) paydāgēnēnd
+	čē Ahrimen-iz ī druwand pad ān wihānag  pad nērōg ī 7 abāxtar xwāstag ud abārīg-iz harw
+nēkīh ī gētīy az wehān ud arzānīgan apparēd  ud ō wattarān ud an-arzānīgān abērtar
+baxšēd  ∵
+
+MX.24
+24.1/1	pursīd dānāg ō mēnōy ī xrad kū
+24.2	az tuwāngarān  kē driyōštar ud az driyōšān kē tuwāngartar ∵
+
+24.3/2	mēnōy ī xrad passox kerd kū
+24.4-5	az tuwāngarān ōy driyōštar kē pad ān ī-š ast nē hunsand
+	ud wēš būdan ī tis rāy tīmār barēd  ∵
+24.6-7/3	ud az driyōšān ōy ī tuwāngartar kē pad ān ī mad estēd hunsand
+	ud wēš būdan ī tis rāy nē handēšēd ∵
+
+MX.25
+25.1/1	pursīd dānāg ō mēnōy ī xrad kū
+25.2	kōr-čašm wattar ayāb kōr-dil ∵
+25.3/2	ud duš-āgāh wattar ayāb wad-xēm ∵
+
+25.4/3	mēnōy ī xrad passox kerd kū
+25.5	ōy ī kōr-čašm ka-š šnāsīh ī pad tis ast ud hammōzišn kunēd  pad drīst-čašm dārišn ∵
+25.6/4	ud ōy ī drīst-čašm ka-š dānišn šnāsīh ī (tis) nēst ud ān-iz ī-š hammōzēnd nē padīrēd
+		ēg ān (az)-iz kōr-čašm wattar ∵
+25.7/5	ud duš-xēm kem wattar kū duš-āgāh ∵
+25.8/6	čē duš-xēm ǰud az dādestān az kas tis bē stadan  nē tuwān
+25.9	ud duš-āgāh mard ēg-iš hāmōyēn  kāmag  ō stahm ud appar ∵
+25.10/7	ōy ī duš-āgāh rāy paydāg kū ǰud az brēhēnīšn az nōg xwaš  zāyēd ∵
+
+MX.26
+26.1/1	pursīd dānāg ō mēnōy ī xrad kū
+26.2-3	čē rāy mardōm  ī az Gayōmard ud ān-iz ī az Hōšang ī pēšdād xwadāyān ud dahībedān ī tā ō
+Wištāsp ī šāhān šāh ēdōn kām-kerdār  būd hēnd
+		ī-šān  az (yazdān) nēkīh wēš windād  ∵
+26.4/2	ud frayist  ān ī andar yazdān anespās būd hēnd
+26.5	ud ast-iz kē abēr an-espās ud mihrōdruǰ  ud wināhgār būd hēnd ∵
+26.6/3	ēg awēšān ǰud ǰud čē nēkīh rāy dād hēnd
+26.7	u-šān bar ud sūd az-iš čē raft ∵
+
+26.8/4	mēnōy ī xrad passox kerd kū
+26.9	ān ī awēšān rāy pad nēkīh ayāb pad ǰuttarīh pursē  āgāh bāš ud bē dān ∵
+26.10/5	čē kār ī gēhān hāmōyēn pad brēh ud zamānag ud wizīr ī brīn rawēd ī xwad ast Zurwān ī pādixšā ud
+dagrand-xwadāy  ∵
+26.11/6	čiyōn andar āwām āwām ō harw kē rāy baxt estēd čiyōn ān ī abāyēd madan abar rasēd ∵
+26.12/7	čiyōn az-iz ham-paywand ī awēšān pēšēnīgān ī widerdag paydāg kū
+26.13	abdom ān nēkīh ī az awēšān ō dāmān ī Ohrmazd abāyēd madan bē mad ∵
+
+26.14/8	čē az Gayōmard sūd ēn būd (kū)
+26.15	fradom ōzadan ī Arzūr ud abespārag kerdan ī tan ī xwēš meh-dādestānīhā  ō Ahrimen ∵
+26.16/9	ud didīgar sūd ēn būd kū
+26.17	mardōm  ud hamāg frawahr ī fraškerd-kerdārān (ahlawān) narān ud nāyrīgān  az tan ī ōy
+dād ∵
+26.18/10	ud sidīgar ēn (sūd) kū
+	ayōxšust-iz az tan ī ōy dād ud brēhēnīd ∵
+
+26.19/11	ud az Hōšang ī pēšdād sūd ēn būd kū
+26.20	3 bahr dēw ī māzandar  ī gēhān-marnǰēnīdār 2 bahr bē ōzad ∵
+
+25.21/12	ud az Tahmōraf  hu-rust sūd ēn būd
+26.22	kū-š gizistag Ganāy ī druwand 30 sāl pad bārag dāšt
+26.23	ud 7 ēwēnag nibēg ī dibīrīh  ī ōy druwand pad nigān dāšt bē ō paydāgīh āwurd ∵
+
+25.24/13	ud az hu-ramag ǰamšēd ī Wiwanghān  sūd ēn būd
+26.25	kū-š 600  sāl (ud 6 māh 16 rōz) a-margīh pad hāmōyēn  dām ud dahišn ī dādār Ohrmazd bē
+winnārd
+26.26	ud a-dard ud a-zarmān ud -apetyārag kerd hēnd ∵
+26.27-28/14	ud didīgar ēn (sūd) kū-š war ī ǰamkard kerd
+	ī ka ān wārān ī Malkūsān bawēd čiyōn pad dēn paydāg kū mardōm  ud abārīg dām ud dahišn ī
+Ohrmazd ī xwadāy frayist  ān ī bē abesīhēd
+26.29-31	ud pas ān war ī ǰamkard dar bē wišīhēd
+	ud mardōmān  ud gōspandān ud abārīg dām ud dahišn ī dādār Ohrmazd az ān war bē āyēnd
+	ud gēhān abāz ārāyēnd ∵
+26.32/15	ud sidīgar (ēn sūd)
+26.33	ka-š  paymān ī gētīyīg ī ōy duš-dānāg druwand (ī Ahrimen) ōbārd estād ā-š az aškom abāz
+āwurd ∵
+26.33a/16	čahārom (ēn sūd) ka-š  gōspand pad guharīg ī pīl ō dēwān  nē dād ∵
+
+26.34/17	ud az Azīdahāg ī Bēwar-asp ud gizistag Frāsiyāg ī Tūr sūd ēn būd kū
+26.35	agar xwadāyīh ō Bēwar-asp ud Frāsiyāg nē mad hē  ēg gizistag Ganāy-Mēnōy ān xwadāyīh bē
+ō Xešm dād hē
+26.36	ud ka bē ō Xešm mad hē tā ristāxēz ud tan ī pasēn nē šāyist hē  az-iš bē stadan
+26.37	ēd rāy čē-š tanōmandīh nēst ∵
+
+26.38/18	ud az Frēdōn sūd ēn būd
+26.39	čiyōn zad ud bast  ī Azīdahāg Bēwar-asp ī ēdōn garān-wināh ∵
+26.40/19	u-š anīz  was Māzandar  dēw zad  ud az kišwar ī Xwanīrah bē kerd ∵
+
+26.41/20	ud az Mānuščihr sūd ēn būd
+26.42	kū-š Salm ud Tūz pad kēn ī Ēriǰ ī-š niyāg būd (bē ōzad )
+26.43	ud az petyāragīh ī gēhān abāz dāšt
+26.44	ud az zamīg Padišxwārgar  tā bun ī Gūzag čiyōn Frāsiyāg  grift estād pad paymān az
+Frāsiyāg abāz stad  ud ō xwēšīh ī Ērān šahr āwurd
+26.44ᵃ	ud abzūdan ī zrēy  ī Kiyānsīy  čiyōn Frāsiyāg bē spurd  u-š āb aziš bē kerd ∵
+
+26.45/21	ud az Kay-Kawād sūd ēn būd kū
+26.46	andar yazdān spāsdār būd ∵
+26.47	u-š xwadāyīh xūb kerd
+26.48/22	ud paywand ud tōhmag ī kayān az ōy abāz raft ∵
+
+26.49/23	ud az Sām  sūd ēn [K43_155r] būd
+26.50	kū-š mār ī srūwar  ud gurg ī kabōd kē Pašan-iz  xwānēnd ud dēw ī ābīg
+Gandarw  ud murw  ī kamag ud dēw ī wiyābānīg  bē ōzad
+26.51	ud anīz  was kār ī wazurg ud arzōmand  kerd
+26.52	ud was petyārag az gēhān abāz dāšt
+26.53	ī ka frayist  az awēšān petyāragān ēk abāz mānd hē ristāxēz  ud tan ī pasēn kerdan nē
+šāyist hē ∵
+
+26.54/24	ud az Kāy-Us sūd ēn būd
+26.55	čiyōn (Kay) Siyāwaxš az tan ī ōy brēhēnīd
+26.56	ud  anīz  was kardagān aziš raft ∵
+
+26.57/25	ud az Siyāwaxš sūd ēn būd
+26.58	čiyōn zāyišn ī Kay-Husrōy  ud kerdan ī Kang-diz ∵
+
+26.59/26	ud az Kay-Husrōy  sūd ēn būd
+26.60	čiyōn ōzadan  ī Frāsiyāg
+26.61	ud kandan ī uzdēsčār  ī pad war ī Čēčast
+26.62	ud winnārdan ī Kang-diz
+26.63	ud rist-ārāstār Sōšāns  ī pērōzgar  rist-āxēzišnīh  ī pad tan ī pasēn ayārīh ī ōy rāy weh
+tuwān kerdan ∵
+
+26.64/27	ud az Kay-Luhrāsp sūd ēn būd
+26.65	kū-š xwadāyīh xūb kerd
+26.66	ud andar yazdān spāsdār būd ud Urišlim [K43_155v] ǰahūdān bē kand ud ǰahūdān wišuft ud
+pargandag  kerd
+26.67	ud  dēn padīriftār  Kay-Wištāsp  az tan ī ōy brēhēnīhist  ∵
+
+26.68/28	ud az (Kay) Wištāsp sūd ēn būd
+26.69	čiyōn padīriftan  ud yaštan  ī dēn ī weh ī  mazdēsnān
+26.70	pad baγān ēwāz Ahuwar gōwišn ī dādār Ohrmazd
+26.71	ud abesīhēnīdan  ud škastan ī kālbod  ī dēwān  ud druzān
+26.72	ud rāmišn ud āsānīh ī āb  ud ātaxš ud harwisp yazdān ī  mēnōyān ud  gētīyān
+26.73	ud purr-ummēdīh  ī wehān ud arzānīgān
+26.74	pad ān ī frārōn kām ō ān ī xwēš sahišn
+26.75	ud šnāyišn  ud rāmēnīdārīh ī Ohrmazd abāg amahrspandān
+26.76	ud bēšišn ud zanišn Ahrimen ud wišūdagān ∵
+
+MX.27
+27.1/1	pursīd dānāg ō mēnōy ī xrad
+27.2	kū kē wixšišnīgtar
+27.3	kē pad-nērōgtar
+27.4	kē tēztar
+27.5	kē šādtar
+27.6	kē duš-rāmišntar
+(27.6a	kē an-ummēdtar ) ∵
+
+27.7/2	mēnōy ī xrad passox kerd kū
+27.8	Ohrmazd ī xwadāy wixšišnīgtar
+27.9	(kē) 9000 sāl anāgīh pad dāmān ī xwēš az Ahrimen wēnēd
+		pas-iz bē  pad dādestān ud wixšišnīh  ēnyā-š  nē zanēd ∵
+27.10/3	ud spahr pad-nērōgtar.
+27.11/4	ud  wīr ī  [K43_156r] mardōmān  tēztar
+27.12/5	ud ruwān ī ahlawān šādtar.
+27.13/5	ud ān ī druwandān duš-rāmišntar  (ud an-ummēdtar) ∵
+
+MX.28
+28.1/1	pursīd dānāg ō mēnōy ī xrad kū
+28.2	kē pad-nigerišntar ud pānagtar abāyēd dāštan ∵
+
+28.3/2	mēnōy ī xrad  passox kerd kū
+28.4	rahīg  ī  aburnāy  ud zan  ud stōr ud ātaxš pad-pānagtar ud nigerišntar
+abāyēd dāštan ∵
+
+MX.29
+29.1/1	pursīd dānāg ō mēnōy ī xrad
+29.2	kū zīndagīh  kadām wattar
+29.3	ud pad xrad kē a-pasandišnīgtar  ∵
+
+29.4/2	mēnōy ī xrad passox kerd
+29.5	kū zīndagīh  ī ōy wattar kē pad bīm ud mihōxt zīyēd
+29.6/3	ud pad xrad ōy a-passandišnīgtar  kē pad mēnōy  nē wurrōyēd  ud gētīy ārāyēd
+∵
+
+MX.30
+30.1/1	pursīd dānāg ō mēnōy ī xrad kū
+30.2	āsrōnān ud artēštārān  ud  wāstaryōšān ǰud ǰud xwēškārīh čē ∵
+
+30.3/2	mēnōy ī xrad passox kerd kū
+30.4	āsrōnān xwēškārīh dēn xūb dāštan
+30.5	ud ēzišn ud azbāyišn  ī yazdān xūb ud  pad-nigerišn  kerdan
+30.6	ud wizir  ud dādestān  [K43_156v] ud ēwēn ud band  čiyōn az abēzag  wehdēn ī
+mazdēsnān paydāg (rāst dāštan)
+30.7	ud mardōmān  az kerbag ud wehīh  āgāhēnīdan
+30.8	ud rāh ō  wahišt  ud bīm ud pahrēz az dōšox nimūdan ∵
+
+30.9/3	artēštārān xwēškārīh dušmenān zadan
+30.10	ud šahr ud būm ī xwēš abē-bīm  ud āsān  dāštan ∵
+
+30.11/4	ud wāstaryōšān xwēškārīh warz ud ābādānīh kerdan
+30.12	ud tuwān-sāmānīhā  gēhān padēxēnīdan  ud ābādān dāštan ∵
+
+MX.31
+31.1/1	pursīd dānāg ō mēnōy ī xrad kū
+31.2	hutuxšān pēšakkārān  xwēškārīh čē ∵
+
+31.3/1	mēnōy ī xrad passox kerd kū
+31.4	pēšakkārān xwēškārīh ēn kū
+31.5	ān kār ī nē dānēnd dast awiš nē barēnd
+31.6	ud ān ī dānēnd  xūb ud pad nigerišn kunēnd
+31.7	ud mizd  dādīhā xwāhēnd ∵
+31.8/3	čē kē ān kār  ī nē dānēd pad kerdan frāz gīrēd ast ī ka  ān kār tabāh ud a-kār bawēd
+		ud ka was-iz  ōy mard kē kār xwēš hušnūdag kunēd  ēg-iz-iš [K43_157r] ān wināh
+ō bun bawēd ∵
+
+MX.32
+32.1/1	 pursīd dānāg ō mēnōy ī xrad 
+32.2	kū xwadāy
+32.3	ud sālār
+32.4	ud dōst
+32.5	ud xwēšāwand
+32.6	ud  zan
+32.7	ud frazend
+32.8	ud šahr kadām wattar  ∵
+
+32.9/2	mēnōy ī xrad passox kerd kū
+32.10	xwadāy ān wattar kū  šahr abē-bīm  ud mardōmān  abē-must  dāštan nē tuwān ∵
+32.11/3	ud sālār ān wattar kē pad hunar wad ud andar kerdārān an-espās ud hašāgirdān  nē ayār ud
+ǰādag-gōw ∵
+32.12/4	ud dōst ān wattar kē padiš wistāx būd  nē šāyēd ∵
+32.13/5	ud xwēšāwand  ān wattar ī pad astānag nē ayār ∵
+32.14/6	ud  zan ān wattar kē abāg pad rāmišn zīyistan nē šāyēd ∵
+32.15/7	ud  frazend ān wattar ī nē nām-burdār ∵
+32.16/8	ud šahr ān wattar kē pad nēkīh ud abē-bīmīh  ud āwāmīh  andar zīyistan nē šāyēd ∵
+
+MX.33
+33.1/1	pursīd dānāg ō mēnōy ī xrad kū
+33.2	dādār Ohrmazd ō gētīy tis-iz (ān)  dahišn dād kē Ahrimen petyārag awiš burdan  nē tuwān
+∵ [K43_157v]
+
+33.3/2	mēnōy ī xrad passox kerd kū
+33.4	ō ōy  ī xradōmand ud hunsand  mardōm  petyārag burd  kem šāyēd ∵
+
+MX.34
+34.1/1	pursīd dānāg ō mēnōy ī xrad
+34.2	kū čand ān  mardōm  ī pad tuwāngar ud čand ān ī pad  driyōš abāyēd dāštan ∵
+
+34.3/2	mēnōy ī xrad passox kerd kū
+34.4	ēn and  mardōm  pad tuwāngar abāyēd dāštan
+34.5	ēk ōy kē pad xrad bowandag  ∵
+34.6	ud  didīgar kē-š tan drīst ud abē-bīmīhā  zīyēd ∵
+34.7	ud sidīgar kē pad ān ī mad estēd hunsand ∵
+34.8	ud čahārom ōy kē-š brēh pad frārōnīh ayār ∵
+34.9	ud  panǰom kē pad čašm  ī yazdān ud uzwān ī wehān hu-sraw ∵
+34.10	ud  šašom kē-š wurrōyišn  abar ēn ēk abēzag wehdēn ī māzdēsnān ∵
+34.11	ud  haftom kē-š tuwāngarīh az frārōnīh ∵
+
+34.12/3	ud ēn and  mardōm  pad driyōš dārišn ∵
+34.13	ēk ān kē-š xrad nēst ∵
+34.14	ud didīgar kē-š tan nē drīst  ∵
+34.15	ud sidīgar kē-š pad bīm ud sahm ud mihōxt zīyēd ∵
+34.16	ud  čahārom [K43_158r] kē pad xwēš tan nē pādixšāy  ∵
+34.17	ud  panǰom kē-š brēh  nē ayār
+34.18	ud  šašom kē pad čašm  ī yazdān ud  uzwān ī wehān dusraw ∵
+34.19	ud  haftom kē pīr u-š  frazend ud paywand  nēst ∵
+
+MX.35
+35.1/1	pursīd dānāg ō mēnōy ī xrad
+35.2	kū wināh  kadām  garāntar ∵
+
+35.3/2	mēnōy ī xrad passox kerd kū
+35.4	az wināh  ī mardōmān  kunēnd  kūn-marz garāntar ∵
+35.5/3	ud  didīgar kē  wīftag  ud wīyēbīdag  ∵
+35.6/4	ud sidīgar kē mard ī ahlaw ōzanēd ∵
+35.7/5	ud  čahārom kē xwēdōdāh  wišōbēd ∵
+35.8/6	ud panǰom kē stūr-rāyēnīdārīh škennēd  ∵
+35.9/7	ud  6om kē ātaxš ī warahrām zanēd  ∵
+35.10/8	ud 7om kē babrag ī ābīg ōzanēd ∵
+35.11/9	ud  8om kē uzdēs  paristēd ∵
+35.12/10	ud 9om kē pad harw kēš wurrōyēd ud paristīdan kāmēd ∵
+35.13/11	ud 10om kē tis ī-š pad nigāhdārīh  padīrift  bē xwarēd ud nakkīrāy bawēd ∵
+35.14/12	ud 11om ōy kē wināhgārīh rāy abestām ō druwandīh  kunēd  ∵
+35.15/13	ud 12om kē kār nē kunēd  bē an-espāsīhā ud a-dādīhā xwarēd ∵
+35.16/14	ud 13ōm kē zandīgīh  kunēd ∵
+35.17/15	ud 14om kē ǰādūgīh kunēd ∵
+35.18/16	ud 15om kē ahlomōγīh kunēd  ∵
+35.19/17	ud 16om [K43_158v] kē dēw-ēzagīh  ∵
+35.20/18	ud 17om kē duzīh ayāb duz-abāyistīh  kunēd  ∵
+35.21 /19	ud 18om kē mihrōdruzīh  ∵
+35.22 /20	ud 19om kē kēnwarīh  ∵
+35.23/21	ud 20om kē pad tis ī kasān ō xwēš kerdan stahmagīh  kunēd  ∵
+35.24/22	ud 21om kē mard ī ahlaw bēšēd ∵
+35.25/23	ud 22om kē spazgīh ∵
+35.26/24	23om kē tar-menišnīh kunēd ∵
+35.27/25	ud 24om kē ō zan ī kārān  šawēd ∵
+35.28/26	ud 25om kē an-espāsīh kunēd ∵
+35.29/27	ud 26om kē drōw ud anāst gōwēd ∵
+35.30/28	ud 27om kē pad ān ī (uzīd ud)  widerd tis a-hunsandīh  kunēd ∵
+35.31/29	ud 28om kē rāmišn az abārōnīh  āzārišn  ī wehān ∵
+35.32/30	ud 29om kē wināh  pad rāyēnišn ud kerbag pad ranǰ ud spōz  dārēd ∵
+35.33/31	ud 30om kē pad ān nēkīh ī-š pad kas kerd abaxš bawēd ∵
+
+MX.36
+36.1/1	pursīd dānāg ō mēnōy ī xrad
+36.2	kū mardōmān  pad čand rāh ud wihān  ī kerbag ō wahišt wēš rasēnd ∵
+
+36.3/2	mēnōy ī xrad passox kerd kū
+36.4	fradom kerbag rādīh ∵
+36.5/3	ud didīgar rāstīh ∵
+36.6/4	ud sidīgar spāsdārīh ∵
+36.7/5	ud  čahārom hunsandīh  ∵
+36.8/6	ud panǰom nēkīh kerd  abāyistan  ī pad wehān ud dōst [K43_159r] būdan  ī ō harw
+kas ∵
+36.9/7	ud šašom pad ēn abē-gumān  būdan  kū āsmān ud zamīg ud harw nēkīh ī gētīy ud mēnōy
+az dādār Ohrmazd ∵
+36.10/8	ud haftom ⎧ pad abē-gumānīh ī   ēn kū hamāg anāgīh ud petyārag az Ahrimen ī druwand ī
+gizistag  ∵
+36.11/9	ud haštom abē-gumānīh ī pad ristāxēz ud tan ī pasēn ∵
+36.12/10	ud nohom  kē ruwān dōšāram rāy xwēdōdāh  kunēd  ∵
+36.13/11	ud dahom  kē stūrīh rāyēnēd ∵
+36.14/12	ud 11om kē frārōn-tuxšāgīh kunēd ∵
+36.15/13	ud dwāzdahom  kē pad ēn abēzag wehdēn ī māzdēsn abē-gumān ∵
+36.16/14	ud sēzdahom  kē pad hunar ud abzār  ī harw kas hu-čašm bawēd ∵
+36.17/15	ud čahārdahom  kē hu-čašmīh ī wehān xwāhēd  ud xwad-iz pad wehīh ī andar wehān
+wēnēd  hu-čašm bawēd ∵
+36.18/16	ud pānzdahom  kē dōšāram ī wehān xwāhēd ∵
+36.19/17	ud šāzdahom  kē kēn ud wad-dōšāramīh  az menišn dūr dārēd ∵
+36.20/18	ud haftdahom  kē arešk ī abārōn nē barēd  ∵
+36.21/19	ud haštdahom kē waran-kāmagīh nē kunēd ∵
+36.22/20	ud nōzdahom  kē an-āštīh abāg kas nē kunēd ∵
+36.23/21	ud wīstom kē pad tis ī widerd ud uzīd [K43_159v] bēš nē barēd ∵
+36.24/22	ud 21om kē xešm  ō tan nē hilēd  ∵
+36.25/23	ud 22om kē nang  rāy wināh  nē kunēd ∵
+36.26/24	ud 23om kē aǰgahānīh  rāy būšāsp  kāmag nē warzēd ∵
+36.27/25	ud 24om kē pad yazdān abē-gumān ∵
+36.28/26	ud 25om kē pad astīh  ī wahišt ud dōšox ud āmār ī pad ruwān ud xwāhrīh ī pad wahišt ud
+anāgīh ī pad dōšox abē-gumān ∵
+36.29/27	ud 26om kē az spazgīh ud čašm-areškīh  pahrēzēd ∵
+36.30/28	ud 27om kē xwad nēkīh kunēd ud ō-iz  kasān āfrāh ī nēk dahēd ∵
+36.31/29	ud 28om kē wehān ayār  ud wattarān hamēmāl bawēd ∵
+36.32/30	ud 29om kē az frēb  ud (xwad)-dōšīh xwēš  tan pahrēzēd ∵
+36.33/31	ud 30om kē drōw ud anāst nē gōwēd ∵
+36.34/32	ud 31om kē az mihrōdruzīh  xwēš tan saxt pahrēzēd ∵
+36.35/33	ud 32om kē sūd ud nēkīh ī xwēš xwāstan rāy az anāgīh kasān pahrēz kunēd ∵
+36.36/34	ud 33om kē wēmārān ud armēštān ud kārdāgān rāy spinǰānagīh  kunēd ∵
+
+MX.37
+37.1/1	pursīd dānāg ō mēnōy ī xrad [K43_160r] kū
+37.2	čē rāy ka nēkīh ī gētīy nē pad arzānīgīh baxšēnd ud ruwān pad mēnōyān pad kunišn ud
+arzānīgīh  griftār kunēnd  ∵
+
+37.3/2	mēnōy ī xrad passox kerd kū
+37.4	xwābarīh ī Ohrmazd ī xwadāy  abar dāmān rāy ham  pad wehān ud ham  pad wattarān
+hamāg nēkīh baxšēd
+37.5	bē ka-šān nē āmārīg  abar rasēd stahmagīh ī Ahrimen ud dēwān  ud apparišn  ī ān 7
+abāxtar rāy
+37.6/3	ud pad mēnōyān ēd rāy (ruwān) pad kunišn arzānīgīh griftār kunēnd  čē (harw) kas druwandīh
+pad kunišn ī xwēš kerd  bawēd ∵
+
+MX.38
+38.1/1	pursīd dānāg ō mēnōy ī xrad kū
+38.2	nērōg kadām  abāyišnīgtar ∵
+38.3/2	ud pad xrad kē bowandagtar  ∵
+38.4/3	ud pad xēm kē awestwārtar  ∵
+38.5/4	ud  gōwišn ī kē xūbtar ∵
+38.6/5	ud wehīh kē pad menišn kem ∵
+38.7/6	ud pad mihr kē wattar ∵
+38.8/7	ud  rāmišn kē kem pad menišn ∵
+38.9/8	ud pad dil kē abāyišnīgtar ∵
+38.10/9	ud pad burdārīh kē passandišnīgtar ∵
+38.11/10	ud kē pad awestwār  nē dārišn ∵
+38.12/11	ud  čē ān ī abāg harw kas sazēd  dāštan ∵
+38.13/12	ud čē ān ī abāg ēč kas nē dārišn ∵
+38.14/13	ud  kē pad ham-pursagīh dārišn  ∵
+38.15/14	ud  kē ān ī pad gugāh  [K43_160v] nē  padīrišn ∵
+38.16/15	ud  andar kē framān-burdār  abāyēd būdan  ∵
+38.17/16	ud  čē wēš abāyēd menīdan ud spās dāštan ∵
+38.18/17	ud čē ān ī pad ēč rāh an-āzarm nē kunišn
+38.19/18	kē  ān ī pad pāyag ī xwēš hāwand Ohrmazd ud amahrspandān guft estēd
+38.20/19	ud  kē ān ī pad pāyag ī xwēš hāwand Ahrimen ud dēwān  (guft estēd) ∵
+
+38.21/20	mēnōy ī xrad passox kerd kū
+38.22	pad nērōg ōy abāyišnīgtar kē ka-š xešm  gīrēd xešm bē nišāstan ud wināh nē kerdan ud xwēš
+tan  rāmēnīdan tuwān ∵
+38.23/21	ud pad xrad ōy bowandagtar kē ān ī xwēš ruwān bōxtan tuwān ∵
+38.24/22	ud pad xēm ōy awestwārtar  kē tis-iz  frēb  ud wihānag padiš nēst ∵
+38.25/23	ud  gōwišn ī ōy xūbtar kē rāsttar gōwēd ∵
+38.26/24	ud wehīh pad menišn ī xešmgen  mard kem ∵
+38.27/25	ud pad mihr kēnwar mard ī zadār wattar ∵
+38.28/26	ud   rāmišn pad menišn ī ōy areškgen  mard kem ∵
+38.29/27	ud pad dil ōy abāyišnīgtar kē  gētīy hilēd  ud mēnōy gīrēd
+38.30	ud  pad xwēš kām ahlāyīh  ō grīw  padīrēd  ∵
+38.31/28	ud pad burdārīh ōy passandišnīgtar kē anāgīh ud petyārag ī-š [K43_161r missing] az Ahrimen ud
+dēwān ud wattarān abar rasēd hunsandīhā ud pad kāmag ō grīw padīrēd
+38.32	ud pad ēč rāh ruwān ī xwēš nē āzārēd ∵
+38.33/29	ud ōy pad awestwār nē dārišn kē az yazdān bīm ud pad mardōmān  šarm nē dārēd ∵
+38.34/30	ud ān ī abāg harw kas sazēd dāštan āštīh ud dōšāram ∵
+38.35/31	ud ān ī abāg kas-iz nē dārišn kēn ud an-āštīh.
+38.36/32	ud ēn harw 3 pad ham-pursagīh dārišn humad ud hūxt ud huwaršt pad menišn ud gōwišn ud kunišn ī
+xwēš ∵
+38.37/33	ud ēn 3 pad gugāh  nē padīrišn zan ud rahīg ī abornāy  ud bandag  mard ∵
+38.38/34	ud ēn and tan framān-burdār būdan ud paristišn kerdan abāyēd
+38.39	zan andar šōy
+38.40	ud frazend andar pid ud mād  ud sālār ud dastwar ud awestād  ud stūr ud paywand ī armēšt
+38.41	ud andar xwadāyān ud sālārān ud awestādān framān-burdār būdan  ∵
+38.42/35	ud yazdān wēš abāyēd menīdan ud spās dāštan ∵
+38.43/36	ud ruwān ī xwēš pad ēč dar an-āzarm nē kunišn
+38.44	ud hamēšag andar ayād dārišn ∵
+38.45/37	ud dādwar kē dādwarīh rāst kunēd  ud pārag nē stānēd  pad pāyag ī xwēš hāwand Ohrmazd
+ud amahrspandān (guft estēd) ∵
+38.46/38	ud ān kē dādwarīh drōw kunēd  pad pāyag ī xwēš hāwand Ahrimen ud dēwān guft estēd ∵
+
+MX.39
+39.1/1	pursīd dānāg ō mēnōy ī xrad kū
+39.2	čē sardtar ud čē garmtar ∵
+39.3/2	ud čē rōšntar ud čē tārīktar ∵
+39.4/3	ud čē purrtar ud čē tuhīgtar ∵
+39.5/4	ud čē frazām abē-bartar  ∵
+39.6/5	ud čē ān tis kē kas (aziš) sagrīh nē bawēd ∵
+39.7/6	čē ān ī kas appurd nē tuwān ∵
+39.8/7	ud čē ān tis ī pad wahāg  xrīdan  nē šāyēd ∵
+39.9/8	ud čē ān tis ī harw kas hamē aziš hušnūd ∵
+39.10/9	čē ān ī kas-iz aziš nē hušnūd ∵
+39.11/10	ud čē ān ī ēk kāmag ī Ohrmazd ī xwadāy az mardōmān  (sahēd) ∵
+39.12/11	ud čē ān ēk kāmag ī Ahrimen ī druwand az mardōmān  sahēd ∵
+39.13/12	čē frazām ī gētīy ud čē frazām ī mēnōy ∵
+
+39.14/13	mēnōy ī xrad passox kerd kū
+39.15	dil ī ahlawān garmtar ud ān ī druwandān sardtar ∵
+39.16/14	ud ahlawīh rōšntar ud druwandīh  tārīktar ∵
+39.17/15	ud ēmēd ud panāh ī ō yazdān [K43_162r] purrtar ud  ān ī ō  dēwān tuhīgtar ∵
+39.18/16	ud  gētīy-ārāy  ud  mēnōy-wišōb mard frazām abē-bartar ∵
+39.19/17	ud dānagīh ast kē kas sagrīh aziš nē dānēd  ∵
+39.20/18	ud frahang ud hunar ast kē az kas appurdan  nē tuwān ∵
+39.21/19	ōš ud wīr ast kē pad wahāg  xrīdan  nē šāyēd ∵
+39.22/20	ud xrad ast kē harw kas xwēš  tan aziš abē-must ud hušnūd ∵
+39.23/21	stardīh ud duš-āgāhīh ast kē harw kas xwēš  tan  aziš mustōmand ud nē hušnūd ∵
+
+39.24/22 	ān ēk kāmag ī Ohrmazd ī xwadāy az mardōmān  sahēd ēn
+39.25	kū man  bē šnāsēd
+	čē harw kē man bē šnāsēd  az pas man āyēd ud ō hušnūdagīh ī man tuxšēd ∵
+39.26/23	ud ān ēk kāmag ī Ahrimen az mardōmān sahēd ēn
+39.27	kū man ma šnāsēd
+	čē dānēd  kū kē ōy druwand bē šnāsēd az pas ī ōy anāg-kunišn nē šawēd
+39.28	u-š tis-iz nērōg ud ayārīh az ōy mardōm  nē bawēd ∵
+
+39.29/24	ud ān ī-t mēnōy ud gētīy [K43_162v] rāy pursīd gētīy pad frazām margīh ud a-paydāgīh
+39.30	ud mēnōy pad frazām ān ī ahlawān  ruwān a-zarmān ud a-marg ud a-petyārag  ud purr-
+xwarrah ud purr-rāmišn tā hamē ud hamē-rawišnīh abāg yazdān ud amahrspandān ud frawahr ī
+ahlawān ∵
+39.31/25	ud puhl ud drōš ud pādifrāh  ī druwandān pad dōšox tā hamē ud hamē-rawišnīh
+39.32	ud ān ī druwandān  ruwān ǰud az pādifrāh  būdan  ud (ǰud az) wēnišn-iz ī abāg dēwān
+ud druzān ēdōn sahēd čiyōn pad gētīy mardōm  ī tan drīst  abāg ān ī garāntar wēmār ∵
+
+MX.40
+40.1/1	pursīd dānāg ō mēnōy ī xrad kū
+40.2	mard kadām tagīgtar ∵
+40.3/2	ud rāh kadām bīmgentar  ∵
+40.4/3	ud āmār kadām škefttar.
+40.5/4	ud bōy kadām  xwaštar.
+40.6/5	ud kār kadām pašēmāntar .
+40.7/6	ud dāšn kadām abē-sūdtar  ∵
+
+40.8/7	mēnōy ī xrad passox kerd kū
+40.9	mard ān tagīgtar kē abāg druz  ī xwēš kōšīdan tuwān
+40.10	ud pad nāmčišt kē  ēn 5 druz az tan dūr dārēd
+40.11	ī čiyōn ast āz ud xešm  ud waran ud nang ud a-hunsandīh  ∵
+40.12/8	ud  rāh andar bē- [K43_163r] -widerišnīh ī Činwar  puhl  bīmgentar  ∵
+40.13/9	ud āmār ī pad ruwān ī druwandān škefttar.
+40.14/10	ud bōy ī frazendān xwaštar ud abāyišnīgtar .
+40.15/11	ud kār ān pašēmāntar ī an-espāsān rāy kunēnd  ∵
+40.16/12	ud dāšn ān abē-sūdtar  ī ō (an-espāsān ud) an-arzānīgān dahēnd ∵
+
+MX.41
+41.1/1	pursīd dānāg ō mēnōy ī xrad kū
+41.2	mardōm  čand sardag hēnd ∵
+
+41.3/2	mēnōy ī xrad passox kerd kū
+41.4	mardōm  sē  sardag hēnd ∵
+41.5	ēk mardōm  ud ēk nēm-mardōm ud ēk nēm-dēw ∵
+
+41.6/3	ud mardōm ān bawēd kē pad dādārīh  ī  Ohrmazd ud marǰēnīdārīh ī Ahrimen ud
+būdan  ī ristāxēz  ud tan ī pasēn
+		ud abārīg-iz harw nēkīh ud anāgīh ī pad gētīy ud mēnōy abē-gumān  kū
+41.7	bun az awēšān harw 2 az Ohrmazd ud Ahrimen ∵
+41.8/4	u-š wurrōyišn  pad ēn ēk abēzag dēn ī weh ī mazdēsnān
+41.9	ud pad ēč ǰud-ristagīh nē wurrōyēd ud nē niyōšēd ∵
+
+41.10/5	ud  nēm-mardōm  ān bawēd kē tis ī gētīy ud mēnōy pad sahišn ī xwēš kunēd
+		ud xwēš-xradīhā  ud xwad-dōšagīhā
+41.11	ast kār ud kerbag ī [K43_163v] pad kāmag ī Ohrmazd ud ast ī  pad kāmag ī Ahrimen aziš
+rawēd ∵
+
+41.12/6	ud  nēm-dēw ān bawēd kē-š bē čiyōn nām ī mardōmīh  ud mardōm-zādagīh
+padiš
+		ēg-iš pad harw kār ud  kunišn ō dēw ī 2-pāy homānāg
+41.13	ud nē gētīy šnāsēd  ud nē mēnōy
+41.14	nē kerbag šnāsēd  ud nē wināh
+41.15	ud nē wahišt šnāsēd  ud nē dōšox
+41.16	ud āmār-iz ī pad ruwān nē handēšēd ∵
+
+MX.42
+42.1/1	pursīd dānāg ō mēnōy ī  xrad kū
+42.2	Ohrmazd ud  amahrspandān ud wahišt ī hu-bōy ī hurām pad čē abērtar ō xwēš šāyēd
+kerdan
+42.3	ud Ahrimen ī druwand ud dēwān stōw  kerdan ud az dōšox ī duš-wahāg  ud tārīk rastan
+čiyōn šāyēd ∵
+
+42.49/2	mēnōy ī xrad passox kerd kū
+42.5	Ohrmazd ī xwadāy ud amahrspandān ud  wahišt ī hu-bōy ī hurām ō xwēš (kerdan)
+		ud Ahrimen ī druwand ud dēwān stōw kerdan
+		ud az dōšox ī tārīk ī  duš-wahāg rastan ēdōn šāyēd
+42.6	ī  ka mēnōy ī xrad pad puštībānagīh  gīrēnd
+42.7	ud mēnōy ī  hunsandīh zēn ud zrēy  ud gurdīh homānāg pad tan paymōzēnd [K43_164r]
+42.8	ud mēnōy ī rāstīh spar  kunēnd
+42.9	ud mēnōy ī  spāsdārīh  wazr
+42.10	ud mēnōy ī bowandag-menišnīh  kamān
+42.11	ud  mēnōy ī rādīh tigr
+42.12	ud mēnōy ī paymān nēzag homānāg kunēnd
+42.13	mēnōy ī tuxšāgīh  abdast
+	ud mēnōy ī brēh pad panāh frāz gīrēnd ∵
+42.14/3	pad ēn ēwēnāg ō wahišt ud wēnišn ī yazdān madan ud az Ahrimen ī druwand ud dōšox ī duš-wahāg
+bōxtan šāyēd ∵
+
+MX.43
+43.1/1	pursīd dānāg ō mēnōy ī xrad kū
+43.2	āsmān ud zamīg čiyōn winnārd estēd ∵
+43.3/2	ud āb andar gēhān rēzišn ud winnārišn čiyōn ∵
+43.4/3	ud abr  ō kū nišinēd ∵
+43.5/4	ud zamestān dēw kū pādixšātar  ∵
+43.6/5	ud šahr kadām a-petyāragtar ∵
+
+43.7/6	mēnōy ī xrad passox kerd
+43.8	kū āsmān ud zamīg ud āb ud abārīg harw čē andarrōn xāyag-dēs  ēdōn homānāg čiyōn murwān
+xāyag  ∵
+43.9/7	ud  āsmān azabar zamīg  (ud azēr zamīg) xāyag homānāg pad dast-kārīh ī dādār Ohrmazd
+winnerd estēd ∵
+43.10/8	ud zamīg andar mayān āsmān hangōšīdag ēdōn homānāg čiyōn zardag mayān xāyag ∵
+43.11/9	(ud āb andar zamīg ud āsmān ēdōn čiyōn āb andar xāyag ∵)
+
+43.12/10	ud hāmōyēn  āb ī andar gēhān rēzišn az Arzah  kišwar
+43.13	ānōh kū xwaršēd [K43_164v] ul āyēd nixwārišn  ō Sawah  kišwar
+43.14	(ānōh) kū xwaršēd  frōd šawēd nixwārišn  ī āb andar zrēy  ī Pūdīg
+43.15	ud az zrēy  ī Pūdīg  abāz ō zrēy ī Warkaš šawēd ∵
+
+43.16/11	ud  abr māništ ud nišast pad Harborz ∵
+43.17/12	ud zamestān dēw pad Ērānwēz pādixšātar  ∵
+
+43.18/13	ud az dēn paydāg kū
+43.19	pad Ērānwēz 10  māh zamestān ud 2 māh hāmīn
+43.20	ud  ān-iz dō māh ī tābēstān sard āb ud sard zamīg ud sard urwar ∵
+43.21/14	u-šān petyārag zamestān
+43.22-23	ud mār (ī?) pad-iš wasyār tā-šān  abārīg petyārag kem  ∵
+
+43.24/15	ud paydāg kū Ohrmazd Ērānwēz az abārīg gyāgān ud rōstāgān weh dād
+43.25/16	u-š wehīh ēn kū mardōmān  zīndagīh 300 sāl
+43.26	ud gāwān ud gōspandān 100 ud 50 sāl ∵
+43.27/17	u-šān dard ud wēmārīh kem
+43.28	ud drōw nē dranǰēnd
+43.29	ud šēwan ud mōyag nē kunēnd
+43.30	ud Āz dēw pad tan ī awēšān pādixšāyīh  kem ∵
+43.31/18	ud pad 10  mard  nān-ēw ka xwarēnd sagr hēnd ∵
+43.32/19	ud pad harw 40 sāl az zan-ēw ud mard-ēw frazend-ēw zāyēd
+43.33/20	u-šān dād wehīh ud dēn [K43_165r] pōryōtkēšīh
+43.34	ud ka mīrēnd  ahlaw hēnd ∵
+43.35/21	u-šān rad Gōbed(-šāh) ud xwadāy ud pādixšāy  Srōš ∵
+
+MX.44
+44.1/1	pursīd dānāg ō mēnōy ī xrad kū
+44.2	Ahrimen mardōmān  pad čē wēš frēbēd  ud ō dōšox nayēd
+44.3/2	u-š rāmišn az čē wēš
+44.4	ud bunag kū gyāg dārēd ∵
+44.5/3	u-š abāg dēwān rasišn kū wēš ∵
+44.6/4	u-š xwarišn az čē  ∵
+
+44.7/5	mēnōy ī xrad passox kerd
+44.8	kū Ahrimen mardōmān pad frāybūd  ud aibībūd  ud druz ī ahlomōγīh  ud
+gumāngarīh  ud āzwarīh wēš frēbēd  ∵
+44.9/6	u-š rāmišn az an-āštīh ī mardōmān wēš ∵
+44.10/7	u-š xwarišn a-pattūdagīh  ud a-paydāgīh ī mardōmān
+44.11	ud bunag pad (spazgān)  kēnwarān dārēd ∵
+44.12/8	u-š rasišn ud rawišn abāg xešmenān  wēš ∵
+
+MX.45
+45.1/1	pursīd dānāg ō mēnōy ī xrad kū
+45.2	Ahrimen pad mardōmān  stahm-ēw  kadām pad ziyāntar ud meh dārēd ∵
+
+45.3/2	mēnōy ī xrad passox kerd kū
+45.4	Ahrimen ka az mardōmān zīndagīh ud zan ud frazend ud hāmōyēn  nēkīh ī gētīyīg  bē
+apparēd [K43_165v] nē pad ēd dārēd kū-š tis-iz ziyān pad ōy kas kerd
+45.5	bē ka-š ān ī ēw-tāg  ruwān bē apparēd ud tabāh bē kunēd  ēg pad ēd dārēd
+		kū-m ziyān-ēw ī bowandag padiš kerd
+	ay čē-š ēn pad abāyist  ud  kunišn ud tanōmandīh  ī xwēš kerd ∵
+
+MX.46
+46.1/1	pursīd dānāg ō mēnōy ī xrad kū
+46.2	ud čē ān tis ī  az harw xwāstag pahlomtom
+46.3/2	ud čē ān ī abar harw tis  pādixšāy  ∵
+46.4/3	ud čē ān ī kas aziš wirēxtan  nē tuwān ∵
+
+46.5/4	mēnōy ī xrad passox kerd kū
+46.6	xrad ast ī weh az hāmōyēn  xwāstag ī pad gēhān ∵
+46.7/5	ud baxt  ast ī abar harw kas ud harw tis pādixšāy ∵
+46.8/6	ud Wāy ī wattar (ast) kē kas aziš wirēxtan nē tuwān ∵
+
+MX.47
+47.1/1	pursīd dānāg ō mēnōy ī xrad kū
+47.2	mardōmān  ōš ud wīr  ud tōm māništ andar tan čiyōn ∵
+
+47.3/2	mēnōy ī xrad passox kerd
+47.4	kū ōš ud wīr ud tōhm ī mardōmān  gāh pad mazg ī sar ∵
+47.5/3	ud ka mazg ī sar drīst  ōš ud wīr ud tōhm [K43_166r] pad abzāyišn (bawēd) ∵
+47.6/4	ud ka mardōm bē ō pīrīh rasēd mazg ī sar bē ō kāhišn  estēd ∵
+47.7/5	ud ōy ī pīr mardōm  kāhišn ī ōš ud wīr rāy ān ī pad xrad abāyēd kerdan kem wēnēd ud kem
+dānēd  ∵
+47.8/6	ud xrad pad fradomīh ō mazg ī angust ī dast ī mardōmān gumēzēd
+47.9	u-š pas nišēm  ud estišn  ud  gāh pad dil ∵
+47.10/7	u-š māništ andar hamāg tan ēdōn bawēd čiyōn pāy kālbod  andar mōzag  ∵
+
+MX.48
+48.1/1	pursīd dānāg ō mēnōy ī xrad kū
+48.2	ēn stārag ī pad āsmān  paydāg u-šān marag ēdōn  was ēg-išān kār ud rāyēnišn čē
+48.3/2	ud rawišn ī xwarxšēd  ud māh ud stāragān čiyōn ∵
+
+48.4/3	mēnōy ī xrad passox kerd kū
+48.5	az stāragān ī pad āsmān fradom stārag ī  Tištar  meh ud weh ud arzōmandtar ud
+xwarrahōmandtar guft estēd ∵
+48.6/4	ud hāmōyēn  bahrōmandīh  ud padēxīh ī gēhān pad rāh ī Tištar ∵
+48.7/5	ud stārag ī āb-čihrag pad abzāyišn ī (āb)
+48.8	(ud stārag ī zamīg-čihrag pad abzāyišn ī zamīg)
+	{ star ī urwar- [K43_166v] -čihrag ī }
+48.9	ud stārag ī urwar-čihrag  pad (abzāyišn ī urwar
+48.10	ud stārag ī gōspand-čihrag pad) abzāyišn ī gōspand
+48.11	ud āb  ud zamīg  ud urwar ud gōspand-čihrag pad abzāyišn ī mardōmān  dād estēd ∵
+
+48.12/6	ud stārag ī Wanand pad widargīhā ud  darīhā ī Harborz gumārd estēd
+48.13	kū dēwān  ud parīgān ud druzān az ān dar ud widarg wardēnd
+48.14	kū-šān rāh ud widarg ī xwarxšēd ud māh ud stāragān brīdan ud škastan nē tuwān ∵
+
+48.15/7	ud stārag ī Haftōring  abāg 9 ud 90 ud 900 ud 9000 ud 9 bēwar frawahr ī ahlawān pad dar ud
+widarg ī dōšox gumārd estēd
+48.16	pad abāz dāštan ī ān 9 ud 90 ud 900 ud 9000 ud 9 bēwar dēwān ud druzān ud parīgān ud
+ǰādūgān  ī  pad hamēstārīh ī spihr ud axtarān hēnd ∵
+48.17/8	u-š rawišn pērāmōn ī dōšox ∵
+48.18/9	u-š mādagwar kār ēn čiyōn 12 kadag ī axtarān pad dast dārēd pad drīst šudan ud āmadan ∵
+48.19/10	ud awēšān-iz [K43_167r] 12 axtarān hamgōnag pad nērōg ud ayārīh ī   Haftōring  rawēnd
+∵
+48.20/11	ud harw axtar-ēw ka pad Harborz andar rasēd pušt ō  Haftōring  kunēd
+48.21	ud panāh az Haftōring  xwāhēd ∵
+
+48.22/12	ud  abārīg a-mar  ud an-ōšmār  axtarān ī paydāg hēnd frawahr ī gētīyān  guft
+estēd
+48.23	čē hāmōyēn  dām ud dahišn ī dādār Ohrmazd ō gētīy dād
+		kē zāyišnīg  ud kē-iz  ārōyišnīg hē
+	harw tan ēw  rāy ham-gōhr frawahr ēw  ī  xwēš paydāg ∵
+
+48.24/13	ud rawišn ī xwarxšēd ud māh  mādagwar rōzēnīdārīh ī gēhān
+48.25	ud pazzāmēnīdan  ī harwistīn  zāyišnān  ud rōyišnān
+48.26	ud drīst dāštan ī rōz ud māh ud sāl ud hāmīn  ud zamestān ud wahār  ud pādēz ud abārīg
+harwistīn mar ud hangārag  ī mardōmān  šāyēnd ayāftan ud dīdan  ud
+dānistan
+48.27	wihēzag ī xwarxšēd ud māh rāy abērtar paydāg ∵
+
+MX.49
+49.1/1	pursīd dānāg ō mēnōy ī xrad kū
+49.2	kadām ān tuwāngar  ī pad farrox ud kadām ān ī pad duš-farg  dārišn ∵ [K43_167v]
+
+49.3/2	mēnōy ī xrad passox kerd kū
+49.4	ān kē tuwāngarīh az frārōn-tuxšagīh kerd estēd pad farrox ud ān kē az abārōnīh kerd estēd pad duš-
+farg dārišn ∵
+
+MX.50
+50.1/1	pursīd dānāg ō mēnōy ī xrad kū
+50.2	čē rāy ka aǰgahān  ud duš-āgāh  ud wad mard ast ī ka ō burzišn ud nēkīh ī wazurg rasēd ∵
+50.3	ud ōy ī šāyendag  ud  dānāg ud weh mard ast ī ka ō garān anāgīh ud škeftīh ud
+niyāzōmandīh  rasēd ∵
+
+50.4/2	mēnōy ī xrad passox kerd kū
+50.5	ōy ī aǰgahān  ud duš-āgāh ud wad mard ka-š brēh ayār bawēd ēg-iš ān aǰgahānīh  ō
+tuxšāgīh ud ān duš-āgāhīh ō dānagīh ud ān wattarīh ō wehīh homānāg bawēd ∵
+50.6/3	ud ōy ī dānāg ud šāyendag  ud weh mard ka-š  brēh hamēmāl  ēg-iš ān   dānagīh ō
+a-dānīh  ud halagīh ud ān šāyendagīh  ō duš-āgāhīh  wardēd
+50.7	ud dānišn [K43_168r] ud hunar ud šāyendagīh armēšt  paydāg bawēd ∵
+
+MX.51
+51.1/1	pursīd dānāg ō mēnōy ī xrad kū
+51.2	ēzišn  ī yazdān ud spāsdārīh ī pad nēkīh ī az yazdān čiyōn abāyēd kerdan ∵
+51.3/2	ud petītīgīh  ī pad ruwān-bōxtārīh čiyōn kunišn ∵
+
+51.4/3	mēnōy xrad passox kerd kū
+51.5	ēzišn ī yazdān ān weh  ī  pad ēn abēzag weh-dēn ī mazdēsnān kunēnd
+51.6/4	u-š bun wehīh ud rāstīh ud abē-gumānīh  ī  pad yazdān.
+51.7/5	ud pad andak ud was ī mad estēd andar yazdān spāsdār  būd
+	ud pad šnūmagān ud ābādīh ī az yazdān menīdan ud spās dāštan  ∵
+51.8/6	ud  ka-iz az Ahrimen ud dēwān škeftīh ud anāgīh abar rasēd pad xīr ī yazdān warōmand nē
+būdan  ∵
+
+51.9	ud spāsdārīh ī andar yazdān nē kāhēnīdan  ∵
+51.10/7	ud harw wizend ī ǰahēd abāz ō stahmagīh ī Ahrimen ud dēwān dādan ∵
+51.11/8	ud nēkīh ud sūd ī xwēš pad ziyān ī anīy kas nē xwāstan
+51.12	ud pad dāmān ī [K43_168v] Ohrmazd aboxšāyišnīg  būd
+51.13/9	ud pad kār ud kerbag tuxšāg ud kōšišnīg (būdan)
+51.14	nāmčišt pad pahrēz ī āb ud ātaxš (ud urwar) wēš tuxšīdan ∵
+51.15/10	ud pad ēn abē-gumān  būd kū
+		yazdān ō mardōmān  bē nēkīh ēnyā tis-iz ǰuttarīh nē   dahēnd ∵
+		ud Ahrimen ud dēwān bē anāgīh ēnyā ēč nēkīh nē  dahēnd ∵
+
+51.16/11	ud  petītīg būd rāy mādagwar tis ēn kū wināh nē kunēd  xwēš-kāmīhā
+51.17/12	ud agar a-dānīh ayāb wastārīh  ud duš-āgāhīh rāy wināh-ēw ǰahēd
+		ēg pēš  ī dastwarān ud wehān pad petīt  bawēd
+51.18/13	ud pas az ān (ka) nē kunēd
+	ēg ān wināh  ī-š kerd estēd az tan ī ōy ēdōn ēwārag  bawēd
+51.19	čiyōn wād ān ī staft-tag ka tēz ud saxt  āyēd
+	ud dašt ēdōn frāz  mālēd kū harw giyāgīzag-ēw ud tis-ēw ī ān gyāg kaft  estēd bē
+barēd  ∵ [K43_169r]
+
+MX.52
+52.1/1	pursīd dānāg ō mēnōy ī xrad
+52.2	kū namāz ud stāyišn ī yazdān čiyōn kunišn ∵
+
+52.3/2	mēnōy ī xrad passox kerd kū
+52.4	harw rōz 3 bār padīrag xwaršēd  ud mihr čiyōn pad āgenēn rawēnd estād  (namāz ud
+stāyišn kunišn)
+52.5	ud hamgōnag māh ud ātaxš warahrān  ayāb ātaxš ī ādarōg bāmdād ud nēmrōz ud ēbārag
+namāz ud stāyišn kerd
+52.6	ud spāsdār būd  ∵
+52.7/3	ud agar pargast  andar yazdān ī mēnōyān ud gētīyān ud mardōmān  ud stōrān ud gāwān ud
+gōspandān  ud sagān ud sag-sardagān ud abārīg dām ud dahišn ī Ohrmazd ī xwadāy wināh-
+ēw ayāb frōd-mānd-ēw ǰast  (estēd)
+52.8	pēš  ī xwaršēd  ud  mihr ud māh ud ātaxš ī Ohrmazd abaxš ud pašēmān  ud pad
+petīt  būd
+52.9	ud wināh wizārišn rāy čand weh šāyēd kerbag warzīdan ∵
+
+MX.53
+53.1/1	pursīd dānāg ō mēnōy ī xrad kū
+53.2	čē rāy ka duš-āgāh mard ka-š āfrāh awiš barēnd  frahang ud āfrāh ī [K43_169v] dānāgān ud
+wehān ēdōn pad āz  wēš dārēd kū awiš hammōxtan  dušwār ∵
+
+53.3/2	mēnōy ī xrad passox kerd kū
+53.4	ēd rāy čē duš-āgāh mard duš-āgāhīh ī xwēš pad menišn ēdōn weh dārēd čiyōn dānāg dānāgīh ī xwēš
+pad menišn ∵
+
+MX.54
+54.1/1	pursīd dānāg ō mēnōy ī xrad kū
+54.2	čē rāy ōy ī wad-gōhr mard wehān nē dōst ud an-abzār mard abzārōmandān  ∵
+
+54.3/2	mēnōy ī xrad passox kerd kū
+54.4	ēd rāy čē ōy ī wad-abzār mard harw  gāh az abzārōmandān bīm
+54.5	kū-mān pad hunar ud abzār ēranǰēnd
+	ud az ān bahrag (rāy) pēš  wehān ud hamēmālān  šarmgenīh  abar rasēd ∵
+54.6/3	ud wad-gōhr (mard) ēd rāy wehān nē dōst bawēnd čē-šān zamān ī pad abesīhēnišn  ud
+zanišn  az dast ī wehān bawēd ∵
+
+MX.55
+55.1/1	pursīd dānāg ō mēnōy ī xrad kū
+55.2	ēn kōfīhā ud drayā’īhā  ī pad  [K43_170r] gēhān čē rāy  kerd estēd ∵
+
+55.3/2	mēnōy ī xrad passox kerd kū
+55.4	ēn kōfīhā ī pad gēhān ast ī wād-hangēxtār ud ast ī abāz-dāštār
+55.5	ud ast ī gyāg  ud rāyēnāg ud nišēm ud awestām ī abr ī wārendag
+55.6	ud ast ī zadār ī Ahrimen  ud dēwān ud dāštār ud zīyēnīdār ī dām ud dahišn ī Ohrmazd ī xwadāy
+∵
+55.7/3	ud ēn drayā  ī pad gēhān pānagīh-kerdārīh ud zīyēnīdārīh  ī  dām ud dahišn ī xwēš rāy
+dādār Ohrmazd az kanār ī Harborz kerd estēd ∵
+
+MX.56
+56.1/1	pursīd dānāg ō mēnōy ī xrad kū
+56.2	čē rāy ka mēnōyān ud gētīyān dānišn ud kār-āgāhīh  harw 2 band ō tō paywast ∵
+
+56.3/2	mēnōy ī xrad passox kerd kū
+56.4	ēd rāy čē az fradom man  kē āsn-xrad ham az mēnōyān ud gētīyān abāg Ohrmazd būd ham ∵
+56.5/3	ud dādār Ohrmazd mēnōy ud gētīy-dahišnān  yazdān ud abārīg hamāg dām ud dahišn
+		pad nērōg [K43_170v] ud tagīgīh ud dānāgīh ud kār-āgāhīh  ī āsn-xrad
+	āfrīd ud dād  ud dārēd ud rāyēnēd ∵
+
+56.6/4	ud pad fraškerd sar abesīhēnīšn  ud zanišn ī Ahrimen u-š  wišūdagān pad xrad nērōg
+abērtar šāyēd kerdan ∵
+56.7/5	ud Sōšāns abāg Kay-Husrōy ud awēšān kē ristāxēz ud tan ī pasēn kunēnd  nērōg ud ayārīh ī
+xrad rāy abērtar kerdan šāyēnd ∵
+
+56.8/6	ud  dānišn ud kār-āgāhīh ī gētīy ud frahang ud hammōzišn ī pad harw pēšag ud hamāg
+rāyēnīdārīh ī āwāmīgān pad xrad bawēd ∵
+56.9/7	ud ruwān ī ahlawān pad bōxtan ī az dōšox ud madan ī ō wahišt ud  Garōdmān nērōg ud pānagīh
+ī xrad rāy abērtar rasēnd ∵
+56.10/8	ud mardōmān  pad gētīy weh-zīyišnīh ud rāmišn ud hu-srawīh  ud harw nēkīh pad nērōg ī
+xrad šāyēd xwāstan ∵
+56.11/9	ud tōm ī mardōmān  ud stōrān ud gāwān ud gōspandān ud abārīg-iz harw dām ud dahišn ī
+Ohrmazd ī xwadāy dāštan nišāstan ī [K43_171r] andar aškom
+	ud  ka az gursagīh  ud tišnagīh  bē nē mīrēnd ud paydāg kerdan ī-šān xwarišn andar
+aškom ud baxšišn  ud pazzāmišn ī hannāmān <ywl’wylyh>  ud meh-ōzīh  ī pad
+zōr ī xrad rāy abērtar kunīhēnd  ∵
+
+56.12/10	 ud  winnārišn ī  zamīg ud gumēzišn ī āb andar zamīg ud rōyišn ud waxšišn ī urwar ud
+rang ī gōnag gōnag ud bōy ud mizag  ud xwašīh ī tis tis pad xrad abērtar baxt ud kerd estēd
+∵
+56.13/11	ud winnārišn ī Harborz pērāmōn  gēhān ud paydāgēnīdan ī haft-kišwar zamīg ud āsmān
+azabar  kōf ī Harborz
+	ud rawišn  ī xwarxšēd  ud māh ud 12 axtarān  ud 6 gāh ī gāhānbār ud 5 gāh ī
+frawardīgān
+	ud wahišt ī pad humad-gāh ud hūxt-gāh ud huwaršt-gāh  ud hamāg-xwāhrīh ī  Garōdmān ī
+pahlom
+	ud widarg ī mēnōyān ud gētīyān ud  puhl ī Čandwar  pad nērōg ī xrad kerd ud baxt
+estēd ∵
+
+56.14/12	ud  abr ī māwēnag  āb az zrēy  stadan  ud pad andarwāy [K43_171v] rāyēnīdan
+ud paymānīgīhā srešk  srešk ō zamīg waštan
+
+	ud bē dānistan  ī  dām ī Ohrmazd (ud Ahrimen) čiyōnīh ī wahišt ud dōšox
+	ud xwābarīh ī Ohrmazd ī xwadāy ud amahrspandān ud abārīg yazdān abar dāmān ī xwēš ∵
+	ud zadārīh ud marnǰēnīdārīh ī Ahrimen ud dēwān abar dāmān ī Ohrmazd pad nērōg abērtar  ī
+xrad šāyēd dānistan ∵
+56.15/13	ud dēn ī weh ī mazdēsnān ud  gōwišn ud čāšišn ī mēnōyān
+	ud škastan ī dēwān kālbod  ī gētīyīg  ud  a-paydāg  kerdan ī az wēnišn ī
+mardōmān  pahlomtom abzār ī xrad rāy abērtar kirīhist  ∵
+56.16/14	ud kōxšīšn-iz  ud kārezār ī Ērān abāg an-ērān
+	ud zanišn ī Ahrimen ud dēwān pad nērōg ī xrad šāyēd kerdan ∵
+
+56.17/15	āb-iz ī nihānīg azēr zamīg xwarxšēd-nigerišn  kerdan ud  ō warz ud ābādānīh ud sūd ud
+āsānīh ud rāmišn ī mardōmān  ud stōrān ud gāwān ud gōspandān pad nērōg  ī xrad
+šāyēd burdan  ∵
+
+56.18/16	dard [K43_172r] ud wēmārīh ī mardōmān ud stōrān ud gāwān ud gōspandān ud abārīg gyānwarān bē
+šnāxtan •
+	ud dārūg ud darmān ud tan-drīstīh ud āsānīh awiš burdan nērōg ī xrad rāy abērtar šāyēnd kerdan ∵
+
+56.19/17	ud harw mardōm kē az xrad bahrwarīh wēš ēg-iš wahišt bahr abērtar (windēnd) ∵
+56.20/18	ud Wištāsp-iz ud Zardušt ud Gayōmard ud abārīg awēšān kē az wahišt bahr abērtar (windād) wēš
+awiš madārīh ī xrad rāy ∵
+56.21/19	ud J̌am ud Frēdōn ud Kāy-Us ud abārīg awēšān xwadāyān kē az yazdān  warz ud tagīgīh
+(wēš) windād  čiyōn Wištāsp
+	ud abārīg xwadāyān kē  az dēn bahrwarīh būd ud nē madan ī awēšān ō dēn
+	ud pad-iz ān ī ka andar xwēš xwadāy an-espās būd hēnd kem awiš madārīh ī xrad rāy ∵
+56.22/20	ud Ahrimen-iz ud dēwān ōy mard wēš frēbēnd  ud ō dōšox nayēnd  kē az xrad driyōštar ud
+pad xēm sabuktar ∵
+
+56.23/21	ud paydāg kū [K43_172v] ōy kē  pad xēm nēk ud barišn  nēk ēg-iš spās az xrad dārišn
+∵
+56.24/22	čē paydāg kū Ahrimen ō Zardušt drāyist kū
+		agar az ēn dēn ī weh ī  mazdēsnān abāz ēstē  ēg-it hazār sāl xwadāyīh  ī
+gēhān  daham
+56.25		čiyōn Wadagān dahībed Dahāg dād ∵
+56.26/23	Zardušt purr-xradīh rāy xēm ud barišn ī frārōn (rāy) nē niyōxšīd  ud nē wiyābīhist pad ān
+wiyābānīh ī gizistag Ganāy ī druwand frēftag ud wiyābān nē būd ∵
+56.27/24	u-š ō Ahrimen guft kū
+56.28	škennam  ud gugānam   u-t nigōnsār    kunam  kālbod  ī ašmāh
+dēwān ud druzān ud ǰādūgān ud parīgān
+		pad hōm ud  barsom ud dēn ī rāst ī weh kē  dādār Ohrmazd ō man čāšt  ∵
+56.29/25	Ahrimen ka-š ān saxwan  āšnūd sturd  ud stōw būd
+	ud ō dōšox dwārist ud dagrand zamān stard  estād ∵
+
+56.30/26	ēn-iz paydāg kū Ohrmazd ka Ahrimen abāg-iš hāmōyēn  dām ud dahišn pad paymān
+[K43_173r] frāz kerd  būd
+	pas abāg hāmōyēn yazdān ud amahrspandān hanǰaman kerd
+	u-š az ān ī xwēš xrad ābādīh guft ud hangārd ∵
+
+56.31/27	ud ēn-iz paydāg kū
+	9000 sāl ī fraškerd tā ristāxēz  ud tan ī pasēn hāmōyēn dām ud dahišn (pad) xrad dārēd ud
+rāyēnēd ∵
+
+56.32/28	ud ēn-iz paydāg kū
+	ōy ī duš-āgāh ud wad-xēm mard ka was-iz  ō burzišn ud tuwāngarīh  ud pādixšāyīh
+rasēd
+	pas-iz pad ān nēkīh ud pādixšāyīh  burzīdan nē abāyēd ∵
+
+MX.57
+57.1/1	pursīd dānāg ō mēnōy ī xrad kū
+57.2	čē rāy ka pādixšāy  ī duš-āgāh pādixšāyīh  rāy  ī-š ast
+		duš-āgāhīh ud halagīh abāz ō dānāgīh ud hunarāwandīh wardēd ∵
+57.3	ud driyōš  ī dānāg (ī a-wināh) driyōšīh rāy
+		dānāgīh ud kār-āgāhīh  ī-š ast abāz ō halagīh ud abē-sūdīh  wardēd ∵
+
+57.4/2	mēnōy ī xrad passox kerd kū
+57.5	frēbišn  ud stahmagīh ī āz druz rāy
+57.6		mardōmān  harw kē-š xwāstag ud tuwāngarīh  wēš [K43_173v] pad mardōmīh  ī ōy
+saxwan  wēš gōwēnd ud kunišn ud kerdārīh abērtar hangārēnd
+57.7/3	bē pad čašm ī yazdān ud amahrspandān driyōš ī a-wināh ud dānāg weh ud grāmīgtar kū pādixšāy ī
+tuwāngar  ī duš-āgāh ∵
+
+MX.58
+58.1/1	pursīd dānāg ō mēnōy ī xrad kū
+58.2	čē āhōg ī āsrōnān
+58.3	ud čē āhōg ī artēštārān
+58.4	ud čē āhōg ī wāstaryōšān
+58.5	ud čē āhōg ī hutuxšān ∵
+
+58.6/2	mēnōy ī xrad passox kerd kū
+58.7	āhōg ī  āsrōnān ahlomōγīh ud āzwarīh ud framōšīdārīh ud sūdagīh ud xwurdag-nigerišnīh ud
+duš-wurrōyišnīh ī pad dēn ∵
+58.8/3	ud  āhōg ī  artēštārān stahmagīh ud zadārīh ud mihrōdruǰīh ud an-aboxšāyāwandīh  ud
+daxšīh ud āzardanīh ud tar-menišnīh ∵
+58.9/4	ud āhōg ī wāstaryōšān duš-āgāhīh  ud čašm-arēškīh  ud wad-xwāhīh ud kēnwarīh ∵
+58.10	ud  āhōg ī hutuxšān duš-wurrōyišnīh  ud an-espāsīh ud abārōn-drōzišnīh ud tundīh ud
+duš-ēwāzīh ∵ [K43_174r]
+
+MX.59
+59.1/1	pursīd dānāg ō mēnōy ī xrad kū
+59.2	mardōm  pad wehīh ud wattarīh kadām āšnāgtar ∵
+
+59.3/2	mēnōy ī xrad passox kerd kū
+59.4	mardōm  kē-š nišast ud kār abāg wattarān  u-š nām pad hu-srawīh ud wehīh barēnd
+		mard pad wehīh ān āšnāgtar ∵
+59.5/3	ud ān kē-š nišast ud kār abāg wehān  u-š nām pad dusrawīh   ud wattarīh  barēnd
+		mard pad wattarīh ān āšnāgtar ∵
+59.6/4	čē guft estēd kū
+59.7	kē abāg wehān paywandēd wehīh (abāg bē āwarēd)
+59.8	ud kē abāg wattarān paywandēd wattarīh abāg bē  āwarēd
+59.9	ēdōn čiyōn wād ī ka ō gandagīh pahikafēd gandagīh (abāg bē āwarēd)
+59.10	ud ka ō hu-bōyīh pahikafēd hu-bōyīh (abāg bē āwarēd)
+59.11	pas dān  kū
+59.12	ān kē kār abāg wehān wehīh padīrēd
+59.13	ud kē kār abāg wattarān wattarīh (padīrēd)
+59.14	bē pas-iz  harw 2 pad uzmāyišn dārišn ∵
+
+MX.60
+60.1/1	pursīd dānāg ō mēnōy ī xrad kū
+60.2	rad ī mardān kē rad ī zanān kē
+60.3	ud rad ī aspān kē [K43_174v] ud  rad ī wāyēndagān kē
+60.4	(ud rad ī gāwān kē) ud rad ī dadān kē ud  rad ī ǰōrdāyān kē ∵
+
+60.5/2	mēnōy ī xrad passox kerd kū
+60.6	mard ī dānāg ī dēn āstawān ī hu-spās ī rāst-gōwišn abar hamahlān rad ∵
+ 60.7/3	zan ī ǰuwān ī drīst-gōhr ī awestwār  ī hu-sraw ī hu-xēm ī kadag-abrōz kē šarm ud bīm nēk
+	ud  xwēš pid  ud niyāg ud šōy ud sālār dōst
+	ud hu-čihr  ud meh-kūn abar zan(ān) ī xwēš hamahlān rad ∵
+60.8/4	gāw ī xwarrahōmand ī burz-gōš  ī ramagōmand abar gāwān rad ∵
+60.9/5	čihrāb murwān rad ∵
+60.10/6	asp ī arwand aspān rad ∵
+60.11/7	xargōš dadān rad gandum  ǰōrdāyān  rad ∵
+
+MX.61
+61.1/1	pursīd dānāg ō mēnōy ī xrad
+61.2	kū Kang-diz kū gyāg estēd ∵
+61.3/2	war ī ǰamkard kū kerd estēd ∵
+61.4/3	tan ī Sām  kū gyāg nibayēd ∵
+61.5/4	ud  mānišn ī Srōš kū ∵.
+61.6/5	xar ī 3-pāy kū gyāg estēd ∵
+61.7/6	hōm ī rist-ārāstār kē rist padiš wirāyēnd ud tan ī pasēn padiš kunēnd  kū rust estēd  ∵
+61.8/7	Gōbedšāh  pad kadām  [K43_175r] gyāg (estēd) ∵
+61.9/8	Kar-māhīg pad čē kār gumārd estēd ∵
+61.10/9	Sēn-murw āšiyān  kū  dārēd ∵
+61.11/10	Čīnāmrōš kū gyāg nišinēd u-š kār čē ∵
+
+61.12/11	mēnōy ī xrad passox kerd kū
+61.13	Kang-diz pad ōšastar  rōn nazdīk ō Sadwaēs  gumārd estēd
+61.14	pad wimand ī Ērānwēz ∵
+
+61.15/12	ud war ī J̌am-kerd pad Ērānwēz azēr zamīg kerd estēd ∵
+61.16/13	ud harw ēwēnag tōm  ī hamāg dām ud dahišn ī Ohrmazd ī xwadāy  az mardōm  ud
+stōr ud gōspand ud wāyendag harw čē wehtar ud pad-wizīntar ō ānōh burd  estēd ∵
+61.17/14	ud harw 40 sāl az  zan-ēw ud mard-ēw ī ān gyāg hēnd frazend-ēw zāyēd
+61.18	u-šān zīndagīh 300 sāl
+61.19	u-šān dard ud petyārag kem ∵
+
+61.20/15	ud tan ī Sāhm  pad dašt ī Pēšānsīy  nazdīk ō kōf ī Damāwand (estēd) ∵
+61.21/16	ud pad ān dašt bē ǰōrdāy  ud xwarišnīg tis ī   kārēnd ud drūnēnd ud pad-iš zīyēnd tā
+		anīy drūnāy  ud draxt  [K43_175v] ud urwar nēst
+61.22	u-š zargōnīh frayist <dlymk> ∵
+61.23/17	ud yazdān ud amahrspandān tan ī Sāhm rāy 9 ud 90  ud 900 ud 9000 ud 9 bēwar frawahr  ī
+ahlawān pad panāgīh gumārd  estēnd
+61.24		kū-š dēwān ud druzān nē wināhēnd  ∵
+
+61.25/18	māništ ī Srōš frayist pad Arzah  ud pas pad-iz  Sawah ud hamāg gēhān ∵
+
+61.26/19	xar ī 3 pāy  mayān zrēy  ī Warkaš nišīnēd ∵
+61.27/20	ud hāmōyēn  āb ī ō nasāy ud daštān ud abārīg hixr (ud rēmanīh) wārēd
+	ka ō xar ī 3 pāy rasēd hāmōyēn pad wēnišn  pāk ud yōǰdahr kunēd  ∵
+
+61.28/21	ud hōm ī rist-wirāstār pad zrēy ī Warkaš andar ān ī zofāytom gyāg rust estēd ∵
+61.29/22	u-š 9 ud 90  ud 900 ud 9000 ud 9 bēwar frawahr ī ahlawān pad  panāgīh gumārd
+estēnd
+61.30/23	u-š Kar-māhīg  pērāmōn hamē gardēd u-š wag ud abārīg xrafstar aziš abāz  dārēd  ∵
+
+61.31/24	Gōbedšāh  [K43_176r] pad Ērānwēz andar kišwar ī Xwanīrah (estēd)
+61.32	ud az pāy tā  nēm-tan gāw ud az nēm-tan tā  azabar mardōm
+61.33	ud hamwār  pad drayā-bār  nišinēd
+61.34	ud ēzišn  ī yazdān hamē kunēd  ud zōhr ō  zrēy hamē  rēzēd
+61.35	kē rāy pad ān zōhr-rēzišnīh a-mar xrafstar andar zrēy bē mīrēnd ∵
+61.36/25	čē agar pargast  ōy  ān ēzišngarīh  nē kunēd ud ān zōhr ō ān zrēy nē rēzēd  kū ān
+a-mar xrafstar bē (nē) abesīhēd
+	ēg  ⎧hamē ka wārišn   wārād  xrafstar ēdōn wārēd  čiyōn wārān ∵
+
+61.37/26	Sēn-murw āšiyānag  pad Wan ī  ǰud-bēš ī was-tōhmag
+61.38	ud hamē ka abar āxēzēd 1000 tāg  az ān draxt  bē rōyēd
+61.39	ud ka nišīnēd 1000 tāg bē škennēd u-š tōm aziš ōsānēd .
+
+61.40/27	ud Čīnāmrōš murw ham (pad) ān nazdīkīh nišīnēd
+61.41	u-š kār ēn kū ān tōm  ī az Wan ī was-tōhmag ī ǰud-bēš ōsānēd ōy čīnēd
+	ud ānōh kū Tištar āb  stānēd  parganēd
+61.42	kū [K43_176v] tā Tištar āb abāg ān harwistīn tōm stānād  ud  abāg ān wārān pad gēhān
+wārād ∵
+
+MX.62
+62.1/1	pursīd dānāg ō mēnōy ī xrad kū
+62.2	kadām ān kerbag ī az (harw) kerbagān  meh ud weh (ud arzōmandtar)
+	u-š tis-iz (ranǰ ud) uzēnag pad kār nē abāyēd ∵
+
+62.3/2	mēnōy ī xrad passox kerd kū
+62.4	andar yazdān  (ud wehān) spāsdār būd
+62.5	ud  harw kas rāy nēkīh xwāstan
+62.6	(ud andar harw gāh ud zamān Ohrmazd pad dādārīh ud Ahrimen pad marnǰēnīdārīh menīdan ud
+andar ayād dāštan
+	ud pad astīh ī yazdān ud dēn ud ruwān ud wahišt ud āmār ī pad Sidōš ud būdan ī ristāxēz ud tan ī
+pasēn abē-gumān būdan ∵
+	mādagwartom) ēn az harw kerbag meh ud weh u-š ēč (ranǰ ud) uzēnag  pad kār nē abāyēd ∵
+	drōdīh  ud baxtagīh  ∵
+-->
