@@ -1,0 +1,53 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+# This schema is for coordinating multiple editions of a single work across
+# Middle Persian (Pahlavi) and multiple New Persian versions. This schema tracks
+# these separate versions of the work in separate files, cross-referencing them 
+# by section and technical terms.
+
+# Several generations of editors have already divided the Pahlavi version into
+# both "sections" (consisting of a theological question and answer) and subsections
+# loosely approximating sentences.
+
+
+start = work
+work = element work { metadata, document }
+
+metadata = element metadata { title, title_trans, call_no}
+
+title = element title {text}
+title_trans = element title_trans {text}
+call_no = element call_no {text}
+
+
+document = element document { section* }
+
+section = element section { id, question, answer }
+
+id = attribute id {text}
+
+question = element question { s* }
+
+answer = element answer { s* }
+
+s = element s { sid, mixed { folio?, term* } }
+
+# The <sid> is inherited from an edited version of the text, but I am the
+# one to match it to the New Persian version.
+sid = attribute sid {text}
+
+folio =  element folio { no, empty }
+no = attribute no {text}
+
+# This element is the heart of the research question: how does the New Persian
+# version "translate" concepts from Middle Persian? In essence, this is a question
+# of translating Zoroastrian concepts to Islamic ones. Central to that question
+# is whether the concept is directly transliterated, or not.
+# The <code> element serves as a direct reference to the same position of that
+# particular term in a separate document.
+
+term = element term {type, code, text}
+type = attribute type {"translit" | "trans"}
+code = attribute xml:id { xsd:ID }
+
+
