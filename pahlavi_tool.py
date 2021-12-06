@@ -36,52 +36,52 @@ df_pahcorp.sample(5)
 
 
 # ----
-# 
+#
 # ## Key Word in Context
 
 # In[25]:
 
 
 def index_kwic (term):
-    
+
     """This function returns a dataframe filtered by the search term."""
-    
+
     result = df_pahcorp[df_pahcorp['token'].str.match(term)]
     return result
-    
+
     # str.match; the str part is telling match how to behave; .match is a method specific to pandas
-    
-    
-# add regex functionality: 
+
+
+# add regex functionality:
 
 
 # In[26]:
 
 
 def kwic_pah (term):
-    
+
     for i, item in index_kwic(term).iterrows():
-        
+
         title = item["title"]
         line = item["line"]
-        
+
         filtered = df_pahcorp[(df_pahcorp['title']==title)&(df_pahcorp['line']==line)]
         # equivalent syntax: df_pahcorp.query(f'title == "{title}" and line == {line}')
-        
+
         filtered = filtered.sort_values("index")
         # probably already sorted, but better to be on the safe side
-                
+
         text = " ".join(filtered["token"])
-        
+
         print(f'{title}: {line}\n{text}\n')
-        
+
         # task: figure out how to color code results; termcolor package, has to be installed
 
 
 
-        
+
 # iterrows(): research what this does exactly, has something to do with dataframes being composed of series
-        
+
 
 
 # In[ ]:
@@ -116,9 +116,9 @@ cd_index = []
 length = len(indexed)
 for i in range(length):
     cd_index.append((indexed[i]-1, indexed[i], indexed[i]+1))
-    
-    
-    
+
+
+
 # now need to use this (and counter module?) to count frequency of the terms immediately before and after, i.e. positions 0 and 2 in the tuple
 
 
@@ -178,7 +178,3 @@ query.head()
 
 
 # In[ ]:
-
-
-
-
