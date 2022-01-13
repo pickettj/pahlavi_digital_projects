@@ -1,8 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[13]:
+# # Pahlavi Tool
+# James Pickett
 
+# In[45]:
+
+
+#import relevant libraries
 
 import os, re
 
@@ -10,7 +15,15 @@ import pandas as pd
 from pandas import DataFrame, Series
 
 
-# In[6]:
+# In[46]:
+
+
+# general function in Pandas to set maximum number of rows; otherwise it abridges and only shows a few
+
+pd.set_option('display.max_rows', 300)
+
+
+# In[51]:
 
 
 #set home directory path
@@ -22,159 +35,214 @@ pah_path = hdir + "/Dropbox/Active_Directories/Digital_Humanities/Corpora/pahlav
 #pickle path
 pickle_path = hdir + "/Dropbox/Active_Directories/Digital_Humanities/Corpora/pickled_tokenized_cleaned_corpora"
 
+# dataset path
+ds_path = hdir + "/Dropbox/Active_Directories/Digital_Humanities/Datasets"
 
-# In[7]:
+
+# ### Read-in Data
+
+# In[126]:
 
 
+#read in main corpus dataset
 df_pahcorp = pd.read_csv (os.path.join(pickle_path,r'pahlavi_corpus.csv'))
 
+#df_pahcorp.sample(5)
 
-# In[8]:
+
+# In[68]:
 
 
-df_pahcorp.sample(5)
+#read in dictionary
+## Format: UID, Transcription, Translit_Mac, Translit_Skj, New Persian
+
+pahlavi_terms = pd.read_csv(ds_path + "/exported_database_data/pahlavi_terms.csv", names=['UID', 'Transcription',                                                 'Translit_Mac', 'Translit_Skj', 'New_Persian'])
+
+## Format: UID, Term_ID, Definition
+pahlavi_definitions = pd.read_csv(ds_path + "/exported_database_data/pahlavi_definitions.csv", names=['UID', 'Term_ID', 'Definition'])
+
+#pahlavi_terms.sample(5)
+#pahlavi_definitions.sample(5)
+
+
+# In[128]:
+
+
+# Joining Terms and Definitions
+
+merged_pahdic = pd.merge(left=pahlavi_terms, right=pahlavi_definitions, how='left', left_on='UID', right_on='Term_ID')
+#merged_pahdic.sample(5)
+
+
+# ### Help Function
+
+# In[167]:
+
+
+def pah_help ():
+    print ("Pahlavi Tool: Functions and Explanation\n\n           \tpah_def: returns the word-match's definition ordered by frequency value in the corpus\n           \tkwic_pah: key word in context function\n           \tfreq_dic: how often doses the term appear in the corpus\n           \tconfreq: bigram conditional frequency; optional 'group = True' argument organizes by text"
+          )
+
+
+# In[170]:
+
+
+#pah_help()
 
 
 # ----
-#
+# 
 # ## Key Word in Context
 
-# In[25]:
+# In[88]:
 
 
 def index_kwic (term):
-
+    
     """This function returns a dataframe filtered by the search term."""
-
+    
     result = df_pahcorp[df_pahcorp['token'].str.match(term)]
     return result
-
+    
     # str.match; the str part is telling match how to behave; .match is a method specific to pandas
+    
 
 
-# add regex functionality:
-
-
-# In[26]:
+# In[6]:
 
 
 def kwic_pah (term):
-
+    
     for i, item in index_kwic(term).iterrows():
-
+        
         title = item["title"]
         line = item["line"]
-
+        
         filtered = df_pahcorp[(df_pahcorp['title']==title)&(df_pahcorp['line']==line)]
         # equivalent syntax: df_pahcorp.query(f'title == "{title}" and line == {line}')
-
+        
         filtered = filtered.sort_values("index")
         # probably already sorted, but better to be on the safe side
-
+                
         text = " ".join(filtered["token"])
-
+        
         print(f'{title}: {line}\n{text}\n')
-
+        
         # task: figure out how to color code results; termcolor package, has to be installed
 
 
 
-
+        
 # iterrows(): research what this does exactly, has something to do with dataframes being composed of series
+        
 
 
-
-# In[ ]:
-
-
-#df_pahcorp["token"] == "afsōn"
+# In[89]:
 
 
-# In[27]:
-
-
-kwic_pah ("hāmōn")
-
-
-# In[ ]:
-
-
-# Conditional frequency
-
-# two problems: (1) find where the words are; (2) find what words are next to a particular location
-
-# collect on i-1 i+1; counter is a function in the collections module that takes a list and turns it into a frequency dictionary
-## A column is technically a series, which can work like a list.
-
-
-# In[ ]:
-
-
-indexed = list(index_kwic('hāmōn').index)
-
-cd_index = []
-length = len(indexed)
-for i in range(length):
-    cd_index.append((indexed[i]-1, indexed[i], indexed[i]+1))
-
-
-
-# now need to use this (and counter module?) to count frequency of the terms immediately before and after, i.e. positions 0 and 2 in the tuple
-
-
-# In[ ]:
-
-
-cd_index
-
-
-# In[ ]:
-
-
-#for x in cd_index:
-#    print (cd_index[x][1])
-
-
-# In[ ]:
-
-
-cd_index[1][1]
-
-
-# In[ ]:
-
-
-df_pahcorp.iloc[240938]
+#kwic_pah("p.d")
 
 
 # ## Frequency
 
-# In[11]:
+# In[121]:
 
 
 freq_dic = pd.value_counts(df_pahcorp.token).to_frame().reset_index()
-
-
-# In[12]:
-
-
 freq_dic.sample(5)
 
 
-# In[21]:
+# In[100]:
 
 
-search_term = re.compile(r"p..z")
+def freq (term):
+    query_mask = freq_dic["index"].str.contains(term, na=False)
+    query = freq_dic[query_mask]
+    result = query.head()
+    return (result)
 
 
-# In[23]:
+# In[104]:
 
 
-query_mask = freq_dic["index"].str.contains(search_term, na=False)
-query = freq_dic[query_mask]
-query.head()
-
-# turn into a function, just return top hits
+#freq("p.d")
 
 
-# In[ ]:
+# In[165]:
+
+
+# addiing the frequency data into the dictionary
+
+# need to turn the transcribed word into a unique identifier (will lose some data):
+merged_pahdic_clean = merged_pahdic.drop_duplicates(subset=['Transcription'], keep='first')
+
+# merge with frequency data based on the unique identifier:
+merged_pahdic_freq = pd.merge(left=merged_pahdic, right=freq_dic, how='left', left_on='Transcription', right_on='index')
+
+# clean up for readability
+cleaned_merged_pahdic_freq = merged_pahdic_freq.drop(columns=['UID_y', 'Term_ID', 'index']).rename(columns={'UID_x': 'UID', 'token': 'Frequency'})
+
+#cleaned_merged_pahdic_freq.sample(5)
+
+# ?? how to get rid of those decimal points / why did they enter in the first place?
+
+
+# ### Get Definition with Frequency
+
+# In[163]:
+
+
+def pah_def (term):
+    query_mask = cleaned_merged_pahdic_freq["Transcription"].str.contains(term, na=False)
+    query = cleaned_merged_pahdic_freq[query_mask]
+    result = query.sort_values('Frequency', ascending=False).head()
+    return (result)
+    
+    
+
+
+# In[166]:
+
+
+#pah_def("p.d")
+
+
+# ## Conditional Frequency
+
+# In[110]:
+
+
+def confreq (term, group=False):
+    sel = df_pahcorp[df_pahcorp['token']==term].copy()
+    sel['index_next'] = sel['index'] + 1
+    sel = sel.join(
+        df_pahcorp.set_index(['title', 'line', 'index'])['token'].rename('token_next'),
+        on=['title', 'line', 'index_next']
+    )
+    # If there are only 1-frequency results, it will still show them;
+    # but if there are enough higher frequency results, it will omit the 1-frequency results.
+    result = sel['token_next'].value_counts()
+    short_result = [(x,y) for x,y in result.items() if y > 1]
+    if len(short_result) > 5:
+        result = short_result
+    # improvement: create a list of omitted words (e.g. ud, ī, etc.), and make a flag1=False
+    # optional argument to omit them.
+    
+    if group == True:
+        result = sel.groupby('title')['token_next'].value_counts().rename("count").reset_index()
+    
+    return (result)
+    
+
+
+# In[116]:
+
+
+#confreq ('may', group = True)
+
+
+# In[169]:
+
+
+pah_help()
+
