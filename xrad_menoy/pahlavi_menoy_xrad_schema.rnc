@@ -13,10 +13,11 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start = work
 work = element work { metadata, document }
 
-metadata = element metadata { title, title_trans, call_no}
+metadata = element metadata { title, title_trans, author?, call_no?}
 
 title = element title {text}
 title_trans = element title_trans {text}
+author = element author{text}
 call_no = element call_no {text}
 
 
